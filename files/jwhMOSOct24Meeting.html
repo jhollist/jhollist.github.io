@@ -913,38 +913,18 @@ endorsement or recommendation for use. </p>
 </section>
 <section data-transition="linear" data-transition-speed="default">
 <h3>Lake Morphometry</h3>
-<div class="column column1 slideContent" >
+<div class="slideContent" >
+<h2>Volume (2010)</h2>
+
 <p><a href="http://www.tandfonline.com/doi/abs/10.1080/07438141.2010.504321"><img src="https://raw.github.com/jhollist/MOSCollab/master/images/VolumeGraph.jpg" alt="VolumeGraph"/></a></p>
-
-
-</div>
-
-<div class="column column2 slideContent" >
-
-
-<ul>
-<li>Lake Volume (2010)</li>
-<li>Lake Depth (2011)</li>
-<li>National Lake Morphometry Dataset (In Process)</li>
-</ul>
 
 </div>
 
 </section>
 <section data-transition="linear" data-transition-speed="default">
 <h3>Lake Morphometry</h3>
-<div class="column column1 slideContent" style="width: 43%;" >
-<ul>
-<li>Lake Volume (2010)</li>
-<li>Lake Depth (2011)</li>
-<li>National Lake Morphometry Dataset (In Process)</li>
-</ul>
-
-
-</div>
-
-<div class="column column2 slideContent" style="width: 53%;" >
-
+<div class="slideContent" >
+<h2>Depth (2011)</h2>
 
 <p><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025764"><img src="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0025764.g002&amp;representation=PNG_M" alt="SurroundingTopography"/></a></p>
 
@@ -953,18 +933,19 @@ endorsement or recommendation for use. </p>
 </section>
 <section data-transition="linear" data-transition-speed="default">
 <h3>Lake Morphometry</h3>
-<div class="column column1 slideContent" >
+<div class="slideContent" >
+<h2>National Lake Morphometry Dataset (2013)</h2>
 
-</div>
+<pre><code class="r">#Function to calculate shoreline development
+#TO DO:
+#  check for null lake
+lakeShorelineDevelopment&lt;-function(inLakeMorpho)
+{
+  return((gLength(inLakeMorpho$lake))/
+                    (2*sqrt(pi*gArea(inLakeMorpho$lake))))
+}
 
-<div class="column column2 slideContent" >
-
-
-<ul>
-<li>Lake Volume (2010)</li>
-<li>Lake Depth (2011)</li>
-<li>National Lake Morphometry Dataset (In Process)</li>
-</ul>
+</code></pre>
 
 </div>
 
@@ -972,6 +953,10 @@ endorsement or recommendation for use. </p>
 <section data-transition="linear" data-transition-speed="default">
 <h3>Improving Predictions</h3>
 <div class="slideContent" >
+<ul>
+<li>Nutrients</li>
+<li>Chlorphyl <em>a</em></li>
+</ul>
 
 </div>
 
