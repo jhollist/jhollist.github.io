@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.png">
+    <link rel="shortcut icon" href="bootstrap-3.0.0/assets/ico/favicon.png">
 
-    <title>Jeffrey W Hollister - Landscape Ecology, Lakes, GIS, R, and Open Science </title>
+    <title>Jeffrey W. Hollister</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="jumbotron-narrow.css" rel="stylesheet">
+    <link href="sticky-footer-navbar.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -25,21 +24,45 @@
 
   <body>
 
-    <div class="container">
-      <div class="header">
-        <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="researchProducts.html">Research Products</a></li>
-          <!--<li><a href="#">About</a></li>
-          <li><a href="contact.html">Contact</a></li>-->
-        </ul>
-        <h3 class="text-muted">Jeffrey W. Hollister</h3>
+    <!-- Wrap all page content here -->
+    <div id="wrap">
+
+      <!-- Fixed navbar -->
+      <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Jeffrey W Hollister</a>
+          </div>
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">C.V.<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Education</a></li>
+                  <li><a href="#">Employment</a></li>
+                  <li><a href="researchProducts.html">Research Products</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
       </div>
 
-      <div class="jumbotron">
-        <h1>Jeffrey W. Hollister</h1>
+      <!-- Begin page content -->
+      <div class="container">
+        <div class="page-header">
+          <h1>Jeffrey W. Hollister</h1>
+        </div>
         <p class="lead">Landscape Ecology, Lakes, GIS, R, and Open Science</p>
-        <p class="text-left"><small>Dr. Jeffrey W. Hollister is a landscape ecologist with expertise in the
+        <p>Dr. Jeffrey W. Hollister is a landscape ecologist with expertise in the
         spatial component of ecology and environmental sciences. He holds a Bachelors degree in 
         Biology from Baker University, a Master's Degree in Resource Ecology from Duke University, 
         and a Ph. D. in Environmental Science from the University of Rhode Island. Dr. Hollister's 
@@ -49,41 +72,21 @@
         research applications in ecology and environmental science. Recently, Dr. Hollister's 
         research focus has been on how nutrients in Northeastern lakes and ponds drive risk due to
         cyanobacterial blooms and how data science, open science, and web 2.0 may benefit 
-        environmental science.</small></p>
+        environmental science.</p>
+      </div>
+    </div>
 
-        
-        <!-- <p><a class="btn btn-lg btn-success" href="#">Sign up today</a></p> -->
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted credit">Example courtesy <a href="http://martinbean.co.uk">Martin Bean</a> and <a href="http://ryanfait.com/sticky-footer/">Ryan Fait</a>.</p>
       </div>
-      <div class="row marketing">
-        <div class="col-lg-6">
-         <h4>Contact Information:</h4>
-         <p>
-         <address>
-         12 Fox Ct.<br>
-         Wakefield, RI 02879<br>
-         Mobile:(401) 556-4087<br>
-         Email: <a href="mailto:jeff.w.hollister@gmail.com">jeff.w.hollister@gmail.com</a><br>
-         </address>
-         </p>
-        </div>
-        <div class="col-lg-6">
-         <h4>Social Media, etc:</h4>
-         <p>
-         Twitter: <a href="https://twitter.com/jhollist">@jhollist</a><br>
-         Facebook: <a href="https://www.facebook.com/jeffrey.hollister">Jeffrey Hollister</a><br>
-         LinkedIn: <a href="http://www.linkedin.com/profile/view?id=10140372">Jeffrey Hollister</a><br>
-         Google Scholar: <a href="http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en">JW Hollister</a><br>
-         ORCID: <a href="http://orcid.org/0000-0002-9254-9740">0000-0002-9254-9740</a> <br>
-         ImpactStory: <a href="http://impactstory.org/JeffreyHollister">Jeffrey Hollister</a><br>
-         </p>
-        </div>
-      </div> <!-- /container -->
-      <div class="footer">
-        <p>&copy; Jeffrey W Hollister 2013</p>
-      </div>
+    </div>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../../assets/js/jquery.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
   </body>
 </html>
