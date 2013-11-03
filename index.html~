@@ -33,7 +33,7 @@
     <!-- Wrap all page content here -->
     <div id="wrap">
 
-      <!-- Fixed navbar -->
+      <!-- Fixed navbar
       <div class="navbar navbar-default navbar-fixed-top">
         <div class="container">
           <div class="navbar-header">
@@ -59,12 +59,13 @@
                 </ul>
               </li>
             </ul>
-          </div><!--/.nav-collapse -->
+          </div><!--/.nav-collapse 
         </div>
-      </div> 
+      </div> -->
      
 
-      <!-- Begin page content -->    
+      <!-- Begin page content -->
+ <div class="navbar"></div>      
 <div class="container">
         <div class="page-header">
           <h2>Home</h2>
