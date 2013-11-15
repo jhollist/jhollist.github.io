@@ -14,21 +14,23 @@
    <link href="css/bootstrap.css" rel="stylesheet">
 
    <!-- Custom styles for this template -->
-   <link href="sticky-footer-navbar.css" rel="stylesheet">
-   
-   <!-- JQuery -->
-   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-   
-   <!-- Google Analytics -->
-   <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+   <link href="jwhollister.css" rel="stylesheet"> 
 
-  ga('create', 'UA-43969710-2', 'jwhollister.com');
-  ga('send', 'pageview');
-  </script>
+   
+   <!-- JQuery-->
+   <script src="http://code.jquery.com/jquery-1.9.1.js"></script> 
+   
+   <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+     ga('create', 'UA-43969710-2', 'jhollist.github.io');
+     ga('send', 'pageview');
+
+   </script>
+   
 </head>
 <body>
 <div id="wrap">
@@ -46,14 +48,10 @@
       <p>I work for the US Environmental Protection Agency's Atlantic Ecology Divsion where I study lakes and cyanobacteria. I am a landscape ecologist by training. The primary focus of my work is developing tools (GIS, R, Python etc.) to advance our groups research.</p>
    </div>
 </div>
-<div id="footer">
-   <div class="container">
-     <p class="text-muted credit"><a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" 
-     src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a>  This work is licensed under a <a rel="license" 
-     href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.  Site built off of 
-     <a href="http://getbootstrap.com">Twitter Bootstrap</a> and the 
-     <a href="http://getbootstrap.com/examples/sticky-footer-navbar/">Sticky footer with navbar example</a>.</p>
-   </div>
+<div id="foot"></div>
+   <script>
+   $( "#foot" ).load( "foot.html" );
+   </script>
 </div>
 
 
