@@ -157,6 +157,12 @@ header#logo h1{
   margin-bottom: 30px;
 }
 
+div#cv section {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
 section ul li {
   list-style-type: square;
   list-style-position: inside;
