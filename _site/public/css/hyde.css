@@ -223,10 +223,10 @@ a:focus {
  * Sidebar banner for housing site name, intro, and colophon (footer).
  */
 
-/* Sidebar masthead */
+/* Sidebar masthead  */
 .masthead {
   color: #fff;
-  background-color: #072045;
+  background-color: #2a2a2a;
 }
 .masthead-inner {
   padding: 20px;
@@ -497,3 +497,13 @@ a:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Dark Blue (@jhollist) */
+.theme-base-0g .masthead {
+  background-color: #072045;
+}
+.theme-base-0g .container a,
+.theme-base-0g .related-posts li a:hover {
+  color: #072045;
+}
+
