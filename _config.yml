@@ -1,12 +1,13 @@
-title:        Hyde
-tagline:      'Hyde, a Jekyll theme'
-description:  'An elegant open source and mobile first theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:          http://andhyde.com
-version:      1.1.1
+title:        'Jeffrey W. Hollister'
+tagline:      ''
+description:  'Landscape Ecology, Lakes, GIS, R, and Open Science'
+url:          http://jwhollister.com
+version:      0.0.1
 author:
-  name:       ''
-  email:      ''
+  name:       'Jeffrey W. Hollister'
+  email:      'hollister.jeff@epa.gov'
 markdown:     rdiscount
 permalink:    pretty
-pygments:     true
+highlighter:  pygments
 paginate:     5
+discuss:      true
