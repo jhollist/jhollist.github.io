@@ -2,29 +2,6 @@
 layout: page
 title: About
 ---
+I am a landscape ecologist with expertise in the spatial component of ecology and environmental sciences. I hold a Bachelor's degree in Biology from Baker University, a Master's Degree in Resource Ecology from Duke University, and a Ph. D. in Environmental Science from the University of Rhode Island. Since, May of 2006, I have worked as a Research Ecologist with the US EPA's Atlantic Ecology Division in Narragansett, RI.  My past experience is in applications of geospatial technologies (such as geographic information systems, spatial statistics, and remote sensing) to environmental research and broad scale environmental monitoring, modeling and assessment.  Currently, my research focus is on how nutrients drive risk of cyanobacterial blooms in lakes and ponds.  An unifying theme to my research is using Open Science (Open Access, Open Source, and Open Data) to benefit environmental science.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+![image_of_jeff](/public/images/jeff.png)

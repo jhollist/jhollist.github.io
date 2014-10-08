@@ -248,3 +248,26 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* @jhollist Blue */
+  .theme-base-0g .sidebar {
+    background-color: #162d50;
+  }
+  .theme-base-0f .content a,
+  .theme-base-0f .related-posts li a:hover {
+    color: #162d50;
+  }
+  .theme-base-0g h1, h2, h3, h4, h5, h6 {
+    color: #162d50;
+  }
+  .theme-base-0g .page-title, .post-title, .post-title a {
+  color: #162d50;
+  }
+  .theme-base-0g .sidebar-about h1 {
+    color: #fff;
+    margin-top: 0;
+    font-family: "Abril Fatface", serif;
+    font-size: 2.75rem;
+  }
+  .theme-base-0g .sidebar {
+  text-align: left;
