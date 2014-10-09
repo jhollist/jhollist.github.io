@@ -46,7 +46,7 @@ layout: none
 
 And I have saved this in the source of my website in `feed.R.xml`.  Since it has the `layout: null` in the YAML, everytime the site builds on Github (i.e. everytime a change is made), this feed will get updated.  In theory, I should be able to submit this feed to [R-bloggers](http://www.r-bloggers.com/add-your-blog/) and everytime I have a new post with the R category, it will also get picked up by R-bloggers.  Only downside to this is that a new category template will be required for each category that I want to build the RSS feed for.  
 
-**NOTE:** Getting the Liquid templating to be highlighted in this post also took some work as the `{}` were getting interpreted, not highlighted.  Turns out it is as easy as wrapping the code like this <div class="highlight"><pre><code class="language-xml" data-lang="xml">{% highlight xml %}
-{% raw %}CODE HERE{% endraw %}{% endhighlight %}</code></pre></div>  did the trick. 
+**NOTE:** Getting the Liquid templating to be highlighted in this post also took some work as the `{}` were getting interpreted, not highlighted.  Turns out it is as easy as wrapping the code with '{% raw %}{% endraw %}'. 
+
 
 
