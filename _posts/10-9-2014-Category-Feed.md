@@ -19,32 +19,27 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-  	<title>{{ site.title | xml_escape }} - R</title>
-		<description>Posts categorized as 'R'</description>
+  	<title>{{ site.title | xml_escape }} - r</title>
+		<description>Posts categorized as 'r'</description>
 		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/feed.R.xml" rel="self" 
-    type="application/rss+xml" />
-		{% for post in site.categories.R limit:20 %}
-			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				<description>
-          {{ post.content | xml_escape }}
-        </description>
-				<pubDate>
-          {{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}
-        </pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">
-          {{ site.url }}{{ post.url }}
-        </guid>
-			</item>
-		{% endfor %}
+		<atom:link href="{{ site.url }}/feed.r.xml" rel="self" type="application/rss+xml" />
+    {% for post in site.categories.r limit:20 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      </item>
+    {% endfor %}
 	</channel>
 </rss>
 {% endraw %}
 {% endhighlight %}
 
-And I have saved this in the source of my website as `feed.R.xml`.  Since it has the `layout: null` in the YAML, everytime the site builds on Github (i.e. everytime a change is made), this feed will get updated.  In theory, I should be able to submit this feed to [R-bloggers](http://www.r-bloggers.com/add-your-blog/) and everytime I have a new post with the R category, it will also get picked up by R-bloggers.  Only downside to this is that a new category template will be required for each category that I want to build the RSS feed for.  
+I have saved this in the source of my website as `feed.r.xml`.  One gotcha is that Jekyll appears to convert all categories to lower case.  I had it site to loop on `site.categories.R` and it wasn't working.  Switching to `site.categories.r` fixed the problem.  
+
+Since `feed.r.xml` has the `layout: null` in the YAML, everytime the site builds on Github (i.e. everytime a change is made), this feed will get updated.  In theory, I should be able to submit this feed to [R-bloggers](http://www.r-bloggers.com/add-your-blog/) and everytime I have a new post with the R category, it will also get picked up by R-bloggers.  Only downside to this is that a new category template will be required for each category that I want to build the RSS feed for.  
 
 **NOTE:** Getting the Liquid templating to be highlighted in this post also took some work as the the Liquid was getting interpreted, not highlighted.  Turns out it is as easy as wrapping the code with:
 <p>

@@ -38,12 +38,16 @@ html {
   html {
     font-size: 16px;
   }
+  .post p {
+    font-size: 20px;
+  }
 }
+/*
 @media (min-width: 58em) {
   html {
     font-size: 20px;
   }
-}
+}*/
 
 
 /*
@@ -80,7 +84,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 3.5rem;
 }
 
 /* Sidebar nav */
@@ -133,13 +137,13 @@ a.sidebar-nav-item:focus {
     margin-right: 2rem;
   }
 }
-
+/*
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
   }
-}
+}*/
 
 
 /*
@@ -159,12 +163,13 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/*
 @media (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 4rem;
     margin-right: 22rem;
   }
-}
+}*/
 
 
 
@@ -267,7 +272,7 @@ a.sidebar-nav-item:focus {
     color: #fff;
     margin-top: 0;
     font-family: "Abril Fatface", serif;
-    font-size: 2.75rem;
+    font-size: 2.25rem;
   }
   .theme-base-0g .sidebar {
   text-align: left;
