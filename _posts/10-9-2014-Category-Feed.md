@@ -14,34 +14,40 @@ As it turns out many others have had this same need and there are a few options 
 {% highlight xml %}
 {% raw %}
 ---
-layout: null
+layout: none
 ---
-
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/feed.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
- <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
- </author>
-
- {% for post in site.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
-
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  	<title>{{ site.title | xml_escape }} - R</title>
+		<description>Posts categorized as 'R'</description>
+		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/feed.R.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.categories.R limit:20 %}
+			<item>
+				<title>{{ post.title | xml_escape }}</title>
+				<description>{{ post.content | xml_escape }}</description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
 {% endraw %}
 {% endhighlight %}
 
-And I have saved this in the source of my website in `feed.R.xml`.  Since it has the `layout: null` in the YAML, everytime the site builds on Github (i.e. everytime a change is made), this feed will get updated.  In theory, I should be able to submit this feed to [R-bloggers](http://www.r-bloggers.com/add-your-blog/) and everytime I have a new post with the R category, it will also get picked up by R-bloggers.  Only downside to this is that a new category template will be required for each category that I want to build the RSS feed for.    
+And I have saved this in the source of my website in `feed.R.xml`.  Since it has the `layout: null` in the YAML, everytime the site builds on Github (i.e. everytime a change is made), this feed will get updated.  In theory, I should be able to submit this feed to [R-bloggers](http://www.r-bloggers.com/add-your-blog/) and everytime I have a new post with the R category, it will also get picked up by R-bloggers.  Only downside to this is that a new category template will be required for each category that I want to build the RSS feed for.  
+
+**NOTE:** Getting the Liquid templating to be highlighted in this post also took some work as the `\{\}` were getting interpreted, not highlighted.  Turns out it is as easy as wrapping the code like this:
+
+{% highlight xml %}
+{% raw %}
+{% highlight xml %}
+{% raw %}
+Code Goes Here
+{% endraw %}
+{% endhighlight %}
+{% endraw %}
+{% endhighlight %}
+
