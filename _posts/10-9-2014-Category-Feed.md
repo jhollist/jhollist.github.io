@@ -2,7 +2,7 @@
 layout: post
 title: "Getting a Category Feed Up and Running with Jekyll on Github"
 tags: ['jekyll','github','RSS','categories']
-categories: ['Site-Details', 'R']
+categories: ['R']
 ---
 
 Now that I have the site up and running, I am now trying to add a few category specific RSS feeds.  I will say that for someone who is new to RSS (i.e. me) the feeds on [Wordpress](http://wordpress.com) are really easy.  But, since I now fancy myself somewhat of hacker, I suppose figuring out how to get a Jekyll site hosted on Github to spit these out is something I should do.
@@ -52,6 +52,7 @@ And I have saved this in the source of my website as `feed.R.xml`.  Since it has
   <br>
   <code>&#123;% endraw %}</code>
 </p> 
+
 This answer courtesy of [StackOverflow](http://stackoverflow.com/questions/20568396/how-to-use-jekyll-code-in-inline-code-highlighting)
 
 **ANOTHER NOTE:**
