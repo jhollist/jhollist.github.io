@@ -2,7 +2,7 @@
 layout: post
 title: "Colophon: jwhollister.com v0.2.0"
 tags: [jekyll, github, hacking]
-category: "Site Details"
+categories: "Site Details"
 ---
 
 Hard to believe that in less than a year I am now on my third version of my website.  First one was me hacking at bootstrap.  I knew next to nothing then, but was able to get a minimal site up and running. Since then I have learned quite a bit more about web design, Jekyll, hosting on [github](https://github.com/jhollist), and am a much better hacker than I was then (although still not a good one).  My second site never really saw the light of day and was developed from scratch for a web design course I took.  
