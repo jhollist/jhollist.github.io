@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colophon: jwhollister.com v0.2.0"
-tags: [jekyll, github, hacking]
+tags: ['jekyll','github','hacking']
 categories: Site-Details
 ---
 
