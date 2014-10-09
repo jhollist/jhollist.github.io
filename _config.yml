@@ -24,3 +24,10 @@ version:          0.2.0
 
 github:
   repo:           https://github.com/jhollist/jhollist.github.io
+
+#Plugins
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
