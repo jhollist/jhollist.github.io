@@ -84,7 +84,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 2.25rem;
+  font-size: 3.5rem;
 }
 
 /* Sidebar nav */
@@ -272,7 +272,7 @@ a.sidebar-nav-item:focus {
     color: #fff;
     margin-top: 0;
     font-family: "Abril Fatface", serif;
-    font-size: 2.75rem;
+    font-size: 2.25rem;
   }
   .theme-base-0g .sidebar {
   text-align: left;
