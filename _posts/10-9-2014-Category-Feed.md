@@ -47,7 +47,24 @@ layout: none
 And I have saved this in the source of my website in `feed.R.xml`.  Since it has the `layout: null` in the YAML, everytime the site builds on Github (i.e. everytime a change is made), this feed will get updated.  In theory, I should be able to submit this feed to [R-bloggers](http://www.r-bloggers.com/add-your-blog/) and everytime I have a new post with the R category, it will also get picked up by R-bloggers.  Only downside to this is that a new category template will be required for each category that I want to build the RSS feed for.  
 
 **NOTE:** Getting the Liquid templating to be highlighted in this post also took some work as the the Liquid was getting interpreted, not highlighted.  Turns out it is as easy as wrapping the code with:
-<p><code>&#123;% raw %}</code><code>&#123;% endraw %}</code></p> 
+<p>
+  <code>&#123;% raw %}</code>
+  <br>
+  <code>&#123;% endraw %}</code>
+</p> 
+This answer courtesy of [StackOverflow](http://stackoverflow.com/questions/20568396/how-to-use-jekyll-code-in-inline-code-highlighting)
 
+**ANOTHER NOTE:**
+And now to get even more into the weeds, getting <code>&#123;% raw %}</code> to render took another approach, raw HTML.  So that looks like
 
+{% highlight html %}
+<p>
+  <code>&#123;% raw %}</code>
+  <br>
+  <code>&#123;% endraw %}</code>
+</p> 
+{% endhighlight %}
+
+That answer provided by
+[SLaks.Blog](http://blog.slaks.net/2013-06-09/writing-about-jekyll-in-jekyll/).
 
