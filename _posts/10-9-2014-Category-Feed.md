@@ -41,13 +41,13 @@ And I have saved this in the source of my website in `feed.R.xml`.  Since it has
 
 **NOTE:** Getting the Liquid templating to be highlighted in this post also took some work as the `\{\}` were getting interpreted, not highlighted.  Turns out it is as easy as wrapping the code like this:
 
-{% highlight xml %}
+{% highlight %}
 {% raw %}
-{% highlight xml %}
-{% raw %}
-Code Goes Here
-{% endraw %}
-{% endhighlight %}
+  \{% highlight xml %}
+  \{% raw %}
+  Code Goes Here
+  \{% endraw %}
+  \{% endhighlight %}
 {% endraw %}
 {% endhighlight %}
 
