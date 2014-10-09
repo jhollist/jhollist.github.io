@@ -9,7 +9,7 @@ Now that I have the site up and running, I am now trying to add a few category s
 
 This site is built on the [Hyde theme](http://andhyde.com/) which includes an `atom.xml` file. This is great and provides a feed for the entire blog but, often a category specific feed is required.  For instance, my (poorly named) old blog [Landscape Ecology 2.0](http://landeco2point0.wordpress.com/) has been referenced by a couple of aggregators, most notably [R-bloggers](http://www.r-bloggers.com/).  Since I do blog about topics other than R, I need to be able to submit a feed that is specific to R.  Wordpress does this automatically with Categories.  You can also do this in Jekyll with a little work.
 
-As it turns out many others have had this same need and there are a few options for getting it set up.  Since my blog already has a site wide RSS feed built with Liquid templating all I needed was a category specifc one.  All i needed to do was ammend the template from  @snaptortoise [jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds).  For my blog, the template looks like:
+As it turns out many others have had this same need and there are a few options for getting it set up.  Since my blog already has a site wide RSS feed built with Liquid templating all I needed was a category specifc one.  So I simpl ammended the template from  @snaptortoise [jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds).  For my blog, the template looks like:
 
 {% highlight xml %}
 {% raw %}
