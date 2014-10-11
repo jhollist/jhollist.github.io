@@ -13,58 +13,56 @@ Narragansett, RI 02881
 (c)401 556 4087
 [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 
-
 #Education
-Doctor of Philosophy in Environmental Science, December 2004
+- Doctor of Philosophy in Environmental Science, December 2004
   Department of Natural Resources Science, University of Rhode Island, Kingston, RI
   Areas of emphasis: Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
   Coursework in: Coastal Ecology, Geographic Information Systems, Landscape Ecology, and Statistics
   Dissertation Topic: Predicting Condition of Small Estuarine Systems along the United States' Atlantic
   Coast. (Advisor: Peter V. August, Ph. D.)
-  Master of Environmental Management, May 1997
+- Master of Environmental Management, May 1997
   Nicholas School of the Environment, Duke University, Durham, NC
   Areas of emphasis: Resource Ecology, Landscape Ecology, and Geospatial Sciences
   Coursework in: Ecology, Geographic Information Systems, Remote Sensing, Landscape Ecology, Spatial
   Statistics and Analysis, Conservation Biology, Statistics, and Forest Ecology
   Master's project: An Analysis of Red Spruce Establishment Success in Highland County, Virginia.
   (Advisor: Patrick N. Halpin, Ph. D.)
-  Bachelor of Science, Magna Cum Laude, May 1995
+- Bachelor of Science, Magna Cum Laude, May 1995
   Baker University, Baldwin City, KS
   Major: Biology with emphasis in ecology. (Advisor: Roger L. Boyd, Ph.D.)
-  Recent Coursework:
+- Recent Coursework:
   Data Mining and Analysis (STATS 202), Fall 2012
   Stanford University, Stanford Center for Professional Development
   Introduction to Computer Science using Java I (CSCI E-50a), Fall 2012
   Harvard University, Division of Continuing Education
   Introduction to Computer Science using Java II (CSCI E-50b), Spring 2013
   Harvard University, Division of Continuing Education
-  
 #Appointments:
-  Aug 2008 - Present Research Ecologist, US Environmental Protection Agency, Atlantic Ecology Division,
+  - Aug 2008 - Present Research Ecologist, US Environmental Protection Agency, Atlantic Ecology Division,
   Narragansett, RI
-  Jan 2007 – Present Adjunct Assistant Professor, Department of Natural Resources Science, University of
+  - Jan 2007 – Present Adjunct Assistant Professor, Department of Natural Resources Science, University of
   Rhode Island, Kingston, RI
-  Dec 2005 – Present Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI
-  May 2006 – July 2008 Postdoctoral Landscape Ecologist, US Environmental Protection Agency, Atlantic
+  - Dec 2005 – Present Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI
+  - May 2006 – July 2008 Postdoctoral Landscape Ecologist, US Environmental Protection Agency, Atlantic
   Ecology Division, Narragansett, RI
-  Aug 2005 – May 2006 Postdoctoral Teaching Fellow, Department of Science, Marine Science Section, U.S.
+  - Aug 2005 – May 2006 Postdoctoral Teaching Fellow, Department of Science, Marine Science Section, U.S.
   Coast Guard Academy, New London, CT
-  Jan 2005 – July 2005 Postdoctoral Associate, American Institute of Biological Sciences, National Ecologica    
+  - Jan 2005 – July 2005 Postdoctoral Associate, American Institute of Biological Sciences, National Ecologica    
   l Observatory Network (NEON) Project Office, Washington, DC
-  Jan 2004 – Dec 2004 Departmental Webmaster, Department of Natural Resources Science, University of
+  - Jan 2004 – Dec 2004 Departmental Webmaster, Department of Natural Resources Science, University of
   Rhode Island, Kingston, RI
-  Sep 2002 – Dec 2004 Graduate Teaching Assistant, Department of Natural Resources Science, University of
+  - Sep 2002 – Dec 2004 Graduate Teaching Assistant, Department of Natural Resources Science, University of
   Rhode Island, Kingston, RI
-  May 2003 – Aug 2004 Geographic Information Systems/Biological Database Consultant, Rhode Island Natural
+  - May 2003 – Aug 2004 Geographic Information Systems/Biological Database Consultant, Rhode Island Natural
   History Survey (RINHS), Kingston, RI
-  Jan 2001 – June 2001 Geographic Information Systems Consultant, Save the Bay, Inc. Kingston, RI
-  Sep 2000 – Sep 2002 Graduate Research Assistant, Department of Natural Resources Science, University of
+  - Jan 2001 – June 2001 Geographic Information Systems Consultant, Save the Bay, Inc. Kingston, RI
+  - Sep 2000 – Sep 2002 Graduate Research Assistant, Department of Natural Resources Science, University of
   Rhode Island, Kingston, RI
-  Sep 2000 – Sep 2002 Predoctoral Fellow, USEPA Atlantic Ecology Division/University of Rhode Island
+  - Sep 2000 – Sep 2002 Predoctoral Fellow, USEPA Atlantic Ecology Division/University of Rhode Island
   Northeast Environmental Research Training Program, Narragansett, RI/Kingston, RI
-  June 1998 – July 2000 Lead Research Technician in Landscape Ecology, Landscape Ecology Lab, Joseph W.
+  - June 1998 – July 2000 Lead Research Technician in Landscape Ecology, Landscape Ecology Lab, Joseph W.
   Jones Ecological Research Center, Newton, GA
-  Aug 1997 – Jan 1998 Geographic Information Systems Specialist, Research Triangle Institute, Research
+  - Aug 1997 – Jan 1998 Geographic Information Systems Specialist, Research Triangle Institute, Research
   Triangle Park, NC
   
 #Research:
