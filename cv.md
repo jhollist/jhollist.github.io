@@ -4,6 +4,8 @@ title: Curriculum Vitae
 cv: true
 --- 
 
+<link rel="stylesheet" href="/public/css/cv.css">
+
 #Jeffrey W. Hollister
 
 - U.S. Environmental Protection Agency
