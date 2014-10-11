@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+cv: true
 --- 
 
 #Jeffrey W. Hollister
@@ -13,7 +14,7 @@ title: Curriculum Vitae
 - (c)401 556 4087
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 
-#Education
+##Education
 - Doctor of Philosophy in Environmental Science, December 2004
   Department of Natural Resources Science, University of Rhode Island, Kingston, RI
   Areas of emphasis: Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
@@ -38,7 +39,7 @@ title: Curriculum Vitae
   Introduction to Computer Science using Java II (CSCI E-50b), Spring 2013
   Harvard University, Division of Continuing Education
 
-#Appointments:
+##Appointments:
   - Aug 2008 - Present Research Ecologist, US Environmental Protection Agency, Atlantic Ecology Division,
   Narragansett, RI
   - Jan 2007 – Present Adjunct Assistant Professor, Department of Natural Resources Science, University of
@@ -66,19 +67,10 @@ title: Curriculum Vitae
   - Aug 1997 – Jan 1998 Geographic Information Systems Specialist, Research Triangle Institute, Research
   Triangle Park, NC
   
-#Research:
-Statement of Research Interests: It is my general research philosophy to conduct nationally relevant research and
-apply the results of that research to locally important issues. Both levels of research serve to inform
-environmental policy and improve the environment, which is the ultimate goal of applied environmental research.
-Towards that end, I hope to contribute to research in landscape ecology, geospatial technologies (e.g. geographic
-information systems, spatial statistics, and remote sensing), ecoinformatics/reproducible research/data science,
-and broad scale environmental monitoring and modeling. Specifically, I wish to continue my past work and use
-broad scale monitoring data (e.g. Environmental Monitoring and Assessment Program data (EMAP), National
-Land Cover Dataset (NLCD)) to explore the links between landscape structure (e.g. landscape composition and
-configuration) and the ecological health and integrity of receiving waters. Furthermore, I am keenly interested in
-applying cutting edge informatics and data science tools (e.g. semantic web, analytics, “Big Data”, eScience, etc.)
-to environmental research conducted by the US EPA.
-Research and Professional Experience:
+##Research:
+<!-- Statement of Research Interests: It is my general research philosophy to conduct nationally relevant research and apply the results of that research to locally important issues. Both levels of research serve to inform environmental policy and improve the environment, which is the ultimate goal of applied environmental research. Towards that end, I hope to contribute to research in landscape ecology, geospatial technologies (e.g. geographic information systems, spatial statistics, and remote sensing), ecoinformatics/reproducible research/data science, and broad scale environmental monitoring and modeling. Specifically, I wish to continue my past work and use broad scale monitoring data (e.g. Environmental Monitoring and Assessment Program data (EMAP), National Land Cover Dataset (NLCD)) to explore the links between landscape structure (e.g. landscape composition and
+configuration) and the ecological health and integrity of receiving waters. Furthermore, I am keenly interested in applying cutting edge informatics and data science tools (e.g. semantic web, analytics, “Big Data”, eScience, etc.) to environmental research conducted by the US EPA.-->
+
 Aug 2008 - Present Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division,
 Narragansett, RI
 I serve as principle investigator and provide leadership to the division on landscape
@@ -88,18 +80,14 @@ management tools in environmental research. In this role, I have developed tools
 methodologies (GIS and statistical) using numerous software packages and languages (R,
 ArcGIS, GRASS, Python, MS Excel) and have continued prior research on technology
 transfer of data, analytical methods and predictive tools to Northeast States; and
-developed statistical and modeling tools to facilitate use of defensible techniques in water
-quality criteria development. Previously I have: served as Co-lead on a project studying
-ecosystem services related to nutrient cycling in Northeastern lakes and ponds, was the
-liaison between the National Ecological Observatory Network (NEON) and EPA’s
+developed statistical and modeling tools to facilitate use of defensible techniques in water quality criteria development. Previously I have: served as Co-lead on a project studying ecosystem services related to nutrient cycling in Northeastern lakes and ponds, was the liaison between the National Ecological Observatory Network (NEON) and EPA’s
 Ecosystem Services Research Program (ESRP), was task lead for our lakes ecosystem
 services work, and served as co-task lead for developing decision support tools for a
 project in Narragansett Bay and its watershed. I am currently serving as a co-Task Lead
 on a project exploring cyanobacterial risk in lakes of the Northeastern US. I am also
-exploring the use of data science, Big Data, informatics, and related technologies in our
-various research programs. These data efforts include course work, a linked open data
-project, and involvement with various outside organizations such as the ESIP Federation
-and Data.gov
+exploring the use of Open Science, data mining, and computational ecology in our
+various research programs. 
+
 May 2006 – July 2008 Postdoctoral Landscape Ecologist, U.S. Environmental Protection Agency, Atlantic
 Ecology Division, Narragansett, RI
 Contributed to research and technology transfer of National Coastal Assessment data,
@@ -110,6 +98,7 @@ Ecology, Spatial Statistics and GIS support to a variety of ongoing projects at 
 Ecology Division and within US EPA’s Office of Research and Development. Explored
 linkages between landscape and downstream receiving waters and examined utility of
 broad scale monitoring data in identifying and assessing ecological impairment.
+
 Aug 2005 – May 2006 Postdoctoral Fellow, U.S. Coast Guard Academy, Dep. of Science, Marine Sciences
 Section, New London, CT
 Continued prior research on multi-scale interactions between landscape structure (via
@@ -117,6 +106,7 @@ NLCD) and sediment metal concentrations (via EMAP) and predictive modeling of
 estuarine impairment. Worked with students, faculty and colleagues in the Marine
 Sciences Section, the International Ice Patrol, and Information Services Division on a
 wide variety of Geographic Information Systems projects.
+
 Jan 2005 – July 2005 Postdoctoral Associate, American Institute of Biological Sciences, National Ecological
 Observatory (NEON) Project Office, Washington, DC
 Researched and assisted in planning of ecological observatories designed to address the
@@ -128,6 +118,7 @@ Information Systems operations in the Project Office, maintaining the NEON web
 presence (http://www.neoninc.org), interacting with research scientists and educators on
 the NEON Senior Management Team and National Network Design Committee, and
 assisting with the day-to-day operations of the NEON Project Office.
+
 Sep 2000 – Dec 2004 U.S. EPA/URI Pre-doctoral Fellow/Doctoral Research/Graduate Research Assistant,
 USEPA Atlantic Ecology Division/University of Rhode Island Northeast Environmental
 Research Training Program, Narragansett, RI/Kingston, RI
@@ -141,12 +132,14 @@ condition designed to locate estuaries with impacted ecological integrity. As me
 Landscape Ecology Working Group, discussed and assisted on projects at USEPA
 Atlantic Ecology Division and URI utilizing landscape ecology, spatial analysis and
 broad scale environmental monitoring data, in particular NLCD and EMAP.
+
 May 2003 – Aug 2004 Geographic Information Systems/Biological Database Specialist, Rhode Island Natural
 History Survey, Kingston, RI
 Contributed towards the design and implementation of the Rhode Island Natural History
 Survey (RINHS) Biodiversity Databases, specifically the Odonata of Rhode Island and
 the Biota of Rhode Island. Designed field sampling methodology to accurately map
 invasive species with geostatistical techniques.
+
 Jan 2001 – June 2001 Geographic Information System/Eelgrass Restoration Modeling Consultant, Save the
 Bay, Inc., Kingston, RI
 Compiled bathymetry, current and historic eelgrass locations, historic, and water quality
@@ -154,6 +147,7 @@ data sets for use in eelgrass restoration efforts. Using the Short et al. (2002)
 methodology, built geographic information system models of eelgrass restoration
 potential and generated maps of areas in Narragansett Bay with higher potential of
 eelgrass restoration success.
+
 June 1998 – July 2000 Lead Research Technician in Landscape Ecology, J.W. Jones Ecological Research
 Center, Landscape Ecology Lab, Newton, GA
 Conducted research on ecological impacts of small wetland loss in the Southeastern
@@ -164,11 +158,13 @@ SPOT-XS, B&W and CIR Aerial Photography), analysis of vector and raster GIS data
 and field data collection (e.g. GPS, vegetation data). Supervised and assisted other
 technicians, graduate students and summer field workers and managed day-to-day
 operations of the Landscape Ecology Lab.
+
 Aug 1997 – Jan 1998 Geographic Information Systems Specialist, Research Triangle Institute, Research
 Triangle Park, NC
 Developed a GIS methodology and series of Arc Macro Language scripts to facilitate the
 identification of river reaches, as required by the Clean Water Act, in the states of North
 Dakota and Arkansas.
+
 May 1996 – July 1997 Resource Ecology Master’s Research, Duke University, Landscape Ecology Lab,
 Durham, NC
 Researched environmental, ecological, and spatial controls on the establishment success
@@ -177,12 +173,14 @@ variety of geographic information systems analytical tools (e.g. Topographic
 Convergence Index) and spatial statistics techniques (e.g. partial mantel’s tests).
 
 #Teaching:
+
 Jan 2007 – Present Adjunct Assistant Professor, University of Rhode Island, Department of Natural
 Resources Science, Kingston, RI
 Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of
 Fragmented Landscapes (NRS 534) a graduate level seminar course in Landscape
 Ecology. Course included readings and group discussion of the concepts and principles
 of landscape ecology.
+
 Aug 2005 – May 2006 Postdoctoral Teaching Fellow, U.S. Coast Guard Academy, Department of Science,
 Marine Sciences Section, New London, CT
 Responsible for teaching 3 laboratory sections of Introduction to Geospatial Sciences
@@ -192,6 +190,7 @@ geodatabase for emergency management and hazardous materials response) and teach
 3 sections of a core course in Oceanography (major topics include: marine and coastal
 ecology, fisheries, meteorology, physical oceanography, coastal oceanography, estuarine
 classification, and oil spill impact/response).
+
 Sep 2002 – Dec 2004 Graduate Teaching Assistant, University of Rhode Island, Department of Natural
 Resource Science, Kingston, RI
 Coordinated Conservation of Populations and Ecosystems course (major topics include:
@@ -201,6 +200,7 @@ landscape ecology, and data analysis for conservation biology). Taught laborator
 sections for Fundamentals of Geographic Information Systems (major topics include:
 operating systems essentials for GIS, ArcInfo Workstation, Editing and creating spatial
 data, cartography, and introductory spatial analysis).
+
 May 2003 – Aug 2004 Geographic Information Systems/Database Consultant, Rhode Island Natural History
 Survey, Kingston, RI
 Provided training to Rhode Island Natural History Survey and Ecological Inventory and
@@ -211,8 +211,10 @@ National Recreation Area, Staten Island, NY
 Trained Gateway National Recreation Area staff in use of ArcView, Spatial Analyst, and
 Trimble GPS products.
 
-#Publications (21 total):
-Peer Reviewed Articles
+##Publications (21 total):
+
+###Peer Reviewed Articles:
+
 Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker (Submitted). Estimating Summer Nutrient
 Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence
 Time. Submitted to PLoS ONE.
@@ -246,12 +248,16 @@ Information Systems applications in Estuarine Monitoring and Assessment Research
 26:63-72. Contribution No. AED-02-061
 Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher
 Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2).
-Chapters
+
+###Chapters
+
 Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N.
 Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape
 Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail
 IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.
-Non Peer Reviewed Submissions (i.e., Letters, Magazine Articles, etc.)
+
+###Non Peer Reviewed Submissions (i.e., Letters, Magazine Articles, etc.)
+
 Hollister, J.W. (2010). Ecology on the Web – 3 Years Old. Submitted to Ecology on the Web, Bulletin of the
 Ecological Society of America. 91(2).
 Morzillo, A. T., J. W. Hollister, C. A. Drew, M. E. Rocca, M. E. Baker, J. M. Bossenbroek, C. A. Mazzarella.
@@ -273,8 +279,10 @@ Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp.
 Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia.
 Masters of Environmental Management Project, Duke University.
 
-#Presentations (40 total):
-Special Sessions and Workshops
+##Presentations (40 total):
+
+###Special Sessions and Workshops
+
 “Who am I and Why am I here: Lakes, Linked Data, and R” (Invited presentation to Data.gov Semantic Web
 and Linked Data working group). Aug 2012
 “Job Hunting Experiences of Recent Graduates in Landscape Ecology” (Co-organized with Anita Morzillo).
@@ -288,7 +296,9 @@ Hinchey and Brad Robbins). US Chapter of the International Association for Lands
 Meeting, Las Vegas, Nevada. April 2004.
 “Spatial Analysis Workshop” (Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence
 University Faculty and Staff). St. Lawrence University, Canton, NY. December 2002.
-Seminars, Presentations, and Accepted Abstracts
+
+###Seminars, Presentations, and Accepted Abstracts
+
 Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services,
 and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State
 University, Dept of Biology Seminar Series. 30 November, 2011.
@@ -336,7 +346,8 @@ Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologicall
 Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods,
 NH. November 2002.'
 
-#Contributed Posters
+###Contributed Posters
+
 Copeland, J. L., J. W. Hollister. Geospatial Tools for Ecosystem Services. ESRI International Users
 Conference, San Diego, CA. June 2010. Contribution No. AED-10-076.
 Hollister, J. W., W. B. Milstead. Linking landscapes to ecosystem services: Landscape structure as an
@@ -398,7 +409,8 @@ Hollister, J. W. and W. K. Michener. Landscape Ecology of the Northern Bobwhite 
 of Georgia. International Association for Landscape Ecology World Congress, Snowmass, CO. July/Aug
 1999.
 
-#Grants:
+##Grants:
+
 Geospatial Statistical Analysis Seminar, A Cooperative Training Project Between the University of Rhode
 Island and the US EPA Atlantic Ecology Division, US EPA NHEERL Grant, June 2003. PI's: P. August, L.
 González; Co-PI's: R. Sand, J. Opaluch, J. Hollister, and D. Grossman-Garber.
@@ -406,7 +418,8 @@ Estuarine Condition and Landscape Structure Relationships in the Mid-Atlantic an
 Regions of the United States, EPA/URI Pre-Doctoral Fellowship (Major Advisor: Peter V. August, EPA
 Mentor: John F. Paul).
 
-#Awards:
+##Awards:
+
 2011 US EPA, Region 1, Commendable Service Award for Contributions to the Northeast Lakes and Ponds
 2010 US EPA Science and Technological Achievement Award Honorable Mention
 2010 ESRI International Users Conference, First Place Poster in Software Integration.
@@ -421,12 +434,14 @@ Chemistry 9th Annual Meeting, Mystic CT
 Phi Eta Sigma National Honor Society
 Blue Key National Honor Society
 
-#Graduate Advising and Committees:
+##Graduate Advising and Committees:
+
 Kylie Bishop, 2008, Ph. D. Thesis Defense Committee, Deakin University, Warrnambool, Australia
 Ann Borowik, 2008, Masters of Environmental Science and Management Written Comprehensive Exam
 Committee, University of Rhode Island, Kingston, RI.
 
-#Professional Activities:
+##Professional Activities:
+
 Liaison between USEPA’s Ecosystem Services Research Program (ESRP) and the National Ecological
 Observatory Network (NEON).
 Provided Peer Review for: Landscape Ecology, Trends in Ecology and Evolution, Plant Ecology, Integrated
@@ -452,7 +467,8 @@ Island
 Assisted with compiling links of software and graduate programs in spatial ecology for the US-IALE web
 page (http://www.usiale.org/rellinks.htm).
 
-#Society Memberships and Committees (Past and Current):
+##Society Memberships and Committees (Past and Current):
+
 US Chapter of the International Association of Landscape Ecology
 Counselor at Large, 2012-Present
 Chair, Site Selection Committee 2012- Present
@@ -468,7 +484,8 @@ RI.
 Chair, Poster session 2006 Northeast Arc Users Group annual meeting in Mystic, CT
 Host Committee for 2006 Northeast Arc Users Group annual meeting in Mystic, CT
 
-#Software and Computing Skills:
+##Software and Computing Skills:
+
 Geographic Information Systems: approximately 18 years experience with ArcGIS, Arc/INFO, ArcView;
 approximately 3 years experience with Geostatistical Analyst; approximately 1 year experience with ArcIMS
 and ArcGIS Server
@@ -491,11 +508,13 @@ Operating Systems and Office Software: daily use and systems administration with
 daily use and extensive knowledge of Microsoft Office 2000; former daily UNIX user. Red Hat and Ubuntu
 Linux user.
 
-#Additional Information:
+## Additional Information:
+
 Award Winning Homebrewer
 Barbeque-er
 Mediocre Dart player
 SCUBA Certified
 
-#References:
+##References:
+
 Available upon request
