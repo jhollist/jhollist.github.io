@@ -11,13 +11,13 @@ ul {
   color: #626262;
   font-size: 14px;
   text-transform: none;
-  width: 57px;
+  width: 150px;
 }
 
 
 body > div.content.container > div > ul > li > ul > li{
   border-left: 1px solid #dfdfdf;
-  margin: -5px 0 -15px 63px;
+  margin: -25px 0 -15px 63px;
   padding: 0 0 0 9px;
-  width: 200px;
+  width: 400px;
 }
