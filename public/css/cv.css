@@ -3,14 +3,10 @@
  * @jhollist 2014
  */
 
-
-.theme-base-0g h2 li { 
-  color: red;
+ul {
+ list-style-type: none; 
 }
 
-.theme-base-0g h2 li li { 
-  color: yellow;
-}
 
 body > div.content.container > div > ul > li > ul > li:nth-child(1){
    color: yellow;
