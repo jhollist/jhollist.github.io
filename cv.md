@@ -107,7 +107,7 @@ Ecology, Spatial Statistics and GIS support to a variety of ongoing projects at 
 linkages between landscape and downstream receiving waters and examined utility of
 broad scale monitoring data in identifying and assessing ecological impairment.
 
--Aug 2005 – May 2006 
+- Aug 2005 – May 2006 
 
  - Postdoctoral Fellow, U.S. Coast Guard Academy, Dep. of Science, Marine Sciences
 Section, New London, CT
@@ -118,12 +118,12 @@ estuarine impairment. Worked with students, faculty and colleagues in the Marine
 Sciences Section, the International Ice Patrol, and Information Services Division on a
 wide variety of Geographic Information Systems projects.
 
--Jan 2005 – July 2005 
+- Jan 2005 – July 2005 
 
-- Postdoctoral Associate, American Institute of Biological Sciences, National Ecological
+ - Postdoctoral Associate, American Institute of Biological Sciences, National Ecological
 Observatory (NEON) Project Office, Washington, DC
 
-- Researched and assisted in planning of ecological observatories designed to address the
+ - Researched and assisted in planning of ecological observatories designed to address the
 National Research Council’s Environmental Grand Challenges. Made specific
 contributions in the design of the land use change component of NEON and design of a
 Multi-Scaled Remote Sensing System designed to support and develop NEON analytical
