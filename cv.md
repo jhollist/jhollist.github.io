@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Curriculum Vitae
-cv: true
+cv: True
 --- 
-
-<link rel="stylesheet" href="/public/css/cv.css">
 
 #Jeffrey W. Hollister
 
