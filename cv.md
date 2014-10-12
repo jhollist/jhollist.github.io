@@ -15,61 +15,71 @@ cv: True
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 
 ##Education
-- Doctor of Philosophy in Environmental Science, December 2004
+- December 2004
+ - Doctor of Philosophy in Environmental Science 
  - Department of Natural Resources Science, University of Rhode Island, Kingston, RI
  - Areas of emphasis: Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
  - Coursework in: Coastal Ecology, Geographic Information Systems, Landscape Ecology, and   Statistics
  - Dissertation Topic: Predicting Condition of Small Estuarine Systems along the United States' Atlantic Coast. (Advisor: Peter V. August, Ph. D.)
-- Master of Environmental Management, May 1997
+
+- May 1997
+ - Masters of Environmental Management
  - Nicholas School of the Environment, Duke University, Durham, NC
  - Areas of emphasis: Resource Ecology, Landscape Ecology, and Geospatial Sciences
  - Coursework in: Ecology, Geographic Information Systems, Remote Sensing, Landscape Ecology, Spatial Statistics and Analysis, Conservation Biology, Statistics, and Forest Ecology
  - Master's project: An Analysis of Red Spruce Establishment Success in Highland County, Virginia.
   (Advisor: Patrick N. Halpin, Ph. D.)
-- Bachelor of Science, Magna Cum Laude, May 1995
+
+- May 1995
+ - Bachelor of Science, Magna Cum Laude
  - Baker University, Baldwin City, KS
  - Major: Biology with emphasis in ecology. (Advisor: Roger L. Boyd, Ph.D.)
-- Recent Coursework:
+
+- Recent Coursework
  - Data Mining and Analysis (STATS 202), Fall 2012, Stanford University, Stanford Center for Professional Development
  - Introduction to Computer Science using Java I (CSCI E-50a), Fall 2012, Harvard University, Division of Continuing Education
  - Introduction to Computer Science using Java II (CSCI E-50b), Spring 2013, Harvard University, Division of Continuing Education
 
 ##Appointments:
 - Aug 2008 - Present
-Research Ecologist, US Environmental Protection Agency, Atlantic Ecology Division,
-  Narragansett, RI
-- Jan 2007 – Present Adjunct Assistant Professor, Department of Natural Resources Science, University of
+ - Research Ecologist, US Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
+- Jan 2007 – Present 
+ - Adjunct Assistant Professor, Department of Natural Resources Science, University of
   Rhode Island, Kingston, RI
-- Dec 2005 – Present Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI
-- May 2006 – July 2008 Postdoctoral Landscape Ecologist, US Environmental Protection Agency, Atlantic
-  Ecology Division, Narragansett, RI
-- Aug 2005 – May 2006 Postdoctoral Teaching Fellow, Department of Science, Marine Science Section, U.S.
-  Coast Guard Academy, New London, CT
-- Jan 2005 – July 2005 Postdoctoral Associate, American Institute of Biological Sciences, National Ecologica    
-  l Observatory Network (NEON) Project Office, Washington, DC
-- Jan 2004 – Dec 2004 Departmental Webmaster, Department of Natural Resources Science, University of
-  Rhode Island, Kingston, RI
-- Sep 2002 – Dec 2004 Graduate Teaching Assistant, Department of Natural Resources Science, University of
-  Rhode Island, Kingston, RI
-- May 2003 – Aug 2004 Geographic Information Systems/Biological Database Consultant, Rhode Island Natural
-  History Survey (RINHS), Kingston, RI
-- Jan 2001 – June 2001 Geographic Information Systems Consultant, Save the Bay, Inc. Kingston, RI
-- Sep 2000 – Sep 2002 Graduate Research Assistant, Department of Natural Resources Science, University of
-  Rhode Island, Kingston, RI
-- Sep 2000 – Sep 2002 Predoctoral Fellow, USEPA Atlantic Ecology Division/University of Rhode Island
-  Northeast Environmental Research Training Program, Narragansett, RI/Kingston, RI
-- June 1998 – July 2000 Lead Research Technician in Landscape Ecology, Landscape Ecology Lab, Joseph W.
-  Jones Ecological Research Center, Newton, GA
-- Aug 1997 – Jan 1998 Geographic Information Systems Specialist, Research Triangle Institute, Research
-  Triangle Park, NC
+- Dec 2005 – Present 
+ - Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI
+- May 2006 – July 2008 
+ - Postdoctoral Landscape Ecologist, US Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
+- Aug 2005 – May 2006 
+ - Postdoctoral Teaching Fellow, Department of Science, Marine Science Section, U.S. Coast Guard Academy, New London, CT
+- Jan 2005 – July 2005 
+ - Postdoctoral Associate, American Institute of Biological Sciences, National Ecological Observatory Network (NEON) Project Office, Washington, DC
+- Jan 2004 – Dec 2004 
+ - Departmental Webmaster, Department of Natural Resources Science, University of Rhode Island, Kingston, RI
+- Sep 2002 – Dec 2004 
+ - Graduate Teaching Assistant, Department of Natural Resources Science, University of Rhode Island, Kingston, RI
+- May 2003 – Aug 2004 
+ - Geographic Information Systems/Biological Database Consultant, Rhode Island Natural History Survey (RINHS), Kingston, RI
+- Jan 2001 – June 2001 
+ - Geographic Information Systems Consultant, Save the Bay, Inc. Kingston, RI
+- Sep 2000 – Sep 2002 
+ - Graduate Research Assistant, Department of Natural Resources Science, University of Rhode Island, Kingston, RI
+- Sep 2000 – Sep 2002 
+ - Predoctoral Fellow, USEPA Atlantic Ecology Division/University of Rhode Island Northeast Environmental Research Training Program, Narragansett, RI/Kingston, RI
+- June 1998 – July 2000 
+ - Lead Research Technician in Landscape Ecology, Landscape Ecology Lab, Joseph W. Jones Ecological Research Center, Newton, GA
+- Aug 1997 – Jan 1998 
+ - Geographic Information Systems Specialist, Research Triangle Institute, Research Triangle Park, NC
   
 ##Research:
 <!-- Statement of Research Interests: It is my general research philosophy to conduct nationally relevant research and apply the results of that research to locally important issues. Both levels of research serve to inform environmental policy and improve the environment, which is the ultimate goal of applied environmental research. Towards that end, I hope to contribute to research in landscape ecology, geospatial technologies (e.g. geographic information systems, spatial statistics, and remote sensing), ecoinformatics/reproducible research/data science, and broad scale environmental monitoring and modeling. Specifically, I wish to continue my past work and use broad scale monitoring data (e.g. Environmental Monitoring and Assessment Program data (EMAP), National Land Cover Dataset (NLCD)) to explore the links between landscape structure (e.g. landscape composition and
 configuration) and the ecological health and integrity of receiving waters. Furthermore, I am keenly interested in applying cutting edge informatics and data science tools (e.g. semantic web, analytics, “Big Data”, eScience, etc.) to environmental research conducted by the US EPA.-->
 
-Aug 2008 - Present Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division,
+- Aug 2008 - Present 
+ - Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division,
 Narragansett, RI
-I serve as principle investigator and provide leadership to the division on landscape
+
+ - I serve as principle investigator and provide leadership to the division on landscape
 ecological research, on application of geospatial sciences to the understanding of water
 quality in fresh and estuarine waters, and on the use of informatics and information
 management tools in environmental research. In this role, I have developed tools and
@@ -84,28 +94,36 @@ on a project exploring cyanobacterial risk in lakes of the Northeastern US. I am
 exploring the use of Open Science, data mining, and computational ecology in our
 various research programs. 
 
-May 2006 – July 2008 Postdoctoral Landscape Ecologist, U.S. Environmental Protection Agency, Atlantic
+- May 2006 – July 2008 
+
+ - Postdoctoral Landscape Ecologist, U.S. Environmental Protection Agency, Atlantic
 Ecology Division, Narragansett, RI
-Contributed to research and technology transfer of National Coastal Assessment data,
+
+ - Contributed to research and technology transfer of National Coastal Assessment data,
 analytical methods and predictive tools to Northeast States. Developed statistical and
 modeling tools (e.g. Conditional Probability Analysis with R and Excel) to facilitate use
 of defensible techniques in water quality criteria development. Provided Landscape
-Ecology, Spatial Statistics and GIS support to a variety of ongoing projects at the Atlantic
-Ecology Division and within US EPA’s Office of Research and Development. Explored
+Ecology, Spatial Statistics and GIS support to a variety of ongoing projects at the Atlantic Ecology Division and within US EPA’s Office of Research and Development. Explored
 linkages between landscape and downstream receiving waters and examined utility of
 broad scale monitoring data in identifying and assessing ecological impairment.
 
-Aug 2005 – May 2006 Postdoctoral Fellow, U.S. Coast Guard Academy, Dep. of Science, Marine Sciences
+-Aug 2005 – May 2006 
+
+ - Postdoctoral Fellow, U.S. Coast Guard Academy, Dep. of Science, Marine Sciences
 Section, New London, CT
-Continued prior research on multi-scale interactions between landscape structure (via
+
+ - Continued prior research on multi-scale interactions between landscape structure (via
 NLCD) and sediment metal concentrations (via EMAP) and predictive modeling of
 estuarine impairment. Worked with students, faculty and colleagues in the Marine
 Sciences Section, the International Ice Patrol, and Information Services Division on a
 wide variety of Geographic Information Systems projects.
 
-Jan 2005 – July 2005 Postdoctoral Associate, American Institute of Biological Sciences, National Ecological
+-Jan 2005 – July 2005 
+
+- Postdoctoral Associate, American Institute of Biological Sciences, National Ecological
 Observatory (NEON) Project Office, Washington, DC
-Researched and assisted in planning of ecological observatories designed to address the
+
+- Researched and assisted in planning of ecological observatories designed to address the
 National Research Council’s Environmental Grand Challenges. Made specific
 contributions in the design of the land use change component of NEON and design of a
 Multi-Scaled Remote Sensing System designed to support and develop NEON analytical
@@ -115,10 +133,13 @@ presence (http://www.neoninc.org), interacting with research scientists and educ
 the NEON Senior Management Team and National Network Design Committee, and
 assisting with the day-to-day operations of the NEON Project Office.
 
-Sep 2000 – Dec 2004 U.S. EPA/URI Pre-doctoral Fellow/Doctoral Research/Graduate Research Assistant,
+- Sep 2000 – Dec 2004 
+
+ - U.S. EPA/URI Pre-doctoral Fellow/Doctoral Research/Graduate Research Assistant,
 USEPA Atlantic Ecology Division/University of Rhode Island Northeast Environmental
 Research Training Program, Narragansett, RI/Kingston, RI
-Used monitoring data from the Environmental Monitoring and Assessment Program
+
+ - Used monitoring data from the Environmental Monitoring and Assessment Program
 (EMAP) and the National Land Cover Dataset (NLCD) to explore relationships between
 landscape structure and indicators of estuarine condition. I specifically researched the
 accuracy of the NLCD at multiple spatial scales, the role of spatial scale on the
@@ -129,24 +150,33 @@ Landscape Ecology Working Group, discussed and assisted on projects at USEPA
 Atlantic Ecology Division and URI utilizing landscape ecology, spatial analysis and
 broad scale environmental monitoring data, in particular NLCD and EMAP.
 
-May 2003 – Aug 2004 Geographic Information Systems/Biological Database Specialist, Rhode Island Natural
+- May 2003 – Aug 2004 
+
+ - Geographic Information Systems/Biological Database Specialist, Rhode Island Natural
 History Survey, Kingston, RI
-Contributed towards the design and implementation of the Rhode Island Natural History
+
+ - Contributed towards the design and implementation of the Rhode Island Natural History
 Survey (RINHS) Biodiversity Databases, specifically the Odonata of Rhode Island and
 the Biota of Rhode Island. Designed field sampling methodology to accurately map
 invasive species with geostatistical techniques.
 
-Jan 2001 – June 2001 Geographic Information System/Eelgrass Restoration Modeling Consultant, Save the
+- Jan 2001 – June 2001 
+
+ - Geographic Information System/Eelgrass Restoration Modeling Consultant, Save the
 Bay, Inc., Kingston, RI
-Compiled bathymetry, current and historic eelgrass locations, historic, and water quality
+
+ - Compiled bathymetry, current and historic eelgrass locations, historic, and water quality
 data sets for use in eelgrass restoration efforts. Using the Short et al. (2002)
 methodology, built geographic information system models of eelgrass restoration
 potential and generated maps of areas in Narragansett Bay with higher potential of
 eelgrass restoration success.
 
-June 1998 – July 2000 Lead Research Technician in Landscape Ecology, J.W. Jones Ecological Research
+- June 1998 – July 2000 
+
+ - Lead Research Technician in Landscape Ecology, J.W. Jones Ecological Research
 Center, Landscape Ecology Lab, Newton, GA
-Conducted research on ecological impacts of small wetland loss in the Southeastern
+
+ - Conducted research on ecological impacts of small wetland loss in the Southeastern
 United States, use of home range in the design of gopher tortoise (Gopherus polyphemus)
 reserves, and habitat use and landscape ecology of Northern Bobwhite Quail . Other
 research duties included remote sensing data analysis (e.g. Landsat Thematic Mapper,
@@ -155,31 +185,43 @@ and field data collection (e.g. GPS, vegetation data). Supervised and assisted o
 technicians, graduate students and summer field workers and managed day-to-day
 operations of the Landscape Ecology Lab.
 
-Aug 1997 – Jan 1998 Geographic Information Systems Specialist, Research Triangle Institute, Research
+- Aug 1997 – Jan 1998 
+
+ - Geographic Information Systems Specialist, Research Triangle Institute, Research
 Triangle Park, NC
-Developed a GIS methodology and series of Arc Macro Language scripts to facilitate the
+
+ - Developed a GIS methodology and series of Arc Macro Language scripts to facilitate the
 identification of river reaches, as required by the Clean Water Act, in the states of North
 Dakota and Arkansas.
 
-May 1996 – July 1997 Resource Ecology Master’s Research, Duke University, Landscape Ecology Lab,
+- May 1996 – July 1997 
+
+ - Resource Ecology Master’s Research, Duke University, Landscape Ecology Lab,
 Durham, NC
-Researched environmental, ecological, and spatial controls on the establishment success
+
+ - Researched environmental, ecological, and spatial controls on the establishment success
 of Red Spruce (Picea rubens) in northwestern Virginia. Research techniques included a
 variety of geographic information systems analytical tools (e.g. Topographic
 Convergence Index) and spatial statistics techniques (e.g. partial mantel’s tests).
 
 #Teaching:
 
-Jan 2007 – Present Adjunct Assistant Professor, University of Rhode Island, Department of Natural
+- Jan 2007 – Present 
+
+ - Adjunct Assistant Professor, University of Rhode Island, Department of Natural
 Resources Science, Kingston, RI
-Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of
+
+ - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of
 Fragmented Landscapes (NRS 534) a graduate level seminar course in Landscape
 Ecology. Course included readings and group discussion of the concepts and principles
 of landscape ecology.
 
-Aug 2005 – May 2006 Postdoctoral Teaching Fellow, U.S. Coast Guard Academy, Department of Science,
+- Aug 2005 – May 2006 
+
+ - Postdoctoral Teaching Fellow, U.S. Coast Guard Academy, Department of Science,
 Marine Sciences Section, New London, CT
-Responsible for teaching 3 laboratory sections of Introduction to Geospatial Sciences
+
+ - Responsible for teaching 3 laboratory sections of Introduction to Geospatial Sciences
 (major topics include: introduction to ESRI products, geospatial data management, spatial
 analysis, cartography, coordinate systems and projections, geodatabases, development of
 geodatabase for emergency management and hazardous materials response) and teaching
@@ -187,9 +229,12 @@ geodatabase for emergency management and hazardous materials response) and teach
 ecology, fisheries, meteorology, physical oceanography, coastal oceanography, estuarine
 classification, and oil spill impact/response).
 
-Sep 2002 – Dec 2004 Graduate Teaching Assistant, University of Rhode Island, Department of Natural
+- Sep 2002 – Dec 2004 
+
+ - Graduate Teaching Assistant, University of Rhode Island, Department of Natural
 Resource Science, Kingston, RI
-Coordinated Conservation of Populations and Ecosystems course (major topics include:
+
+ - Coordinated Conservation of Populations and Ecosystems course (major topics include:
 conservation biology, ecological and socioeconomic importance of biodiversity,
 introductory population, community, and ecosystems ecology, genetics, metapopulations,
 landscape ecology, and data analysis for conservation biology). Taught laboratory
@@ -197,15 +242,16 @@ sections for Fundamentals of Geographic Information Systems (major topics includ
 operating systems essentials for GIS, ArcInfo Workstation, Editing and creating spatial
 data, cartography, and introductory spatial analysis).
 
-May 2003 – Aug 2004 Geographic Information Systems/Database Consultant, Rhode Island Natural History
+- May 2003 – Aug 2004 
+
+ - Geographic Information Systems/Database Consultant, Rhode Island Natural History
 Survey, Kingston, RI
-Provided training to Rhode Island Natural History Survey and Ecological Inventory and
+
+ - Provided training to Rhode Island Natural History Survey and Ecological Inventory and
 Monitoring Stewardship Program Staff on ArcView and ArcMap GIS and Trimble GPS.
 Training focused on use of these products for ecological and natural history applications.
 June 2001 Geographic Information Systems Consultant, National Park Service, Gateway
-National Recreation Area, Staten Island, NY
-Trained Gateway National Recreation Area staff in use of ArcView, Spatial Analyst, and
-Trimble GPS products.
+National Recreation Area, Staten Island, NY Trained Gateway National Recreation Area staff in use of ArcView, Spatial Analyst, and Trimble GPS products.
 
 ##Publications (21 total):
 
