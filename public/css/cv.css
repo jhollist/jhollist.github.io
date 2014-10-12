@@ -15,9 +15,16 @@ ul {
 }
 
 
-body > div.content.container > div > ul > li > ul > li{
+body > div.content.container > div > ul > li > ul > li:nth-child(1){
   border-left: 1px solid #dfdfdf;
   margin: -25px 0 -15px 63px;
+  padding: 0 0 0 9px;
+  width: 400px;
+}
+
+body > div.content.container > div > ul > li > ul > li:nth-child(-1){
+  border-left: 1px solid #dfdfdf;
+  margin: 5px 0 5px 63px;
   padding: 0 0 0 9px;
   width: 400px;
 }
