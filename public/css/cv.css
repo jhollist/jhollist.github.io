@@ -9,5 +9,9 @@
 }
 
 .theme-base-0g h2 li li { 
-  color: red;
+  color: yellow;
+}
+
+body > div.content.container > div > ul > li > ul > li:nth-child(1){
+   color: yellow;
 }
