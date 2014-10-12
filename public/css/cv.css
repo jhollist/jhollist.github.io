@@ -4,6 +4,10 @@
  */
 
 
-.theme-base-0g h1 { 
+.theme-base-0g h2 li { 
+  color: red;
+}
+
+.theme-base-0g h2 li li { 
   color: red;
 }
