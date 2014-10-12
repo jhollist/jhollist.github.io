@@ -204,7 +204,7 @@ of Red Spruce (Picea rubens) in northwestern Virginia. Research techniques inclu
 variety of geographic information systems analytical tools (e.g. Topographic
 Convergence Index) and spatial statistics techniques (e.g. partial mantel’s tests).
 
-#Teaching:
+##Teaching:
 
 - Jan 2007 – Present 
 
@@ -257,46 +257,23 @@ National Recreation Area, Staten Island, NY Trained Gateway National Recreation 
 
 ###Peer Reviewed Articles:
 
-Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker (Submitted). Estimating Summer Nutrient
-Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence
-Time. Submitted to PLoS ONE.
-Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding
-Topography. PLoS ONE 6(9): e25764. doi:10.1371/journal.pone.0025764. Contribution no. AED-11-013
-Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and
-Reservoir Management. 26(3)194-199. Contribution no. AED-10-018.
-Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting
-Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. Contribution
-no. WED-09-060
-Benyi, S. J., J. W. Hollister, J. A. Kiddon, H. A. Walker. (2009). A Process for Comparing and Interpreting
-Differences in Two Benthic Indices in New York Harbor. Marine Pollution Bulletin. 59:65-71 Contribution
-no. AED-08-023.
-Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit
-Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235.
-Contribution No. AED-07-077.
-Hollister, J. W., J. F. Paul, and H. A. Walker (2008). CProb: A Computational Tool for Conducting
-Conditional Probability Analysis. Journal of Environmental Quality. 37(6):2392-2396. Contribution No.
-AED-07-095.
-Hollister, J. W., P. V. August, J. F. Paul, and H. A. Walker. (2008). Predicting Estuarine Sediment Metal
-Concentrations and Inferred Ecological Conditions: An Information Theoretic Approach. Journal of
-Environmental Quality. 37(1):234-244. Contribution No. AED-07-013.
-Hollister, J. W., P. V. August, and J. F. Paul. (2008). Effects of Spatial Extent on Landscape Structure and
-Sediment Metal Concentration Relationships in Small Estuarine Systems of the United States’ Mid-Atlantic
-Coast. Landscape Ecology. 23(SI):91-106. Contribution No. AED-06-074.
-Hollister, J. W., M. L. Gonzalez, J. F. Paul, P. V. August, J. L. Copeland (2004). Assessing the Accuracy of
-the National Land Cover Dataset at Multiple Spatial Extents. Photogrammetric Engineering and Remote
-Sensing. 70(4):405-414. Contribution No. AED-02-012.
-Paul, J. F., J. L. Copeland, M. Charpentier, P. V. August, and J. W. Hollister (2003). Overview of Geographic
-Information Systems applications in Estuarine Monitoring and Assessment Research. Marine Geodesy.
-26:63-72. Contribution No. AED-02-061
-Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher
-Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2).
+- Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker (Submitted). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. Submitted to PLoS ONE.
+- Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764. doi:10.1371/journal.pone.0025764. Contribution no. AED-11-013
+- Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. Contribution no. AED-10-018.
+- Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. Contribution no. WED-09-060
+- Benyi, S. J., J. W. Hollister, J. A. Kiddon, H. A. Walker. (2009). A Process for Comparing and Interpreting Differences in Two Benthic Indices in New York Harbor. Marine Pollution Bulletin. 59:65-71 Contribution no. AED-08-023.
+- Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235. Contribution No. AED-07-077.
+- Hollister, J. W., J. F. Paul, and H. A. Walker (2008). CProb: A Computational Tool for Conducting Conditional Probability Analysis. Journal of Environmental Quality. 37(6):2392-2396. Contribution No. AED-07-095.
+- Hollister, J. W., P. V. August, J. F. Paul, and H. A. Walker. (2008). Predicting Estuarine Sediment Metal Concentrations and Inferred Ecological Conditions: An Information Theoretic Approach. Journal of Environmental Quality. 37(1):234-244. Contribution No. AED-07-013.
+- Hollister, J. W., P. V. August, and J. F. Paul. (2008). Effects of Spatial Extent on Landscape Structure and Sediment Metal Concentration Relationships in Small Estuarine Systems of the United States’ Mid-Atlantic Coast. Landscape Ecology. 23(SI):91-106. Contribution No. AED-06-074.
+- Hollister, J. W., M. L. Gonzalez, J. F. Paul, P. V. August, J. L. Copeland (2004). Assessing the Accuracy of
+the National Land Cover Dataset at Multiple Spatial Extents. Photogrammetric Engineering and Remote Sensing. 70(4):405-414. Contribution No. AED-02-012.
+- Paul, J. F., J. L. Copeland, M. Charpentier, P. V. August, and J. W. Hollister (2003). Overview of Geographic Information Systems applications in Estuarine Monitoring and Assessment Research. Marine Geodesy. 26:63-72. Contribution No. AED-02-061
+- Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2).
 
 ###Chapters
 
-Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N.
-Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape
-Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail
-IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.
+- Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.
 
 ###Non Peer Reviewed Submissions (i.e., Letters, Magazine Articles, etc.)
 
