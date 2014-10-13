@@ -40,37 +40,6 @@ cv: True
  - Introduction to Computer Science using Java I (CSCI E-50a), Fall 2012, Harvard University, Division of Continuing Education
  - Introduction to Computer Science using Java II (CSCI E-50b), Spring 2013, Harvard University, Division of Continuing Education
 
-##Appointments:
-- Aug 2008 - Present
- - Research Ecologist, US Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
-- Jan 2007 – Present 
- - Adjunct Assistant Professor, Department of Natural Resources Science, University of
-  Rhode Island, Kingston, RI
-- Dec 2005 – Present 
- - Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI
-- May 2006 – July 2008 
- - Postdoctoral Landscape Ecologist, US Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
-- Aug 2005 – May 2006 
- - Postdoctoral Teaching Fellow, Department of Science, Marine Science Section, U.S. Coast Guard Academy, New London, CT
-- Jan 2005 – July 2005 
- - Postdoctoral Associate, American Institute of Biological Sciences, National Ecological Observatory Network (NEON) Project Office, Washington, DC
-- Jan 2004 – Dec 2004 
- - Departmental Webmaster, Department of Natural Resources Science, University of Rhode Island, Kingston, RI
-- Sep 2002 – Dec 2004 
- - Graduate Teaching Assistant, Department of Natural Resources Science, University of Rhode Island, Kingston, RI
-- May 2003 – Aug 2004 
- - Geographic Information Systems/Biological Database Consultant, Rhode Island Natural History Survey (RINHS), Kingston, RI
-- Jan 2001 – June 2001 
- - Geographic Information Systems Consultant, Save the Bay, Inc. Kingston, RI
-- Sep 2000 – Sep 2002 
- - Graduate Research Assistant, Department of Natural Resources Science, University of Rhode Island, Kingston, RI
-- Sep 2000 – Sep 2002 
- - Predoctoral Fellow, USEPA Atlantic Ecology Division/University of Rhode Island Northeast Environmental Research Training Program, Narragansett, RI/Kingston, RI
-- June 1998 – July 2000 
- - Lead Research Technician in Landscape Ecology, Landscape Ecology Lab, Joseph W. Jones Ecological Research Center, Newton, GA
-- Aug 1997 – Jan 1998 
- - Geographic Information Systems Specialist, Research Triangle Institute, Research Triangle Park, NC
-  
 ##Research:
 <!-- Statement of Research Interests: It is my general research philosophy to conduct nationally relevant research and apply the results of that research to locally important issues. Both levels of research serve to inform environmental policy and improve the environment, which is the ultimate goal of applied environmental research. Towards that end, I hope to contribute to research in landscape ecology, geospatial technologies (e.g. geographic information systems, spatial statistics, and remote sensing), ecoinformatics/reproducible research/data science, and broad scale environmental monitoring and modeling. Specifically, I wish to continue my past work and use broad scale monitoring data (e.g. Environmental Monitoring and Assessment Program data (EMAP), National Land Cover Dataset (NLCD)) to explore the links between landscape structure (e.g. landscape composition and
 configuration) and the ecological health and integrity of receiving waters. Furthermore, I am keenly interested in applying cutting edge informatics and data science tools (e.g. semantic web, analytics, “Big Data”, eScience, etc.) to environmental research conducted by the US EPA.-->
@@ -423,6 +392,8 @@ Committee, University of Rhode Island, Kingston, RI.
 
 ##Professional Activities:
 
+- Adjunct Assistant Professor, Department of Natural Resources Science, University of Rhode Island, Kingston, RI, Jan 2007 - Present.
+- Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI, Dec 2005 – Present.
 - Liaison between USEPA’s Ecosystem Services Research Program (ESRP) and the National Ecological
 Observatory Network (NEON).
 - Provided Peer Review for: Landscape Ecology, Trends in Ecology and Evolution, Plant Ecology, Integrated Environmental Assessment and Management, Remote Sensing of Environment, Journal of Environmental
