@@ -5,7 +5,7 @@
     {% for logo in site.logos %}
       {% if logo[1] != null %}
       <!-- Add in logos here -->
-        <li><a href="{{ logo[1] }}">{{ logo[0] }}</a></li>
+        <li><a href="{{ logo[1] }}">{{ logo[1].img }}</a></li>
       {% endif %}  
     {% endfor %}
   </ul>
