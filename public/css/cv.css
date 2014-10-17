@@ -1,0 +1,30 @@
+/*
+ * CV styling
+ * @jhollist 2014
+ */
+
+ul {
+  list-style-type: none; 
+  position: relative;
+  left: 0;
+  top: 25px;
+  color: #626262;
+  font-size: 14px;
+  text-transform: none;
+  width: 150px;
+}
+
+
+body > div.content.container > div > ul > li > ul > li:nth-child(1){
+  border-left: 1px solid #dfdfdf;
+  margin: -59px 0 -15px 80px;
+  padding: 0 0 0 9px;
+  width: 600px;
+}
+
+body > div.content.container > div > ul > li > ul > li:nth-child(n+2){
+  border-left: 1px solid #dfdfdf;
+  margin: 20px 0 0px 80px;
+  padding: 0 0 0 9px;
+  width: 600px;
+}
