@@ -1,4 +1,16 @@
 <div class="sidebar">
+  <div class="logos">
+  {% if site.logos != null %}
+  <ul>
+    {% for logo in site.logos %}
+      {% if logo[1] != null %}
+      <!-- Add in logos here -->
+        <li><a href="{{ logo[1] }}">{{ logo[0] }}</a></li>
+      {% endif %}  
+    {% endfor %}
+  </ul>
+  {% endif %} 
+  </div>
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
@@ -26,11 +38,12 @@
         {% endif %}
       {% endfor %}
 
-<!-- Removing links to github download
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+<!-- Removing links to github download, site on github, and version
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">Site on GitHub</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
+ -->
 
     <p><a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">

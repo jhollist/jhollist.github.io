@@ -22,8 +22,15 @@ paginate:         5
 # Custom vars
 version:          0.2.0
 
+logos:
+  twitter:      https://twitter.com/jhollist
+  impactstory:  https://impactstory.org/JeffreyHollister/
+  linkedin:     
+  scholar:      http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en
+  github:       https://github.com/jhollist
+
 github:
-  repo:           https://github.com/jhollist/jhollist.github.io
+  repo:           
 
 #Plugins
 gems:
