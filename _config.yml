@@ -23,12 +23,11 @@ paginate:         5
 version:          0.2.0
 
 logos:
-  - site:     https://twitter.com/jhollist
-    - img:      https://g.twimg.com/Twitter_logo_white.png
-  - site:     https://impactstory.org/JeffreyHollister/
-    - img:     
-  - site:     http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en
-  - site:     https://github.com/jhollist
+- site:     https://twitter.com/jhollist
+    img:      https://g.twimg.com/Twitter_logo_white.png
+- site:     https://impactstory.org/JeffreyHollister/
+- site:     http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en
+- site:     https://github.com/jhollist
 
 github:
   repo:           
