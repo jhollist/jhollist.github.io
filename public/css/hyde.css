@@ -125,12 +125,11 @@ a.sidebar-nav-item:focus {
   margin-right: auto;
   margin-top: -50px;
   width: 100%
-  padding: 0;
   display: inline-flex;
 }
 
 .logos li {
-  padding: 20;
+  padding: 5 5 5 5;
 
 }
 
