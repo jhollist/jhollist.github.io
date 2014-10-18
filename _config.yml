@@ -24,13 +24,13 @@ version:          0.2.0
 
 logos:
   - site:     https://twitter.com/jhollist
-    img:      https://g.twimg.com/Twitter_logo_blue.png
+    img:      https://impactstory.org/static/img/favicons/twitter.ico
   - site:     https://impactstory.org/JeffreyHollister/
-    img:      http://gravatar.com/avatar/9387b461360eaf54e3fa3ce763c656f4/?s=120&d=mm     
+    img:      https://impactstory.org/static/img/favicon.ico    
   - site:     http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en
-    img:      http://scholar.google.com/favicon.ico
+    img:      https://impactstory.org/static/img/favicons/google_scholar.ico
   - site:     https://github.com/jhollist
-    img:      http://demo.phalconeye.com/files/github.gif
+    img:      https://impactstory.org/static/img/favicons/github.ico
 
 github:
   repo:           
