@@ -26,9 +26,11 @@ logos:
   - site:     https://twitter.com/jhollist
     img:      https://g.twimg.com/Twitter_logo_blue.png
   - site:     https://impactstory.org/JeffreyHollister/
-    img:      http://i2.wp.com/impactstory.files.wordpress.com/2014/01/new-impactstory-logo-no-type1.png?resize=181%2C181     
+    img:      https://impactstory.org/logo/small     
   - site:     http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en
+    img:      http://scholar.google.com/favicon.ico
   - site:     https://github.com/jhollist
+    img:      https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png
 
 github:
   repo:           
