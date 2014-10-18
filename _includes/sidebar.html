@@ -4,7 +4,7 @@
   <ul>
     {% for logo in site.logos %}      
       <!-- Add in logos here -->
-      <li><a href="{{ logo.site }}">{{ logo.img }}</a></li> 
+      <li><a href="{{ logo.site }}"><img src="{{ logo.img }}"/></a></li> 
     {% endfor %}
   </ul>
   {% endif %} 
