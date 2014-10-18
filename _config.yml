@@ -26,11 +26,11 @@ logos:
   - site:     https://twitter.com/jhollist
     img:      https://g.twimg.com/Twitter_logo_blue.png
   - site:     https://impactstory.org/JeffreyHollister/
-    img:      https://impactstory.org/logo/small     
+    img:      http://gravatar.com/avatar/9387b461360eaf54e3fa3ce763c656f4/?s=120&d=mm     
   - site:     http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en
     img:      http://scholar.google.com/favicon.ico
   - site:     https://github.com/jhollist
-    img:      https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png
+    img:      http://demo.phalconeye.com/files/github.gif
 
 github:
   repo:           
