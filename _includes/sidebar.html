@@ -2,11 +2,9 @@
   <div class="logos">
   {% if site.logos != null %}
   <ul>
-    {% for logo in site.logos %}
-      {% if logo.site != null %}
+    {% for logo in site.logos %}      
       <!-- Add in logos here -->
-        <li><a href="{{ logo.site }}">{{ logo.site.img }}</a></li>
-      {% endif %}  
+      <li><a href="{{ logo.site }}">{{ logo.site }}</a></li> 
     {% endfor %}
   </ul>
   {% endif %} 
