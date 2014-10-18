@@ -123,10 +123,11 @@ a.sidebar-nav-item:focus {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: inline-flex;
 }
 
-.logos ul li {
-  display: inline;
+.logos li {
+  padding: 10px;
 }
 
 /* Container
