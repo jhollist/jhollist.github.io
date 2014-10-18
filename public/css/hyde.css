@@ -123,14 +123,15 @@ a.sidebar-nav-item:focus {
   list-style-type: none;
   margin-left: auto;
   margin-right: auto;
+  margin-top: -50px;
   width: 100%
   padding: 0;
   display: inline-flex;
 }
 
 .logos li {
-  padding-left: 20px;
-  padding-right:20px;
+  padding: 20px;
+
 }
 
 /* Container
