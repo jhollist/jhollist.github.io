@@ -37,7 +37,7 @@ layout: none
 {% endraw %}
 {% endhighlight %}
 
-I have saved this in the source of my website as `feed.r.xml`.  One gotcha is that Jekyll appears to convert all categories to lower case.  I had it site to loop on `site.categories.R` and it wasn't working.  Switching to `site.categories.r` fixed the problem.  
+I have saved this in the source of my website as `feed.r.xml`.  One gotcha is that Jekyll appears to convert all categories to lower case.  I had it set to loop on `site.categories.R` and it wasn't working.  Switching to `site.categories.r` fixed the problem.  
 
 Since `feed.r.xml` has the `layout: null` in the YAML, everytime the site builds on Github (i.e. everytime a change is made), this feed will get updated.  In theory, I should be able to submit this feed to [R-bloggers](http://www.r-bloggers.com/add-your-blog/) and everytime I have a new post with the R category, it will also get picked up by R-bloggers.  Only downside to this is that a new category template will be required for each category that I want to build the RSS feed for.  
 
