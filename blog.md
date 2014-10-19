@@ -10,4 +10,3 @@ title: Blog
   {% endfor %}
 </ul>
 
-<p>page generated on: {{ page.date }} </p>
