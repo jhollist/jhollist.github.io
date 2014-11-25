@@ -175,74 +175,35 @@ the National Land Cover Dataset at Multiple Spatial Extents. Photogrammetric Eng
 - Hollister, J. W. and L. M. Ernst (2001) Eelgrass Habitats get a Boost from Geographic Information Systems. Maritimes. 43(1):16-18.
 
 ###Thesis/Dissertations
-- Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic
-Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp.
-- Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia.
-Masters of Environmental Management Project, Duke University.
+- Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp.
+- Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University.
 
 ###Special Sessions and Workshops
 
-- “Who am I and Why am I here: Lakes, Linked Data, and R” (Invited presentation to Data.gov Semantic Web
-and Linked Data working group). Aug 2012
-- “Job Hunting Experiences of Recent Graduates in Landscape Ecology” (Co-organized with Anita Morzillo).
-US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April
-2007.
-- “Conditional Probability Analysis: Demonstration using R and R-Excel” (Co-presented with John F. Paul).
-Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA.
-November 2006.
-- "Marine and Coastal Applications of Landscape Ecology" (Co-organized with Matt Nicholson, Elizabeth
-Hinchey and Brad Robbins). US Chapter of the International Association for Landscape Ecology Annual
-Meeting, Las Vegas, Nevada. April 2004.
-- “Spatial Analysis Workshop” (Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence
-University Faculty and Staff). St. Lawrence University, Canton, NY. December 2002.
+- “Who am I and Why am I here: Lakes, Linked Data, and R” (Invited presentation to Data.gov Semantic Web and Linked Data working group). Aug 2012
+- “Job Hunting Experiences of Recent Graduates in Landscape Ecology” (Co-organized with Anita Morzillo). US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
+- “Conditional Probability Analysis: Demonstration using R and R-Excel” (Co-presented with John F. Paul). Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
+- "Marine and Coastal Applications of Landscape Ecology" (Co-organized with Matt Nicholson, Elizabeth Hinchey and Brad Robbins). US Chapter of the International Association for Landscape Ecology Annual Meeting, Las Vegas, Nevada. April 2004.
+- “Spatial Analysis Workshop” (Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff). St. Lawrence University, Canton, NY. December 2002.
 
 ###Seminars, Presentations, and Accepted Abstracts
 
-- Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services,
-and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State
-University, Dept of Biology Seminar Series. 30 November, 2011.
-- Hollister, J. W. and W. B. Milstead. Using GIS to Estimate Lake Volume from Limited Data. Annual
-Meeting of the North American Lake Management Society, Hartford, CT. October 2009. Contribution No.
-AED-09-068.
-- Hollister, J. W. and W. B. Milstead. A Simple GIS Approach for Estimating Lake Volume from Limited
-Data. Northeast Arc Users Group Annual Meeting, Nashua, NH. October 2009. Contribution No. AED-09-
-067.
-- Hollister, J.W. “Using CProb in R and Excel to conduct conditional probability analysis” Annual Meeting of
-the North East Association of Environmental Biologists, Westport, CT. March 2009.
-- Walker, H. A., J. W. Hollister, B. Wilson, R. Scarborough, D. Carter, D Kreeger, K. Laudenabuch-Nelson, A. Howell, C. Strobel. More precise assessment of benthic conditions in Delaware Bay using probability survey
-data, targeted sampling and acoustic habitat maps. Sixth National Monitoring Conference, “Monitoring: Key
-to understanding our waters”. Atlantic City, New Jersey. May 2008. Contribution No. AED-08-xxx
-- Hollister, J. W. The new space race: Getting landscape data more fully integrated into causal analysis. Super
-Causal Analysis Team Workgroup (SuperCAT) Meeting. February 2008.
-- Hollister, J. W. Estuarine monitoring and assessment: The integral role of GIS. Rhode Island Geographic
-Information Systems Conference, Narragansett RI, June 2007. Contribution No. AED-07-074
-- Walker, H. A., J. W. Hollister, B. Wilson, R. Scarborough, D. Carter, D Kreeger, K. Laudenabuch-Nelson, A.
-- Howell, C. Strobel. More precise assessment of benthic conditions in Delaware Bay. Environmental
-Monitoring and Assessment Program Annual Symposium, Washington DC, April 2007. Contribution No.
-AED-07-027.
-- Hollister, J. W. Ecoinformatics: What is it and why should you care? Seminar at US EPA Atlantic Ecology
-Division, February 2007.
-- Hollister, J. W. Predicting Condition of Small Estuarine Systems along the United States Atlantic Coast.
-Seminar at US EPA Atlantic Ecology Division, June 2006.
-- Hollister, J. W., P.V. August, J.F. Paul. Predicting Estuarine Sediment Metal Concentration along the United
-States’ Atlantic Coast. North Atlantic Chapter of the Society of Environmental Toxicology and Chemistry
-12th Annual Meeting, Portland, ME. June 2006.
-- Hollister, J. W., P. V. August, J. F. Paul. Predictive modeling of estuarine condition along the United States’
-Atlantic Coast. US Chapter of the International Association for Landscape Ecology Annual Meeting, San
-Diego, CA. April 2006.
-- Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Coastal landscape structure and estuarine condition
-relationships: How does scale alter model reliability? US Chapter of the International Association for
-Landscape Ecology Annual Meeting, Las Vegas, Nevada. April 2004.
-- Hollister, J. W. Assessing and Monitoring out Nation's Estuaries: The Past, Present and Future of Geographic
-Information Systems Applications? Invited Speaker for Geographic Information Systems and Environmental
-Monitoring special session at the North Atlantic Chapter of the Society of Environmental Toxicology and
-Chemistry 9th Annual Meeting, Mystic, CT. April 2003
-- Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Assessing the Predictive Capability of Hydrologically
-Defined Sampling Units for Landscape Analysis. Invited speaker at St. Lawrence University, Canton, NY.
-December 2002
-- Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for
-Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods,
-NH. November 2002.'
+- Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011.
+- Hollister, J. W. and W. B. Milstead. Using GIS to Estimate Lake Volume from Limited Data. Annual Meeting of the North American Lake Management Society, Hartford, CT. October 2009. Contribution No. AED-09-068.
+- Hollister, J. W. and W. B. Milstead. A Simple GIS Approach for Estimating Lake Volume from Limited Data. Northeast Arc Users Group Annual Meeting, Nashua, NH. October 2009. Contribution No. AED-09-067.
+- Hollister, J.W. “Using CProb in R and Excel to conduct conditional probability analysis” Annual Meeting of the North East Association of Environmental Biologists, Westport, CT. March 2009.
+- Walker, H. A., J. W. Hollister, B. Wilson, R. Scarborough, D. Carter, D Kreeger, K. Laudenabuch-Nelson, A. Howell, C. Strobel. More precise assessment of benthic conditions in Delaware Bay using probability survey data, targeted sampling and acoustic habitat maps. Sixth National Monitoring Conference, “Monitoring: Key to understanding our waters”. Atlantic City, New Jersey. May 2008.
+- Hollister, J. W. The new space race: Getting landscape data more fully integrated into causal analysis. Super Causal Analysis Team Workgroup (SuperCAT) Meeting. February 2008.
+- Hollister, J. W. Estuarine monitoring and assessment: The integral role of GIS. Rhode Island Geographic Information Systems Conference, Narragansett RI, June 2007. Contribution No. AED-07-074
+- Walker, H. A., J. W. Hollister, B. Wilson, R. Scarborough, D. Carter, D Kreeger, K. Laudenabuch-Nelson, A. Howell, C. Strobel. More precise assessment of benthic conditions in Delaware Bay. Environmental Monitoring and Assessment Program Annual Symposium, Washington DC, April 2007.
+- Hollister, J. W. Ecoinformatics: What is it and why should you care? Seminar at US EPA Atlantic Ecology Division, February 2007.
+- Hollister, J. W. Predicting Condition of Small Estuarine Systems along the United States Atlantic Coast. Seminar at US EPA Atlantic Ecology Division, June 2006.
+- Hollister, J. W., P.V. August, J.F. Paul. Predicting Estuarine Sediment Metal Concentration along the United States’ Atlantic Coast. North Atlantic Chapter of the Society of Environmental Toxicology and Chemistry 12th Annual Meeting, Portland, ME. June 2006.
+- Hollister, J. W., P. V. August, J. F. Paul. Predictive modeling of estuarine condition along the United States’ Atlantic Coast. US Chapter of the International Association for Landscape Ecology Annual Meeting, San Diego, CA. April 2006.
+- Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Coastal landscape structure and estuarine condition relationships: How does scale alter model reliability? US Chapter of the International Association for Landscape Ecology Annual Meeting, Las Vegas, Nevada. April 2004.
+- Hollister, J. W. Assessing and Monitoring out Nation's Estuaries: The Past, Present and Future of Geographic Information Systems Applications? Invited Speaker for Geographic Information Systems and Environmental Monitoring special session at the North Atlantic Chapter of the Society of Environmental Toxicology and Chemistry 9th Annual Meeting, Mystic, CT. April 2003
+- Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Assessing the Predictive Capability of Hydrologically Defined Sampling Units for Landscape Analysis. Invited speaker at St. Lawrence University, Canton, NY. December 2002
+- Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.'
 
 ###Contributed Posters
 
@@ -305,6 +266,33 @@ Meeting, Ft. Lauderdale, FL. April 2000.
 - Hollister, J. W. and W. K. Michener. Landscape Ecology of the Northern Bobwhite Quail in the Coastal Plain
 of Georgia. International Association for Landscape Ecology World Congress, Snowmass, CO. July/Aug
 1999.
+
+</div>
+<div id = "computing" >
+
+##Software and Computing Skills:
+
+- Geographic Information Systems: approximately 18 years experience with ArcGIS, Arc/INFO, ArcView;
+approximately 3 years experience with Geostatistical Analyst; approximately 1 year experience with ArcIMS
+and ArcGIS Server
+- Remote Sensing: approximately 3 years experience with ERDAS Imagine
+- GPS: approximately 3 years experience with Trimble ProXR, Trimble GeoExplorer, Trimble GeoXT,
+Trimble Pathfinder Office
+- Statistics: approximately 8 years experience with R, including using R as a GIS; approximately 5 years
+experience with SAS; approximately 2 years experience with SPSS; approximately 1 year experience with SPlus,
+and SigmaPlot
+- Database: approximately 3 years experience with MS Access and SQL
+- Webpage Maintenance, Design and Administration: approximately 3 years experience with HTML;
+approximately 2 years experience with Dreamweaver; approximately 1 year experience with Typo3;
+approximately 1 year experience with Apache and Internet Information Server; approximately 1 year
+experience with MovableType; approximately 1 year experience using Drupal; less than 1 year experience
+with RApache and javascript
+- Programming: approximately 9 years experience with Arc Macro Language; approximately 5 years
+experience with Python; approximately 2 years experience with Visual Basic for Applications - MS Access,
+and MS Excel; less than 1 year experience with Java
+- Operating Systems and Office Software: daily use and systems administration with Windows NT/2000/XP;
+daily use and extensive knowledge of Microsoft Office 2000; former daily UNIX user. Red Hat and Ubuntu
+Linux user.
 
 </div>
 <div id = "grants" >
@@ -385,33 +373,6 @@ page (http://www.usiale.org/rellinks.htm).
 - Northeast Arc Users Group; Host Committee and Social Chair for 2010 Northeast Arc Users Group annual meeting in Newport, RI.
  - Chair, Poster session 2006 Northeast Arc Users Group annual meeting in Mystic, CT
  - Host Committee for 2006 Northeast Arc Users Group annual meeting in Mystic, CT
-
-</div>
-<div id = "computing" >
-
-##Software and Computing Skills:
-
-- Geographic Information Systems: approximately 18 years experience with ArcGIS, Arc/INFO, ArcView;
-approximately 3 years experience with Geostatistical Analyst; approximately 1 year experience with ArcIMS
-and ArcGIS Server
-- Remote Sensing: approximately 3 years experience with ERDAS Imagine
-- GPS: approximately 3 years experience with Trimble ProXR, Trimble GeoExplorer, Trimble GeoXT,
-Trimble Pathfinder Office
-- Statistics: approximately 8 years experience with R, including using R as a GIS; approximately 5 years
-experience with SAS; approximately 2 years experience with SPSS; approximately 1 year experience with SPlus,
-and SigmaPlot
-- Database: approximately 3 years experience with MS Access and SQL
-- Webpage Maintenance, Design and Administration: approximately 3 years experience with HTML;
-approximately 2 years experience with Dreamweaver; approximately 1 year experience with Typo3;
-approximately 1 year experience with Apache and Internet Information Server; approximately 1 year
-experience with MovableType; approximately 1 year experience using Drupal; less than 1 year experience
-with RApache and javascript
-- Programming: approximately 9 years experience with Arc Macro Language; approximately 5 years
-experience with Python; approximately 2 years experience with Visual Basic for Applications - MS Access,
-and MS Excel; less than 1 year experience with Java
-- Operating Systems and Office Software: daily use and systems administration with Windows NT/2000/XP;
-daily use and extensive knowledge of Microsoft Office 2000; former daily UNIX user. Red Hat and Ubuntu
-Linux user.
 
 </div>
 <div id = "additional" >
