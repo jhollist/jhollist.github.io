@@ -37,11 +37,15 @@ May 1995
 
 2012-Present 
   : Additional Courses and Training
+  : - Software Carpentry Teacher Training, Fall 2014, Software Carpentry Online Teacher Training
+  : - Fundamentals of Website Development (CSCI E-12), Spring 2014, Harvard University, Division of Continuing Education
+  : - Introduction to Data Science, Coursera/University of Washington, Spring 2013
+  : - Introduction to Computer Science using Java II (CSCI E-50b), Spring 2013, Harvard University, Division of Continuing Education
   : - Data Mining and Analysis (STATS 202), Fall 2012, Stanford University, Stanford Center for Professional Development
   : - Introduction to Computer Science using Java I (CSCI E-50a), Fall 2012, Harvard University, Division of Continuing Education
-  : - Introduction to Computer Science using Java II (CSCI E-50b), Spring 2013, Harvard University, Division of Continuing Education
+  
 
-##Research:
+##Research
 
 Aug 2008 - Present 
   : Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
@@ -83,7 +87,7 @@ May 1996 – July 1997
   : Resource Ecology Master’s Research, Duke University, Landscape Ecology Lab, Durham, NC
   : - Researched environmental, ecological, and spatial controls on the establishment success of Red Spruce (Picea rubens) in northwestern Virginia. Research techniques included a variety of geographic information systems analytical tools (e.g. Topographic Convergence Index) and spatial statistics techniques (e.g. partial mantel’s tests).
 
-##Teaching:
+##Teaching
 
 Jan 2007 – Present 
   : Adjunct Assistant Professor, University of Rhode Island, Department of Natural Resources Science, Kingston, RI
@@ -101,7 +105,7 @@ May 2003 – Aug 2004
   : Geographic Information Systems/Database Consultant, Rhode Island Natural History Survey, Kingston, RI
   : - Provided training to Rhode Island Natural History Survey and Ecological Inventory and Monitoring Stewardship Program Staff on ArcView and ArcMap GIS and Trimble GPS. Training focused on use of these products for ecological and natural history applications. June 2001 Geographic Information Systems Consultant, National Park Service, Gateway National Recreation Area, Staten Island, NY Trained Gateway National Recreation Area staff in use of ArcView, Spatial Analyst, and Trimble GPS products.
 
-##Research Products:
+##Research Products
 
 Peer Reviewed Articles
   : - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker (Submitted). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. Submitted to PLoS ONE.
@@ -277,7 +281,7 @@ Societies
   : Society for Conservation GIS
   : - Member, lapsed
   
-Additional Information:
+Additional Information
  : - Award Winning Homebrewer
  : - Barbeque-er
  : - Mediocre Dart player
