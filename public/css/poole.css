@@ -333,6 +333,8 @@ tbody tr:nth-child(odd) th {
 .post {
   margin-bottom: 4em;
   font-size: 20px;
+  margin-top:-30px;
+}
 }
 
 /* Blog post or page title */

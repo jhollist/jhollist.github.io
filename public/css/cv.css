@@ -3,6 +3,21 @@
  * @jhollist 2014
  */
 
+.page {
+  margin-top: -50px;
+}
+.page-title {
+  display: none;
+}
+
+#jeffrey-w-hollister {
+  text-align:center;
+}
+
+body > div.content.container > div > ul {
+  text-align:center;
+}
+
 ul {
   list-style-type: none; 
   left: 0;
@@ -11,11 +26,27 @@ ul {
   font-size: 14px;
   text-transform: none;
   width: 100%;
+  margin-left: 0px;
+  margin-bottom: 2px;
+  padding-left: 0px;
+}
+li {
+  margin-bottom: 2px;
 }
 
-#education ul li {
-  border-left: 1px solid #dfdfdf;
-  margin: 20px 0 0px 80px;
-  padding: 0 0 0 9px;
-  width: 600px;
+dt {
+  float: left;
+  clear: right;
+  width: 20%;
+  font-size: 18px;
 }
+
+dd{
+  margin-left: 22%;
+  font-size: 18px;
+}
+
+dl > dd > ul{
+  margin-top: 10px;
+}
+
