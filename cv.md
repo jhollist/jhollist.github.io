@@ -14,6 +14,16 @@ cv: True
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 - [jwhollister.com](http://jwhollister.com)
 
+<div id="cv-nav">
+
+- [Education](#education)
+- [Research](#research)
+- [Teaching](#teaching)
+- [Research Products](#research-products)
+- [Qualifications and Activities](#qualifications-and-activities)
+
+</div>
+
 ##Education
 
 December 2004
@@ -108,7 +118,7 @@ May 2003 – Aug 2004
 ##Research Products
 
 Peer Reviewed Articles
-  : - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker (Submitted). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. Submitted to PLoS ONE.
+  : - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457. doi: [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457)
   : - Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764. doi:10.1371/journal.pone.0025764. 
   : - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. Contribution no. AED-10-018.
   : - Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. 
@@ -182,7 +192,7 @@ Contributed Posters
   : - Hollister, J. W., J. Ott, C. Guyer, and W. K. Michener. Estimating Preserve Size for Gopher Tortoises (Gopherus polyphemus). US Chapter of the International Association for Landscape Ecology Annual Meeting, Ft. Lauderdale, FL. April 2000.
   : - Hollister, J. W. and W. K. Michener. Landscape Ecology of the Northern Bobwhite Quail in the Coastal Plain of Georgia. International Association for Landscape Ecology World Congress, Snowmass, CO. July/Aug 1999.
 
-##Professional Qualifications and Activities
+##Qualifications and Activities
 
 Computation
   : 

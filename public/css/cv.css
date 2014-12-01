@@ -14,6 +14,23 @@
   text-align:center;
 }
 
+#cv-nav li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 3px;
+  padding-left: 6px; 
+  border-left: 2px solid #dfdfdf;
+ 
+}
+#cv-nav li:nth-child(5){
+ border-right: 2px solid #dfdfdf;
+ padding-right: 6px;
+}
+#cv-nav ul {
+  text-align:center;
+  margin-top: 20px;
+  margin-botom: 25px;
+}
 body > div.content.container > div > ul {
   text-align:center;
 }
@@ -50,3 +67,26 @@ dl > dd > ul{
   margin-top: 10px;
 }
 
+/* page break from http://davidwalsh.name/css-page-breaks */
+
+@media all {
+  .page-break	{ 
+    display: none;
+  }
+}
+
+@media print {
+  #cv-nav {
+    display: none;
+  }
+  
+  div.sidebar {
+    display: none;
+  }
+  
+  li {
+    orphans: 4;
+    widows: 3;
+  }
+  
+}
