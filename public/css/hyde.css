@@ -121,11 +121,15 @@ a.sidebar-nav-item:focus {
 /* Sidebar logos */
 .logos {
   margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 .logos ul {
   list-style-type: none;
   display: inline-flex;
+  text-align: center;
 }
 
 .logos li {

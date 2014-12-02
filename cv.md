@@ -20,7 +20,7 @@ cv: True
 - [Education](#education)
 - [Research](#research)
 - [Teaching](#teaching)
-- [Research Products](#research-products)
+- [Research Products](#research-products-and-presentations)
 - [Qualifications and Activities](#qualifications-and-activities)
 
 </div>

@@ -3,6 +3,9 @@
  * @jhollist 2014
  */
 
+.logos {
+  width: 176px;
+}
 .page {
   margin-top: -50px;
 }
