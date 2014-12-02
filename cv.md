@@ -101,7 +101,7 @@ May 1996 – July 1997
 
 Jan 2007 – Present 
   : Adjunct Assistant Professor, University of Rhode Island, Department of Natural Resources Science, Kingston, RI
-  : - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level seminar course in Landscape Ecology. Course included readings and group discussion of the concepts and principles of landscape ecology.
+  : - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level [seminar course in Landscape Ecology](http://www.edc.uri.edu/nrs/classes/nrs534/). Course included readings and group discussion of the concepts and principles of landscape ecology.  Also team taught with Drs. Peter V August and Adam Smith, a [scientific computing survey course](http://scicomp2014.edc.uri.edu) focusing on R, version control, and reproducible research.  Provided guest lecture on R in CSC 592 Programming For Scientists during Fall 2014.
 
 Aug 2005 – May 2006 
   : Postdoctoral Teaching Fellow, U.S. Coast Guard Academy, Department of Science, Marine Sciences Section, New London, CT
@@ -115,12 +115,12 @@ May 2003 – Aug 2004
   : Geographic Information Systems/Database Consultant, Rhode Island Natural History Survey, Kingston, RI
   : - Provided training to Rhode Island Natural History Survey and Ecological Inventory and Monitoring Stewardship Program Staff on ArcView and ArcMap GIS and Trimble GPS. Training focused on use of these products for ecological and natural history applications. June 2001 Geographic Information Systems Consultant, National Park Service, Gateway National Recreation Area, Staten Island, NY Trained Gateway National Recreation Area staff in use of ArcView, Spatial Analyst, and Trimble GPS products.
 
-##Research Products
+##Research Products and Presentations
 
 Peer Reviewed Articles
   : - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457. doi: [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457).
   : - Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764. doi: [10.1371/journal.pone.0025764](http://dx.doi.org/10.1371/journal.pone.0025764). 
-  : - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. Contribution no. AED-10-018.
+  : - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. doi: [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321). [Open Access Link](public/files/HollisterMilsteadLakeVolume.pdf)
   : - Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. 
   : - Benyi, S. J., J. W. Hollister, J. A. Kiddon, H. A. Walker. (2009). A Process for Comparing and Interpreting Differences in Two Benthic Indices in New York Harbor. Marine Pollution Bulletin. 59:65-71.
   : - Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235.
