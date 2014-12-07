@@ -154,7 +154,7 @@ Thesis and Dissertation
   : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University.
 
 Bootcamps and Workshops
-  : - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. 
+  : - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015.
   : - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015. links: [web](gedr)
   : - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014. links: [web](https://github.com/iglpdc/2014-01-13-uri) 
   : - R for Spatial Data Management and Analysis. Presented during Student Worksop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013. links: [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
