@@ -181,7 +181,7 @@ Seminars and Presentations
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Assessing the Predictive Capability of Hydrologically Defined Sampling Units for Landscape Analysis. Invited speaker at St. Lawrence University, Canton, NY. December 2002
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.'
 
-Contributed Posters
+Posters
   : - Copeland, J. L., J. W. Hollister. Geospatial Tools for Ecosystem Services. ESRI International Users Conference, San Diego, CA. June 2010. 
   : - Hollister, J. W., W. B. Milstead. Linking landscapes to ecosystem services: Landscape structure as an indicator and predictor of water clarity in New England lakes. US Chapter of the International Association for Landscape Ecology Annual Meeting, Athens, GA. April 2010.
   : - Milstead, W. B., J. W. Hollister, H. A. Walker, J. A. Kiddon, J. L. Copeland, H. W. Buffum, M. A. Charpentier, D. J Keith. A Northeastern US Lakes Database to Support Ecosystem Services Research. Annual Meeting of the North East Association of Environmental Biologists, Newport, RI, March 2010.
