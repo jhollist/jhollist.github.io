@@ -161,8 +161,6 @@ Bootcamps and Workshops
   : - Job Hunting Experiences of Recent Graduates in Landscape Ecology. Co-organized with A. T. Morzillo US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
   : - Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
   : - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002.
-  
-<!-- JEFF START HERE --!>
 
 Seminars and Presentations
   : - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012.
