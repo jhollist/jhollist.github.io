@@ -153,18 +153,21 @@ Thesis and Dissertation
   : - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp.
   : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University.
 
-Special Sessions and Workshops
-  : - “Who am I and Why am I here: Lakes, Linked Data, and R” (Invited presentation to Data.gov Semantic Web and Linked Data working group). Aug 2012
-  : - “Job Hunting Experiences of Recent Graduates in Landscape Ecology” (Co-organized with Anita Morzillo). US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
-  : - “Conditional Probability Analysis: Demonstration using R and R-Excel” (Co-presented with John F. Paul). Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
-  : - "Marine and Coastal Applications of Landscape Ecology" (Co-organized with Matt Nicholson, Elizabeth Hinchey and Brad Robbins). US Chapter of the International Association for Landscape Ecology Annual Meeting, Las Vegas, Nevada. April 2004.
-  : - “Spatial Analysis Workshop” (Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff). St. Lawrence University, Canton, NY. December 2002.
+Bootcamps and Workshops
+  : - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. links: [web]() [slides]() [code/data]()
+  : - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015. links: [web](gedr)
+  : - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014. links: [web](https://github.com/iglpdc/2014-01-13-uri) 
+  : - R for Spatial Data Management and Analysis. Presented during Student Worksop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013. links: [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
+  : - Job Hunting Experiences of Recent Graduates in Landscape Ecology. Co-organized with A. T. Morzillo US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
+  : - Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
+  : - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002.
 
 Seminars and Presentations
+  : - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012.
   : - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011.
   : - Hollister, J. W. and W. B. Milstead. Using GIS to Estimate Lake Volume from Limited Data. Annual Meeting of the North American Lake Management Society, Hartford, CT. October 2009. Contribution No. AED-09-068.
   : - Hollister, J. W. and W. B. Milstead. A Simple GIS Approach for Estimating Lake Volume from Limited Data. Northeast Arc Users Group Annual Meeting, Nashua, NH. October 2009. Contribution No. AED-09-067.
-  : - Hollister, J.W. “Using CProb in R and Excel to conduct conditional probability analysis” Annual Meeting of the North East Association of Environmental Biologists, Westport, CT. March 2009.
+  : - Hollister, J.W. Using CProb in R and Excel to conduct conditional probability analysis. Annual Meeting of the North East Association of Environmental Biologists, Westport, CT. March 2009.
   : - Walker, H. A., J. W. Hollister, B. Wilson, R. Scarborough, D. Carter, D Kreeger, K. Laudenabuch-Nelson, A. Howell, C. Strobel. More precise assessment of benthic conditions in Delaware Bay using probability survey data, targeted sampling and acoustic habitat maps. Sixth National Monitoring Conference, Monitoring: Key to understanding our waters. Atlantic City, New Jersey. May 2008.
   : - Hollister, J. W. The new space race: Getting landscape data more fully integrated into causal analysis. Super Causal Analysis Team Workgroup (SuperCAT) Meeting. February 2008.
   : - Hollister, J. W. Estuarine monitoring and assessment: The integral role of GIS. Rhode Island Geographic Information Systems Conference, Narragansett RI, June 2007. 
