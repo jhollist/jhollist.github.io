@@ -150,8 +150,12 @@ Popular articles, Letters, and Guest Blog Posts
   : - Hollister, J. W. and L. M. Ernst (2001) Eelgrass Habitats get a Boost from Geographic Information Systems. Maritimes. 43(1):16-18. links: [pdf](public/files/HollisterErnst2001Maritimes.pdf)
 
 Thesis and Dissertation
-  : - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp.
-  : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University.
+  : - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp. links: [pdf](public/files/Hollisterdissertation.pdf).
+  : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](public/files/Hollistermasterproject.pdf).
+  
+Software and Repositories
+ : - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) [GitHub](http://www.github.com/USEPA/lakemorpho)
+ : - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
 
 Bootcamps and Workshops
   : - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015.
@@ -160,15 +164,16 @@ Bootcamps and Workshops
   : - R for Spatial Data Management and Analysis. Presented during Student Worksop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013. links: [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
   : - Job Hunting Experiences of Recent Graduates in Landscape Ecology. Co-organized with A. T. Morzillo US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
   : - Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
-  : - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002.
+  : - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002. links: [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
 
 Seminars and Presentations
   : - Kreakie, B. J., F. Nojavan, J. W. Hollister When Green Goes Bad: A Computational Ecology Approach to a Better Understanding of Cyanobacteria, Nutrients, and Lakes. USEPA Office of Water Oceans, and Wetlands Cyanobacteria webinar series. October 2014. links: [web](http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=292834) [slides](http://figshare.com/articles/When_Green_Goes_Bad_A_Computational_Ecology_Approach_to_a_better_Understanding_of_Cyanobacteria_Nutrients_and_Lakes/1243644).
   : - Kreakie, B. J., W. B. Milstead, J. W. Hollister.  When Green Goes Bad: An Interdisciplinary Approach to Better Understand Cyanobacteria, Nutrients, and Lakes. USEPA Safe and Sustainable Water Resources Webinar Series. June 2014. links: [web](http://www2.epa.gov/water-research/when-green-goes-bad-interdisciplinary-approach-better-understand-cyanobacteria).
-  : - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012.
-  : - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011.
-  : - Hollister, J. W. and W. B. Milstead. Using GIS to Estimate Lake Volume from Limited Data. Annual Meeting of the North American Lake Management Society, Hartford, CT. October 2009. Contribution No. AED-09-068.
-  : - Hollister, J. W. and W. B. Milstead. A Simple GIS Approach for Estimating Lake Volume from Limited Data. Northeast Arc Users Group Annual Meeting, Nashua, NH. October 2009. Contribution No. AED-09-067.
+  : - Hollister, J. W. Blogging, Social Media, and Science: EPA Edition. Presentation given at USEPA Atlantic Ecology Division. March 2014. links: [slides](epablogpresent/).
+  : - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012. links: [slides](http://files.figshare.com/1829418/jwhLODPresent08152012_v2.pdf).
+  : - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011. links: [slides](http://files.figshare.com/1829419/jwhWCSUSeminar_v3.pdf).
+  : - Hollister, J. W. and W. B. Milstead. Using GIS to Estimate Lake Volume from Limited Data. Annual Meeting of the North American Lake Management Society, Hartford, CT. October 2009. links: [slides](http://files.figshare.com/1829427/jwhLakeVolumeNALMS.pdf).
+  : - Hollister, J. W. and W. B. Milstead. A Simple GIS Approach for Estimating Lake Volume from Limited Data. Northeast Arc Users Group Annual Meeting, Nashua, NH. October 2009. 
   : - Hollister, J.W. Using CProb in R and Excel to conduct conditional probability analysis. Annual Meeting of the North East Association of Environmental Biologists, Westport, CT. March 2009.
   : - Walker, H. A., J. W. Hollister, B. Wilson, R. Scarborough, D. Carter, D Kreeger, K. Laudenabuch-Nelson, A. Howell, C. Strobel. More precise assessment of benthic conditions in Delaware Bay using probability survey data, targeted sampling and acoustic habitat maps. Sixth National Monitoring Conference, Monitoring: Key to understanding our waters. Atlantic City, New Jersey. May 2008.
   : - Hollister, J. W. The new space race: Getting landscape data more fully integrated into causal analysis. Super Causal Analysis Team Workgroup (SuperCAT) Meeting. February 2008.
@@ -184,6 +189,7 @@ Seminars and Presentations
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.'
 
 Posters
+  : - Hollister, J. W., W. B. Milstead, B. J. Kreakie. Expanding Models of Lake Trophic State to Predict Cyanobacteria in Lakes: A Data Mining Approach. 99th Annual Ecological Society of America Annual Meeting, Sacramento, CA. August 2014. links: [poster](http://cdn.f1000.com/posters/docs/265874289)
   : - Copeland, J. L., J. W. Hollister. Geospatial Tools for Ecosystem Services. ESRI International Users Conference, San Diego, CA. June 2010. 
   : - Hollister, J. W., W. B. Milstead. Linking landscapes to ecosystem services: Landscape structure as an indicator and predictor of water clarity in New England lakes. US Chapter of the International Association for Landscape Ecology Annual Meeting, Athens, GA. April 2010.
   : - Milstead, W. B., J. W. Hollister, H. A. Walker, J. A. Kiddon, J. L. Copeland, H. W. Buffum, M. A. Charpentier, D. J Keith. A Northeastern US Lakes Database to Support Ecosystem Services Research. Annual Meeting of the North East Association of Environmental Biologists, Newport, RI, March 2010.
