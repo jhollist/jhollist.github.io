@@ -60,14 +60,14 @@ May 1995
 
 Aug 2008 - Present 
   : Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
-  : - I serve as principle investigator and provide leadership to the division on landscape ecological research, on application of geospatial sciences to the understanding of water quality in fresh and estuarine waters, and on the use of informatics and information management tools in environmental research. In this role, I have developed tools and methodologies (GIS and statistical) using numerous software packages and languages (R, ArcGIS, GRASS, Python, MS Excel) and have continued prior research on technology transfer of data, analytical methods and predictive tools to Northeast States; and developed statistical and modeling tools to facilitate use of defensible techniques in water quality criteria development. Previously I have: served as Co-lead on a project studying ecosystem services related to nutrient cycling in Northeastern lakes and ponds, was the liaison between the National Ecological Observatory Network (NEON) and EPA’s Ecosystem Services Research Program (ESRP), was task lead for our lakes ecosystem services work, and served as co-task lead for developing decision support tools for a project in Narragansett Bay and its watershed. I am currently serving as a co-Task Lead on a project exploring cyanobacterial risk in lakes of the Northeastern US. I am also exploring the use of Open Science, data mining, and computational ecology in our various research programs. 
+  : - I serve as principle investigator and provide leadership to the division on landscape ecological research, on application of geospatial sciences to the understanding of water quality in fresh and estuarine waters, and on the use of informatics and information management tools in environmental research. In this role, I have developed tools and methodologies (GIS and statistical) using numerous software packages and languages (R, ArcGIS, GRASS, Python, MS Excel) and have continued prior research on technology transfer of data, analytical methods and predictive tools to Northeast States; and developed statistical and modeling tools to facilitate use of defensible techniques in water quality criteria development. Previously I have: served as Co-lead on a project studying ecosystem services related to nutrient cycling in Northeastern lakes and ponds, was the liaison between the National Ecological Observatory Network (NEON) and EPA’s Ecosystem Services Research Program (ESRP), was task lead for our lakes ecosystem services work, and served as co-task lead for developing decision support tools for a project in Narragansett Bay and its watershed. I am currently serving as a co-Task Lead on a project exploring cyanobacteria risk in lakes of the Northeastern US. I am also exploring the use of Open Science, data mining, and computational ecology in our various research programs. 
 
 May 2006 – July 2008 
   : Postdoctoral Landscape Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
   : - Contributed to research and technology transfer of National Coastal Assessment data, analytical methods and predictive tools to Northeast States. Developed statistical and modeling tools (e.g. Conditional Probability Analysis with R and Excel) to facilitate use of defensible techniques in water quality criteria development. Provided Landscape Ecology, Spatial Statistics and GIS support to a variety of ongoing projects at the Atlantic Ecology Division and within US EPA’s Office of Research and Development. Explored linkages between landscape and downstream receiving waters and examined utility of broad scale monitoring data in identifying and assessing ecological impairment.
 
 Aug 2005 – May 2006 
-  : Postdoctoral Fellow, U.S. Coast Guard Academy, Dep. of Science, Marine Sciences Section, New London, CT
+  : Postdoctoral Fellow, U.S. Coast Guard Academy, Department. of Science, Marine Sciences Section, New London, CT
   : - Continued prior research on multi-scale interactions between landscape structure (via NLCD) and sediment metal concentrations (via EMAP) and predictive modeling of estuarine impairment. Worked with students, faculty and colleagues in the Marine Sciences Section, the International Ice Patrol, and Information Services Division on a wide variety of Geographic Information Systems projects.
 
 Jan 2005 – July 2005 
@@ -122,7 +122,7 @@ Peer Reviewed Articles
   : - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (In Review) Modeling Lake Trophic State: A Data Mining Approach.  To be submitted to Freshwater Science.
   : - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker. (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457. doi: [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081457&representation=PDF).
   : - Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764. doi: [10.1371/journal.pone.0025764](http://dx.doi.org/10.1371/journal.pone.0025764). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0025764&representation=PDF).
-  : - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. doi: [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321). links: [pdf](public/files/HollisterMilsteadLakeVolume.pdf).
+  : - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. doi: [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321). links: [pdf](public/files/HollisterMilsteadLakeVolume.pdf) corrigenda: [10.1080/10402381.2014.930627](http://dx.doi.org/10.1080/10402381.2014.930627) [pdf](http://www.tandfonline.com/doi/pdf/10.1080/10402381.2014.930627) .  
   : - Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. doi: [10.1007/s00267-010-9485-3](http://dx.doi.org/10.1007/s00267-010-9485-3) links: [pdf](public/files/Morzilloetal2010EnvMonitor_accepted.pdf)
   : - Benyi, S. J., J. W. Hollister, J. A. Kiddon, H. A. Walker. (2009). A Process for Comparing and Interpreting Differences in Two Benthic Indices in New York Harbor. Marine Pollution Bulletin. 59:65-71. doi: [10.1016/j.marpolbul.2008.11.009](http://dx.doi.org/10.1016/j.marpolbul.2008.11.009).
   : - Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235. doi: [10.1007/s10661-008-0675-x](http://dx.doi.org/10.1007/s10661-008-0675-x). links: [pdf](public/files/HaleHollisterEcoInfandMonitor2009.pdf).
@@ -140,7 +140,7 @@ Chapters
 
 Popular articles, Letters, and Guest Blog Posts
   : - Kreakie, B. J., J.W. Hollister, W. B. Milstead (2014). Modeling Cyanobacteria Ecology to Keep Harmful Algal Blooms at Bay.  US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/modeling-cyanobacteria-ecology-to-keep-harmful-algal-blooms-at-bay/)
-  : - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
+  : - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Opening our Science: Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
   : - Hollister, J. W., A. Smith, P. V. August. (2014). Keeping the Bootcamp Fun Alive!  Software Carpentry Blog. links: [web](http://software-carpentry.org/blog/2014/06/post-mortem-on-uri-bootcamp.html)
   : - Hollister, J. W., W. B. Milstead. (2013). SPARROWs, Lakes, and Nutrients? US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2013/12/sparrows-lakes-and-nutrients/)
   : - Hollister, J. W. (2010). Ecology on the Web – 3 Years Old. Submitted to Ecology on the Web, Bulletin of the Ecological Society of America. 91(2)232–234. doi: [10.1890/0012-9623-91.2.232](http://dx.doi.org/10.1890/0012-9623-91.2.232). links: [pdf](http://www.esajournals.org/doi/pdf/10.1890/0012-9623-91.2.232)
@@ -162,7 +162,7 @@ Bootcamps and Workshops
   : - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015.
   : - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015. links: [web](gedr)
   : - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014. links: [web](https://github.com/iglpdc/2014-01-13-uri) 
-  : - R for Spatial Data Management and Analysis. Presented during Student Worksop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013. links: [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
+  : - R for Spatial Data Management and Analysis. Presented during Student Workshop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013. links: [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
   : - Job Hunting Experiences of Recent Graduates in Landscape Ecology. Co-organized with A. T. Morzillo US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
   : - Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
   : - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002. links: [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
@@ -170,6 +170,7 @@ Bootcamps and Workshops
 Seminars and Presentations
   : - Kreakie, B. J., F. Nojavan, J. W. Hollister When Green Goes Bad: A Computational Ecology Approach to a Better Understanding of Cyanobacteria, Nutrients, and Lakes. USEPA Office of Water Oceans, and Wetlands Cyanobacteria webinar series. October 2014. links: [web](http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=292834) [slides](http://figshare.com/articles/When_Green_Goes_Bad_A_Computational_Ecology_Approach_to_a_better_Understanding_of_Cyanobacteria_Nutrients_and_Lakes/1243644).
   : - Kreakie, B. J., W. B. Milstead, J. W. Hollister.  When Green Goes Bad: An Interdisciplinary Approach to Better Understand Cyanobacteria, Nutrients, and Lakes. USEPA Safe and Sustainable Water Resources Webinar Series. June 2014. links: [web](http://www2.epa.gov/water-research/when-green-goes-bad-interdisciplinary-approach-better-understand-cyanobacteria).
+  : - Kreakie, B. J., W. B. Milstead, J. W. Hollister. Combined Influence of Landscape Composition and Nutrient Inputs on Lake Trophic Structure. US Chapter of the International Association for Landscape Ecology Annual Meeting, Anchorage, AK. May 2014.
   : - Hollister, J. W. Blogging, Social Media, and Science: EPA Edition. Presentation given at USEPA Atlantic Ecology Division. March 2014. links: [slides](epablogpresent/).
   : - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012. links: [slides](http://files.figshare.com/1829418/jwhLODPresent08152012_v2.pdf).
   : - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011. links: [slides](http://files.figshare.com/1829419/jwhWCSUSeminar_v3.pdf).
@@ -202,7 +203,7 @@ Posters
   : - Benyi, S.J., Kiddon, J. A., Hollister, J.W., Walker, H. A. Interpreting Differences in Several Benthic Indices. Estuarine Research Foundation Annual Meeting, Providence, RI November 2007.
   : - Hollister, J.W. and J.L. Copeland. Relating distance weighted measures of landscapes to water quality: Does distance matter? US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
   : - Weissberger, E. J. , J. A. Nestlerode, A. T. Morzillo, J. W. Hollister, J. F. Paul. Developing a nationally consistent approach for assessing regional associations between nutrients and benthic biological condition in estuarine waters. Environmental Monitoring and Assessment Program Annual Symposium, Washington DC, April 2007.
-  : - Hollister, J. W., J. F. Paul, J. L. Copealand, M. L. Gonzalez, P.V. August. Accuracy of the 1992 National Land Cover Dataset area estimates: An analysis at multiple spatial extents. North American Land Cover Summit, Washington, DC. September 2006. 
+  : - Hollister, J. W., J. F. Paul, J. L. Copeland, M. L. Gonzalez, P.V. August. Accuracy of the 1992 National Land Cover Dataset area estimates: An analysis at multiple spatial extents. North American Land Cover Summit, Washington, DC. September 2006. 
   : - Hayden, B., Brewer C., Estrin D., Goldman J., Michener W., Baru C., Cid C., Collinge S., Foster D., Franklin, J., Goldberg, D., Huenneke, L., Krishtalka, L., Levitt, J., MacMahon, J., Nadelhoffer, K., Palmer, M., Reichman, O. J., Swain, H., Welge, M., Hollister, J. W. Designing the National Ecological Observatory Network (NEON). North American Carbon Program Data Management Workshop, New Orleans, LA. January 2005.
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Assessing the Predictive Capability of Landscape Sampling Units of Varying Scale in the Analysis of Estuarine Condition. US Chapter of the International Association for Landscape Ecology Annual Meeting, Banff, Alberta. April 2003.
   : - Hollister, J. W., J. F. Paul, J. Copeland, R. L. Comeleo, M. Charpentier, P. V. August, M. Brush. Relating Estuarine Condition with Landscape Structure in the Mid-Atlantic Region of the United States. Ecological Society of America Annual Meeting, Madison, WI. August 2001.
@@ -213,48 +214,40 @@ Posters
 
 ##Qualifications and Activities
 
-Computation
-  : 
-  : Programming
-  : - approximately 10 years experience with R
-  : - approximately 9 years experience with Arc Macro Language
-  : - approximately 5 years experience with Python
-  : - approximately 2 years experience with Visual Basic for Applications - MS Access, and MS Excel
-  : - less than 1 year experience with Java
+Programming
+  : R  
+  : - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with one on CRAN and several in development on GitHub. I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.
+  : Web
+  : - I have served as a web page maintainer for various organizations since ~2000.  Currently I maintain my own website and a few small project websites.  I use HTML, CSS, Jekyll, Github pages as the primary development environment and I am comfortable coding sites from scratch or implementing templates and frameworks (i.e. Skeleton or Bootstrap).  I have limited experience with javascript and in the past have been responsible for limited maintenance of  Apache and IIS servers.  
+  : Python
+  : - Starting in 2006, I have written Python scripts to interact with ESRI products.  Since then,  I have also developed many scripts for data management, data collection, interacting with the Twitter API, and communicating with R.   
+  : Java
+  : - I have about one year experience with Java, primarily from computer science coursework.  
+  : Misc 
+  : - I use markdown and Rmarkdown extensively for developing web content, creating reproducible presentations and writing manuscripts.  Over the years I have also used a variety of tools for individual projects.  These include Visual Basic for Applications, Arc Macro Language, Typo3, Dreamweaver, Movable Type, Drupal, and RApache
+  
+Data Management and Analysis
   : GIS
-  : - approximately 18 years experience with ArcGIS, Arc/INFO, ArcView
-  : - approximately 3 years experience with Geostatistical Analyst
-  : - approximately 1 year experience with ArcIMS and ArcGIS Server
+  : - Since 2012, I have used R (with `sp`, `rgdal`, `rgeos`, and `raster`) as my primary GIS and spatial analysis platform. The prior 17 years I extensively used the ESRI product line including ArcGIS, Arc/INFO, ArcView, ArcIMS and ArcGIS Server, and Geostatistical Analyst.  I have limited experience using GRASS.  
   : Statistics
-  : - approximately 8 years experience with R, including using R as a GIS
-  : - approximately 5 years experience with SAS
-  : - approximately 2 years experience with SPSS
-  : - approximately 1 year experience with SPlus, and SigmaPlot
-  : Web, HTML, and CSS
-  : - approximately 3 years experience with HTML
-  : - approximately 2 years experience with CSS
-  : - approximately 2 years experience with Dreamweaver
-  : - approximately 1 year experience with Typo3
-  : - approximately 1 year experience with Apache and Internet Information Server   
-  : - approximately 1 year experience with MovableType
-  : - approximately 1 year experience using Drupal
-  : - approximately 1 year experience with Jekyll and GitHub pages
-  : - less than 1 year experience with RApache and javascript
-  : Database
-  : - approximately 3 years experience with MS Access and SQL
-  : - approximately 1 year experience with sqlite3
-  : Remote Sensing
-  : - approximately 3 years experience with ERDAS Imagine
+  : - My statistics work has been conducted primarily in R since 2003.  I have experience with many many statistical methods including least squares, logistic regression, information theoretic model selection, principal components, multi-dimensional scaling, boosted regression, and Random Forests.  In the past I have used SAS, SPSS, SPlus, and SigmaPlot.
+  : Data
+  : - I have many years experience managing small to medium-sized research datasets.  I have done this using relational databases (Access, SQLite), flat files, and for spatial data, shapefiles, coverages, and File Geodatabases.  
+  : Remote Sensing 
+  : - I have experience analyzing aerial photography and satellite imagery to develop land use/land cover classifications and used a variety of accuracy assessment methods and approaches.  Must of my past remote sensing work was conducted with ERDAS Imagine.
   : GPS
-  : - approximately 3 years experience with Trimble ProXR, Trimble GeoExplorer, Trimble GeoXT, Trimble Pathfinder Office  
-  : OS and Misc
-  : - daily use and system maintentance with Red Hat and Ubuntu Linux.
-  : - daily use and systems administration with Windows NT/2000/XP/7
-  : - daily use and extensive knowledge of Microsoft Office 2000-2013
-  : - former daily SPARC/UNIX user.
+  : - I have collected GPS data from a variety of devices including Trimble ProXR, Trimble GeoExplorer, Trimble GeoXT, Garmin Chartplotters, and associated device specific software. 
 
+OS and Misc
+  : Linux
+  : - I use Red Hat (RHEL 6) and Ubuntu daily. I have built and am responsible for system administration on several Ubuntu (12.04 and 14.04) machines.
+  : Windows
+  : - I use Windows (NT/2000/XP/7) daily and am capable of basic systems administration.
+  : Misc
+  : - I have extensive knowledge of Microsoft Office 2000-2013 and have limited networking and hardware maintenance experience. 
+  
 Research Funding
-  : - Safe and Sustainable Water Research Program Task 2.3C
+  : - USEPA Safe and Sustainable Water Research Program Task 2.3C: Cyanobacteria, nutrients, and land use – a nexus for sustainable water resources and human health protection, co-lead with B. J. Kreakie. 2013 - 2016.
   : - Geospatial Statistical Analysis Seminar, A Cooperative Training Project Between the University of Rhode Island and the US EPA Atlantic Ecology Division, US EPA NHEERL Grant, June 2003. PI's: P. August, L. González; Co-PI's: R. Sand, J. Opaluch, J. Hollister, and D. Grossman-Garber.
   : - Estuarine Condition and Landscape Structure Relationships in the Mid-Atlantic and Southern New England Regions of the United States, EPA/URI Pre-Doctoral Fellowship (Major Advisor: Peter V. August, EPA Mentor: John F. Paul).
 
@@ -281,13 +274,14 @@ Graduate Students
 Other Activities
   : - Adjunct Assistant Professor, Department of Natural Resources Science, University of Rhode Island, Kingston, RI, Jan 2007 - Present.
   : - Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI, Dec 2005 – Present.
-  : - Liaison between USEPA’s Ecosystem Services Research Program (ESRP) and the National Ecological Observatory Network (NEON).
+  : - List administrator for R-sig-ecology, a Special Interest Group mailing list on the use R in Ecology, April 2008 - Present.
   : - Provided Peer Review for: Landscape Ecology, Trends in Ecology and Evolution, Plant Ecology, Integrated Environmental Assessment and Management, Remote Sensing of Environment, Journal of Environmental Quality, Selbyana, Minnesota Sea Grant, and numerous USEPA Office of Research and Development internal reviews.
-  : - List administrator for R-sig-ecology, a Special Interest Group mailing list on the use R in Ecology.
+  : - Served on Steering Committee for The Nature Conservancy's Northeast Lake and Pond Classification System. link: [web](http://nature.ly/NElakes) [pdf](https://easterndivision.s3.amazonaws.com/Freshwater/Northeast_Lake_and_Pond_Classification.pdf)
+  : - Liaison between USEPA’s Ecosystem Services Research Program (ESRP) and the National Ecological Observatory Network (NEON).
   : - Participated in the Causal Analysis/Diagnosis Decision Information System (CADDIS) Planning Retreat at Hueston Woods Conference Center, Oxford, OH, April 30 – June 3.
-  : - Co-organized (along with Jason Grear, Suzy Ayvazian, Peter August and Deb Coty) a short course by David Anderson entitled, "Information Theoretic Model Selection and Multimodel Inference in Science and Managament", March 28-29, URI Coastal Institute, Narragansett, RI.
-  : - Section Editor,“Ecology on the Web” Department of the Bulletin of the Ecological Society of America, Feb 2007 - Present
-  : - Attended Science Environment for Ecological Knowledge (SEEK) Postdoctoral and New Faculty Training in econiformatics: Jan 8-12, 2007, University of New Mexico.
+  : - Co-organized (along with Jason Grear, Suzy Ayvazian, Peter August and Deb Coty) a short course by David Anderson entitled, "Information Theoretic Model Selection and Multimodel Inference in Science and Management", March 28-29, URI Coastal Institute, Narragansett, RI.
+  : - Section Editor,“Ecology on the Web” Department of the Bulletin of the Ecological Society of America, 2007 - 2010.
+  : - Attended Science Environment for Ecological Knowledge (SEEK) Postdoctoral and New Faculty Training in ecoinformatics: Jan 8-12, 2007, University of New Mexico.
   : - Graduate Student Representative to Department of Natural Resources Science at the University of Rhode Island for 4 years
   : - Graduate student representative at URI-ADVANCE workshops with Department of Natural Resources Science at the University of Rhode Island
   : - Helped draft a Diversity Statement for Department of Natural Resources Science at the University of Rhode Island
