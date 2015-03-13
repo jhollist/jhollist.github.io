@@ -155,12 +155,14 @@ Thesis and Dissertation
   : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](public/files/Hollistermasterproject.pdf).
   
 Software and Repositories
+ : - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.0.3.999 [GitHub](https://github.com/ropensci/lawn) 
+ : - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.0.1 [GitHub] (https://github.com/jhollist/quickmapr) 
  : - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) [GitHub](http://www.github.com/USEPA/lakemorpho)
  : - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
 
 Bootcamps and Workshops
   : - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015.
-  : - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015. links: [web](gedr)
+  : - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015. links: [web](https://github.com/USEPA/introR)
   : - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014. links: [web](https://github.com/iglpdc/2014-01-13-uri) 
   : - R for Spatial Data Management and Analysis. Presented during Student Workshop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013. links: [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
   : - Job Hunting Experiences of Recent Graduates in Landscape Ecology. Co-organized with A. T. Morzillo US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
@@ -216,7 +218,7 @@ Posters
 
 Programming
   : R  
-  : - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with one on CRAN and several in development on GitHub. I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.
+  : - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with one on CRAN and several in development on GitHub. I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide] (http://ropensci.github.io/reproducibility-guide/).
   : Web
   : - I have served as a web page maintainer for various organizations since ~2000.  Currently I maintain my own website and a few small project websites.  I use HTML, CSS, Jekyll, Github pages as the primary development environment and I am comfortable coding sites from scratch or implementing templates and frameworks (i.e. Skeleton or Bootstrap).  I have limited experience with javascript and in the past have been responsible for limited maintenance of  Apache and IIS servers.  
   : Python
@@ -244,7 +246,7 @@ OS and Misc
   : Windows
   : - I use Windows (NT/2000/XP/7) daily and am capable of basic systems administration.
   : Misc
-  : - I have extensive knowledge of Microsoft Office 2000-2013 and have limited networking and hardware maintenance experience. 
+  : - I have extensive knowledge of Microsoft Office 2000-2013 and have some networking and hardware maintenance experience. 
   
 Research Funding
   : - USEPA Safe and Sustainable Water Research Program Task 2.3C: Cyanobacteria, nutrients, and land use – a nexus for sustainable water resources and human health protection, co-lead with B. J. Kreakie. 2013 - 2016.
