@@ -156,7 +156,7 @@ Thesis and Dissertation
   
 Software and Repositories
  : - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.0.3.999 [GitHub](https://github.com/ropensci/lawn) 
- : - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.0.1 [GitHub] (https://github.com/jhollist/quickmapr) 
+ : - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.0.1 [GitHub](https://github.com/jhollist/quickmapr) 
  : - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) [GitHub](http://www.github.com/USEPA/lakemorpho)
  : - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
 
@@ -218,7 +218,7 @@ Posters
 
 Programming
   : R  
-  : - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with one on CRAN and several in development on GitHub. I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide] (http://ropensci.github.io/reproducibility-guide/).
+  : - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with one on CRAN and several in development on GitHub. I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
   : Web
   : - I have served as a web page maintainer for various organizations since ~2000.  Currently I maintain my own website and a few small project websites.  I use HTML, CSS, Jekyll, Github pages as the primary development environment and I am comfortable coding sites from scratch or implementing templates and frameworks (i.e. Skeleton or Bootstrap).  I have limited experience with javascript and in the past have been responsible for limited maintenance of  Apache and IIS servers.  
   : Python
