@@ -139,6 +139,8 @@ Chapters
   : - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  links: [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
 
 Popular articles, Letters, and Guest Blog Posts
+  : - Snook, H., J.W. Hollister, W. B. Milstead, B. J. Kreakie (2015). Monitoring Cyanobacteria in the New England Region.  submitted to LakeLines Magazine.
+  : - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology for Managing Cyanobacteria in Lakes. submitted to LakeLines Magazine. 
   : - Kreakie, B. J., J.W. Hollister, W. B. Milstead (2014). Modeling Cyanobacteria Ecology to Keep Harmful Algal Blooms at Bay.  US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/modeling-cyanobacteria-ecology-to-keep-harmful-algal-blooms-at-bay/)
   : - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Opening our Science: Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
   : - Hollister, J. W., A. Smith, P. V. August. (2014). Keeping the Bootcamp Fun Alive!  Software Carpentry Blog. links: [web](http://software-carpentry.org/blog/2014/06/post-mortem-on-uri-bootcamp.html)
@@ -151,11 +153,11 @@ Popular articles, Letters, and Guest Blog Posts
   : - Hollister, J. W. and L. M. Ernst (2001) Eelgrass Habitats get a Boost from Geographic Information Systems. Maritimes. 43(1):16-18. links: [pdf](public/files/HollisterErnst2001Maritimes.pdf)
 
 Thesis and Dissertation
-  : - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp. links: [pdf](public/files/Hollisterdissertation.pdf).
-  : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](public/files/Hollistermasterproject.pdf).
+  : - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp. links: [pdf](public/files/Hollisterdissertation_final.pdf).
+  : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](public/files/hollistermasterproject.pdf).
   
 Software and Repositories
- : - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) [GitHub](http://www.github.com/USEPA/lakemorpho)
+ : - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
  : - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
 
 Bootcamps and Workshops
