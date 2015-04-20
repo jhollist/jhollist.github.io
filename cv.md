@@ -139,7 +139,6 @@ Chapters
   : - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  links: [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
 
 Popular articles, Letters, and Guest Blog Posts
-  : - Snook, H., J.W. Hollister, W. B. Milstead, B. J. Kreakie (2015). Monitoring Cyanobacteria in the New England Region.  submitted to LakeLines Magazine.
   : - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology for Managing Cyanobacteria in Lakes. submitted to LakeLines Magazine. 
   : - Kreakie, B. J., J.W. Hollister, W. B. Milstead (2014). Modeling Cyanobacteria Ecology to Keep Harmful Algal Blooms at Bay.  US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/modeling-cyanobacteria-ecology-to-keep-harmful-algal-blooms-at-bay/)
   : - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Opening our Science: Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
