@@ -195,6 +195,7 @@ Seminars and Presentations
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.'
 
 Posters
+  : - Nojavan, F., B. J. Kreakie. A Bayesian Multilevel Model for Microcystin Prediction in the Continental United States Lakes. 2015 Society for Freshwater Science (SFS) Annual Meeting, Milwaukee, WI May 2015.
   : - Hollister, J. W., W. B. Milstead, B. J. Kreakie. Expanding Models of Lake Trophic State to Predict Cyanobacteria in Lakes: A Data Mining Approach. 99th Annual Ecological Society of America Annual Meeting, Sacramento, CA. August 2014. links: [poster](http://cdn.f1000.com/posters/docs/265874289)
   : - Copeland, J. L., J. W. Hollister. Geospatial Tools for Ecosystem Services. ESRI International Users Conference, San Diego, CA. June 2010. 
   : - Hollister, J. W., W. B. Milstead. Linking landscapes to ecosystem services: Landscape structure as an indicator and predictor of water clarity in New England lakes. US Chapter of the International Association for Landscape Ecology Annual Meeting, Athens, GA. April 2010.
