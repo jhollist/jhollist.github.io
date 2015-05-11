@@ -162,7 +162,7 @@ Software and Repositories
  : - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
 
 Bootcamps, Workshops, and Panels
-  : - Federal Agency Networking Session. Invited panelist.  Organizers: Alan Wilson, Henry Gholz, and Daniel B. Stover.  Ecological Society of America
+  : - Federal Agency Networking Session. Invited panelist.  Organizers: Alan Wilson, Henry Gholz, and Daniel B. Stover. 100th Annual Ecological Society of America meeting.  Baltimore, MD. August 2015.
   : - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015.
   : - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015. links: [web](https://github.com/USEPA/introR)
   : - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014. links: [web](https://github.com/iglpdc/2014-01-13-uri) 
