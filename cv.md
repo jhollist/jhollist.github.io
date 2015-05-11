@@ -278,6 +278,7 @@ Graduate Students
   : - 2008, Masters of Environmental Science and Management Written Comprehensive Exam Committee, University of Rhode Island, Kingston, RI.
 
 Other Activities
+  : - Software Carpenty Instructor, Oct 2014 - Present.
   : - Adjunct Assistant Professor, Department of Natural Resources Science, University of Rhode Island, Kingston, RI, Jan 2007 - Present.
   : - Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI, Dec 2005 – Present.
   : - List administrator for R-sig-ecology, a Special Interest Group mailing list on the use R in Ecology, April 2008 - Present.
