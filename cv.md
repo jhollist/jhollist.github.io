@@ -139,8 +139,7 @@ Chapters
   : - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  links: [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
 
 Popular articles, Letters, and Guest Blog Posts
-  : - Snook, H., J.W. Hollister, W. B. Milstead, B. J. Kreakie (2015). Monitoring Cyanobacteria in the New England Region.  submitted to LakeLines Magazine.
-  : - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology for Managing Cyanobacteria in Lakes. submitted to LakeLines Magazine. 
+  : - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology and Open Science: Tools to Help Manage Cyanobacteria in Lakes.  submitted to LakeLines Magazine. 
   : - Kreakie, B. J., J.W. Hollister, W. B. Milstead (2014). Modeling Cyanobacteria Ecology to Keep Harmful Algal Blooms at Bay.  US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/modeling-cyanobacteria-ecology-to-keep-harmful-algal-blooms-at-bay/)
   : - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Opening our Science: Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
   : - Hollister, J. W., A. Smith, P. V. August. (2014). Keeping the Bootcamp Fun Alive!  Software Carpentry Blog. links: [web](http://software-carpentry.org/blog/2014/06/post-mortem-on-uri-bootcamp.html)
@@ -173,6 +172,7 @@ Bootcamps, Workshops, and Panels
   : - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002. links: [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
 
 Seminars and Presentations
+  : - Hollister, J. W. Open Science: A Zealot's View.  Invited Symposium Speaker, "Emerging Issues and Novel Technologies in Coastal Ecosystem Science", New England Estuarine Research Society Spring Meeting, April 2015, Bristol, RI. [slides](open_science_neers/) 
   : - Kreakie, B. J., F. Nojavan, J. W. Hollister When Green Goes Bad: A Computational Ecology Approach to a Better Understanding of Cyanobacteria, Nutrients, and Lakes. USEPA Office of Water Oceans, and Wetlands Cyanobacteria webinar series. October 2014. links: [web](http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=292834) [slides](http://figshare.com/articles/When_Green_Goes_Bad_A_Computational_Ecology_Approach_to_a_better_Understanding_of_Cyanobacteria_Nutrients_and_Lakes/1243644).
   : - Kreakie, B. J., W. B. Milstead, J. W. Hollister.  When Green Goes Bad: An Interdisciplinary Approach to Better Understand Cyanobacteria, Nutrients, and Lakes. USEPA Safe and Sustainable Water Resources Webinar Series. June 2014. links: [web](http://www2.epa.gov/water-research/when-green-goes-bad-interdisciplinary-approach-better-understand-cyanobacteria).
   : - Kreakie, B. J., W. B. Milstead, J. W. Hollister. Combined Influence of Landscape Composition and Nutrient Inputs on Lake Trophic Structure. US Chapter of the International Association for Landscape Ecology Annual Meeting, Anchorage, AK. May 2014.
@@ -196,6 +196,7 @@ Seminars and Presentations
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.'
 
 Posters
+  : - Nojavan, F., B. J. Kreakie. A Bayesian Multilevel Model for Microcystin Prediction in the Continental United States Lakes. 2015 Society for Freshwater Science (SFS) Annual Meeting, Milwaukee, WI May 2015.
   : - Hollister, J. W., W. B. Milstead, B. J. Kreakie. Expanding Models of Lake Trophic State to Predict Cyanobacteria in Lakes: A Data Mining Approach. 99th Annual Ecological Society of America Annual Meeting, Sacramento, CA. August 2014. links: [poster](http://cdn.f1000.com/posters/docs/265874289)
   : - Copeland, J. L., J. W. Hollister. Geospatial Tools for Ecosystem Services. ESRI International Users Conference, San Diego, CA. June 2010. 
   : - Hollister, J. W., W. B. Milstead. Linking landscapes to ecosystem services: Landscape structure as an indicator and predictor of water clarity in New England lakes. US Chapter of the International Association for Landscape Ecology Annual Meeting, Athens, GA. April 2010.
