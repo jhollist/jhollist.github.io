@@ -27,7 +27,7 @@ cv: True
 
 ##Education
 
-December 2004
+Dec 2004
   : Doctor of Philosophy in Environmental Science
   : - Department of Natural Resources Science, University of Rhode Island, Kingston, RI
   : - Areas of emphasis: Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
