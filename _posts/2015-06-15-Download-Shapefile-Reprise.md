@@ -31,14 +31,17 @@ download_shp<-function (shape_url, layer, outfolder = ".")
         xlogic <- c(xlogic, grepl(i, xurl))
     }
     
-    shapefiles <- paste(shape_url, layer, shapefile_ext, sep = "")[xlogic]
-    outfiles <- paste(outfolder, "/", layer, shapefile_ext, sep = "")[xlogic]
+    shapefiles <- paste(shape_url, layer, shapefile_ext, 
+                        sep = "")[xlogic]
+    outfiles <- paste(outfolder, "/", layer, shapefile_ext, 
+                        sep = "")[xlogic]
     
     if (sum(xlogic) > 0) {
         for (i in 1:length(shapefiles)) {
             x <- suppressWarnings(httr::GET(shapefiles[i], 
-                                            httr::write_dis(outfiles[i],
-                                            overwrite = TRUE)))
+                                        httr::write_dis(outfiles[i],
+                                        overwrite = TRUE)))
+                                        
             dwnld_file <- strsplit(shapefiles[i], "/")[[1]]
             dwnld_file <- dwnld_file[length(dwnld_file)]
             
@@ -47,7 +50,8 @@ download_shp<-function (shape_url, layer, outfolder = ".")
         }
     }
     else {
-        stop("An Error has occured with the input URL or name of shapefile")
+        stop("An Error has occured with the input URL or 
+              name of shapefile")
     }
 }
 
