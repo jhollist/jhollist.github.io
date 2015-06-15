@@ -39,7 +39,7 @@ download_shp<-function (shape_url, layer, outfolder = ".")
     if (sum(xlogic) > 0) {
         for (i in 1:length(shapefiles)) {
             x <- suppressWarnings(httr::GET(shapefiles[i], 
-                                        httr::write_dis(outfiles[i],
+                                        httr::write_disk(outfiles[i],
                                         overwrite = TRUE)))
                                         
             dwnld_file <- strsplit(shapefiles[i], "/")[[1]]
