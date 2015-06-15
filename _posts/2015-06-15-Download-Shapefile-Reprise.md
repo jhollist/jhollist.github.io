@@ -13,7 +13,7 @@ For all this to run you'll need `RCurl`, `httr`, `sp`, and `rgdal`.
 
 
 {% highlight r %}
-download_shp<-function(shape_url,layer,outfile=layer)
+download_shp<-function(shape_url,layer,outfolder=".")
 {
   #written by: jw hollister
   #Oct 10, 2012
@@ -43,7 +43,8 @@ download_shp<-function(shape_url,layer,outfile=layer)
     #Set-up list of shapefiles to download
     shapefiles<-paste(shape_url,layer,shapefile_ext,sep="")[xlogic]
     #Set-up output file names
-    outfiles<-paste(outfile,shapefile_ext,sep="")[xlogic]   }
+    outfiles<-paste(outfolder,"/",layer,shapefile_ext,sep="")[xlogic]   
+  }
   #Download all shapefiles
   if(sum(xlogic)>0)
   {
@@ -51,7 +52,10 @@ download_shp<-function(shape_url,layer,outfile=layer)
     {
       x<-suppressWarnings(httr::GET(shapefiles[i],
                                     httr::write_disk(outfiles[i],
-                                                     overwrite=TRUE)))
+                                          overwrite = TRUE)))
+      dwnld_file <- strsplit(shapefiles[i],"/")[[1]]
+      dwnld_file <- dwnld_file[length(dwnld_file)]
+      print(paste0("Downloaded ", dwnld_file, " to ", outfiles[i],"."))
     }
   } else
   {
@@ -59,6 +63,7 @@ download_shp<-function(shape_url,layer,outfile=layer)
          or name of shapefile")
   }
   }
+
 {% endhighlight %}
 
 And to see that it works again:
