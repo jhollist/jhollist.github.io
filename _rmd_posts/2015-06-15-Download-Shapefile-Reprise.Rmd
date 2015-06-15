@@ -18,7 +18,7 @@ So back in 2013 I [posted a little function](https://landeco2point0.wordpress.co
 For all this to run you'll need `RCurl`, `httr`, `sp`, and `rgdal`.
 
 ```{r download_shp, eval=FALSE}
-download_shp<-function(shape_url,layer,outfolder=".")
+download_shp<-function(shape_url,layer,outfolder="")
 {
   #written by: jw hollister
   #Oct 10, 2012

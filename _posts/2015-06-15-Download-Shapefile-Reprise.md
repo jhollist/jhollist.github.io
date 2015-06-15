@@ -13,7 +13,7 @@ For all this to run you'll need `RCurl`, `httr`, `sp`, and `rgdal`.
 
 
 {% highlight r %}
-download_shp<-function(shape_url,layer,outfolder=".")
+download_shp<-function(shape_url,layer,outfolder="")
 {
   #written by: jw hollister
   #Oct 10, 2012
