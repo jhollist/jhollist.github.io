@@ -51,7 +51,7 @@ download_shp<-function(shape_url,layer,outfile=layer)
     {
       x<-suppressWarnings(httr::GET(shapefiles[i],
                                     httr::write_disk(outfiles[i],
-                                                     overwrite = TRUE)))
+                                                     overwrite=TRUE)))
     }
   } else
   {
