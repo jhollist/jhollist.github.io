@@ -12,6 +12,7 @@ title: Blog Roll
 - [Living in and Ivory Basement](http://ivory.idyll.org/blog/)
 - [Maribo](http://blogs.ubc.ca/maribo/)
 - [R-Bloggers](http://www.r-bloggers.com)
+- [Recology](http://recology.info/)
 - [rOpenSci](https://ropensci.org/blog/)
 - [Software Carpentry](http://software-carpentry.org/blog/index.html)
 - [Jabberwocky Ecology](http://jabberwocky.weecology.org/)
