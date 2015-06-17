@@ -11,7 +11,7 @@ title: Blog Roll
 - [From the bottom of the heap](http://www.fromthebottomoftheheap.net/)
 - [Living in and Ivory Basement](http://ivory.idyll.org/blog/)
 - [Maribo](http://blogs.ubc.ca/maribo/)
-- [R-Bloggers](http://www/r-bloggers.com)
+- [R-Bloggers](http://www.r-bloggers.com)
 - [rOpenSci](https://ropensci.org/blog/)
 - [Software Carpentry](http://software-carpentry.org/blog/index.html)
 
