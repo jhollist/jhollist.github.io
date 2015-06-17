@@ -14,4 +14,4 @@ title: Blog Roll
 - [R-Bloggers](http://www.r-bloggers.com)
 - [rOpenSci](https://ropensci.org/blog/)
 - [Software Carpentry](http://software-carpentry.org/blog/index.html)
-
+- [Jabberwocky Ecology](http://jabberwocky.weecology.org/)
