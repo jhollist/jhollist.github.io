@@ -104,4 +104,4 @@ NHBnd<-readOGR(".","NHSenateDists2012")
 plot(NHBnd)
 {% endhighlight %}
 
-![plot of chunk run_it](figure/run_it-1.png) 
+![plot of chunk run_it](/figure/run_it-1.png) 
