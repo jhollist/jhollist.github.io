@@ -13,14 +13,6 @@ For all this to run you'll need `RCurl`, `httr`, `sp`, and `rgdal`.
 
 
 {% highlight r %}
-#' function to download all available shapefile files from a URL
-#' @import RCurl
-#' @export
-#' @examples
-#' \dontrun{
-#' download_shp("ftp://ftp.granit.sr.unh.edu/pub/GRANIT_Data/Vector_Data/Administrative_and_Political_Boundaries/d-nhsenatedists/2012","NHSenateDists2012")
-#' download_shp("http://jwhollister.com/iale_open_science/files","LocPt")
-#' }
 download_shp<-function (shape_url, layer, outfolder = ".") 
 {
   if (length(grep("/$", shape_url)) == 0) {
