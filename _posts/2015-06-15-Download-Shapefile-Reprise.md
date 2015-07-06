@@ -13,58 +13,54 @@ For all this to run you'll need `RCurl`, `httr`, `sp`, and `rgdal`.
 
 
 {% highlight r %}
-download_shp<-function(shape_url,layer,outfolder="")
+download_shp<-function (shape_url, layer, outfolder = ".") 
 {
-  #written by: jw hollister
-  #Oct 10, 2012
+  if (length(grep("/$", shape_url)) == 0) {
+    shape_url <- paste(shape_url, "/", sep = "")
+  }
   
-  #updated: June 15, 2015
-  
-  #set-up/clean-up variables
-  if(length(grep("/$",shape_url))==0)
-  {
-    shape_url<-paste(shape_url,"/",sep="")
-  }
-  #creates vector of all possible shapefile extensions
-  shapefile_ext<-c(".shp",".shx",".dbf",".prj",".sbn",".sbx",
-                   ".shp.xml",".fbn",".fbx",".ain",".aih",".ixs",
-                   ".mxs",".atx",".cpg")
-  
-  #Check which shapefile files exist
-  if(require(RCurl))
-  {
-    xurl<-getURL(shape_url)
-    xlogic<-NULL
-    for(i in paste(layer,shapefile_ext,sep=""))
-    {
-      xlogic<-c(xlogic,grepl(i,xurl))
-    }
-    
-    #Set-up list of shapefiles to download
-    shapefiles<-paste(shape_url,layer,shapefile_ext,sep="")[xlogic]
-    #Set-up output file names
-    outfiles<-paste(outfolder,"/",layer,shapefile_ext,sep="")[xlogic]   
-  }
-  #Download all shapefiles
-  if(sum(xlogic)>0)
-  {
-    for(i in 1:length(shapefiles))
-    {
-      x<-suppressWarnings(httr::GET(shapefiles[i],
-                                    httr::write_disk(outfiles[i],
-                                          overwrite = TRUE)))
-      dwnld_file <- strsplit(shapefiles[i],"/")[[1]]
-      dwnld_file <- dwnld_file[length(dwnld_file)]
-      print(paste0("Downloaded ", dwnld_file, " to ", outfiles[i],"."))
-    }
-  } else
-  {
-    stop("An Error has occured with the input URL
-         or name of shapefile")
-  }
-  }
+  shapefile_ext <- c(".shp", ".shx", ".dbf", ".prj", ".sbn", 
+                     ".sbx", ".shp.xml", ".fbn", ".fbx", ".ain", ".aih", ".ixs", 
+                     ".mxs", ".atx", ".cpg")
 
+  xlogic <- NULL
+  if(substr(shape_url,1,3)=="ftp"){
+    xurl <- RCurl::getURL(shape_url)
+    for (i in paste(layer, shapefile_ext, sep = "")) {
+      xlogic <- c(xlogic, grepl(i, xurl))
+    }
+  } else if(substr(shape_url,1,4)=="http"){
+    for (i in paste(shape_url,layer, shapefile_ext, sep = "")) {
+      xlogic <- c(xlogic,httr::HEAD(i)$status==200)
+    }  
+  }
+  
+ 
+  shapefiles <- paste(shape_url, layer, shapefile_ext, 
+                      sep = "")[xlogic]
+  outfiles <- paste(outfolder, "/", layer, shapefile_ext, 
+                    sep = "")[xlogic]
+  
+  if (sum(xlogic) > 0) {
+    for (i in 1:length(shapefiles)) {
+      x <- suppressWarnings(httr::GET(shapefiles[i], 
+                                      httr::write_disk(outfiles[i],
+                                                       overwrite = TRUE)))
+      
+      dwnld_file <- strsplit(shapefiles[i], "/")[[1]]
+      dwnld_file <- dwnld_file[length(dwnld_file)]
+      
+      print(paste0("Downloaded ", dwnld_file, " to ", 
+                   outfiles[i], "."))
+    }
+  }
+  else {
+    stop("An Error has occured with the input URL or 
+              name of shapefile")
+  }
+}
 {% endhighlight %}
+
 
 And to see that it works again:
 
@@ -93,7 +89,6 @@ NHBnd<-readOGR(".","NHSenateDists2012")
 ## OGR data source with driver: ESRI Shapefile 
 ## Source: ".", layer: "NHSenateDists2012"
 ## with 24 features
-## It has 4 fields
 {% endhighlight %}
 
 {% highlight r %}
@@ -101,4 +96,4 @@ NHBnd<-readOGR(".","NHSenateDists2012")
 plot(NHBnd)
 {% endhighlight %}
 
-![plot of chunk run_it](figure/run_it-1.png) 
+![plot of chunk run_it](/figure/run_it-1.png) 
