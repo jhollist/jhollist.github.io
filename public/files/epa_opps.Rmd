@@ -1,0 +1,48 @@
+---
+title: "Opportunities for Ecologists at USEPA"
+author: "Jeff W. Hollister"
+date: "7/14/2015"
+output: html_document
+---
+
+The listing included here is limited by my experience and knowledge of different opportunities for jobs, fellowships, contracts, etc. with the US Environmental Protection Agency.  I have provided some basic information about each type of opportunity that has been used where I work ([Atlantic Ecology Division](http://www2.epa.gov/aboutepa/about-national-health-and-environmental-effects-research-laboratory-nheerl#aed) in Rhode Island).  Any questions, please use the links in the list to find the appropriate contact(s).  
+
+##Permanent Positions (aka FTE)
+
+ - [Link to USAJOBS](https://www.usajobs.gov/)
+ 
+These are permanent full-time federal positions.  They are run entirely through EPA's human resources .  Not too much to say about these other than the application and selection process is a unique experience.  It is not a typical cover letter, CV, and references process.  Best to find someone who has navigated it recently for some pointers.
+
+##Office of Research and Development Federal Postdoc Posititions
+
+ - [Link to ORD Postdoc Program](http://cfpub.epa.gov/ordpd/index.cfm):
+
+These are federal, term, postdoc positions that are available across ORDs different national labs.  Opportunities available at many locations.  These are typically for a 3-year appointment with opportunity for a one year extensions if circumstances warrant.  You get full benefits, are on the Federal GS pay scale  and this time counts towards retirement if you later get a permanent FTE.  The application process on this is a bit more sane (CV, Letter, etc.) than that with permanent positions, but as with the federal process makes sure ALL instructions are followed precisely.       
+
+##NRC Postdocs
+
+ - [Link to NRC Postdocs](http://nrc58.nas.edu/RAPLab10/Opportunity/Opportunities.aspx?LabCode=22)
+ - [Link to details on NRC Program](http://sites.nationalacademies.org/PGA/RAP/index.htm)
+ 
+I don't have much experience with these and at my location in RI, we seem to use them less than other mechanisms.  That being said, the program is still active and can be a good source of possible opportunities.  Also, many agencies take advantage of this program.
+
+##ORISE
+
+ - [Link to Current EPA ORISE Opportunities](http://orise.orau.gov/epa/applicants/current-research-opportunities.aspx)
+ - [Link to General Info on EPA ORISE](http://orise.orau.gov/epa/default.htm) 
+
+The ORISE opportunities are available at multiple levels: undergrad, master, doctoral, postdoctoral, and faculty.  In RI, we have used many of these, but the most common has been postdocs.  The application process is run through Oak Ridge Associated Universities (ORAU) and consists of a form, references, CV and transcript.  These are not "employment", but an  "appointment" in which you get a stipend.  There are for one year, but renewable up-to five for postdocs, less for others.  These have worked out very well for us and have allowed us to bring on great people who get to work on their own projects (provided they fit in with our overall research direction).  
+
+##Student Services Contracts
+
+ - [Link to Student Services Contracts] (http://www.epa.gov/careers/studentcontracting/index.html#apply):  Follow directions there.
+ 
+These are contracts, thus they feel quite different than a normal job opportunity.  The application is different and the interactions between contractor (i.e. you if you had one) and the Fed you are working with is fairly prescribed.  They pay well and there is flexibility in the amount of hours. They are one year contracts and renewable up to 3 years (I think).  You must be within 3 years of finishing a degree. 
+
+##Other Links
+
+ - [EPA Careers](http://www.epa.gov/careers/index.html)
+ - [EPA Science Careers](http://www.epa.gov/careers/science/)
+ - [Pathways](https://www.opm.gov/policy-data-oversight/hiring-authorities/students-recent-graduates/#url=Pathways-FAQs)
+ - [GRO Interns](http://epa.gov/ncer/fellow/gro/)
+ 
