@@ -198,7 +198,7 @@ Seminars and Presentations
 
 Posters
   : - Nojavan, F., B. J. Kreakie. A Bayesian Multilevel Model for Microcystin Prediction in the Continental United States Lakes. 2015 Society for Freshwater Science (SFS) Annual Meeting, Milwaukee, WI May 2015.
-  : - Hollister, J. W., W. B. Milstead, B. J. Kreakie. Expanding Models of Lake Trophic State to Predict Cyanobacteria in Lakes: A Data Mining Approach. 99th Annual Ecological Society of America Annual Meeting, Sacramento, CA. August 2014. links: [poster](http://cdn.f1000.com/posters/docs/265874289)
+  : - Hollister, J. W., W. B. Milstead, B. J. Kreakie. Expanding Models of Lake Trophic State to Predict Cyanobacteria in Lakes: A Data Mining Approach. 99th Annual Ecological Society of America Annual Meeting, Sacramento, CA. August 2014. links: [poster](http://f1000research.com/posters/1096851)
   : - Copeland, J. L., J. W. Hollister. Geospatial Tools for Ecosystem Services. ESRI International Users Conference, San Diego, CA. June 2010. 
   : - Hollister, J. W., W. B. Milstead. Linking landscapes to ecosystem services: Landscape structure as an indicator and predictor of water clarity in New England lakes. US Chapter of the International Association for Landscape Ecology Annual Meeting, Athens, GA. April 2010.
   : - Milstead, W. B., J. W. Hollister, H. A. Walker, J. A. Kiddon, J. L. Copeland, H. W. Buffum, M. A. Charpentier, D. J Keith. A Northeastern US Lakes Database to Support Ecosystem Services Research. Annual Meeting of the North East Association of Environmental Biologists, Newport, RI, March 2010.
@@ -225,7 +225,7 @@ Programming
   : R  
   : - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with one on CRAN and several in development on GitHub. I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
   : Web
-  : - I have served as a web page maintainer for various organizations since ~2000.  Currently I maintain my own website and a few small project websites.  I use HTML, CSS, Jekyll, Github pages as the primary development environment and I am comfortable coding sites from scratch or implementing templates and frameworks (i.e. Skeleton or Bootstrap).  I have limited experience with javascript and in the past have been responsible for limited maintenance of  Apache and IIS servers.  
+  : - Although not a web designer, I have served as a web page maintainer for various organizations since ~2000.  Currently I maintain my own website and a few small project websites.  I use HTML, CSS, Jekyll, Github pages as the primary development environment and I am comfortable coding sites from scratch and have experience implementing templates and frameworks (i.e. Skeleton or Bootstrap).  I have limited experience with javascript and in the past have been responsible for limited maintenance of  Apache and IIS servers.  
   : Python
   : - Starting in 2006, I have written Python scripts to interact with ESRI products.  Since then,  I have also developed many scripts for data management, data collection, interacting with the Twitter API, and communicating with R.   
   : Java
