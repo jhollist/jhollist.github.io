@@ -119,7 +119,7 @@ May 2003 – Aug 2004
 ##Research Products and Presentations
 
 Peer Reviewed Articles
-  : - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (In Review) Modeling Lake Trophic State: A Data Mining Approach.  Submitted to Freshwater Science. links: [GitHub](https://github.com/USEPA/LakeTrophicModelling)
+  : - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (In Revision) Modeling Lake Trophic State: A Data Mining Approach. links: [GitHub](https://github.com/USEPA/LakeTrophicModelling)
   : - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker. (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457. doi: [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081457&representation=PDF).
   : - Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764. doi: [10.1371/journal.pone.0025764](http://dx.doi.org/10.1371/journal.pone.0025764). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0025764&representation=PDF).
   : - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. doi: [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321). links: [pdf](public/files/HollisterMilsteadLakeVolume.pdf) corrigenda: [10.1080/10402381.2014.930627](http://dx.doi.org/10.1080/10402381.2014.930627) [pdf](http://www.tandfonline.com/doi/pdf/10.1080/10402381.2014.930627) .  
