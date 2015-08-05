@@ -254,7 +254,9 @@ OS and Misc
   : - I have extensive knowledge of Microsoft Office 2000-2013 and have some networking and hardware maintenance experience. 
   
 Research Funding
-  : - USEPA Safe and Sustainable Water Research Program Task 2.3C: Cyanobacteria, nutrients, and land use – a nexus for sustainable water resources and human health protection, co-lead with B. J. Kreakie. 2013 - 2016.
+  : - USEPA Safe and Sustainable Water Research Program Task 4.01C: A Data Intensive Investigation of Temperature Impacts and Bloom Modelling. Deputy Task Lead with B. J. Kreakie, Lead. 2016 - 2019.
+  : - Cyanoscope: Smartphone based field microscopy of harmful algal blooms. USEPA, National Health and Environmental Effects Research Lab Citizen Science Competition.  With W. B. Milstead, H. Snook., T. Hollenhorst, and B. J. Kreakie. 2016 - 2017. 
+  : - USEPA Safe and Sustainable Water Research Program Task 2.3C: Cyanobacteria, nutrients, and land use – a nexus for sustainable water resources and human health protection, co-lead with B. J. Kreakie. 2013 - 2015.
   : - Geospatial Statistical Analysis Seminar, A Cooperative Training Project Between the University of Rhode Island and the US EPA Atlantic Ecology Division, US EPA NHEERL Grant, June 2003. PI's: P. August, L. González; Co-PI's: R. Sand, J. Opaluch, J. Hollister, and D. Grossman-Garber.
   : - Estuarine Condition and Landscape Structure Relationships in the Mid-Atlantic and Southern New England Regions of the United States, EPA/URI Pre-Doctoral Fellowship (Major Advisor: Peter V. August, EPA Mentor: John F. Paul).
 
@@ -272,7 +274,7 @@ Awards:
   
 Graduate Students
   : Galen Scott
-  : - 2013-Present, Ph.D. Oral Defense and Dissertation Committee, University of Rhode Island, Kingston, RI
+  : - 2013-2015, Ph.D. Oral Defense Committee, University of Rhode Island, Kingston, RI
   : Kylie Bishop
   : - 2008, Ph. D. Thesis Defense Committee, Deakin University, Warrnambool, Australia
   : Ann Borowik
@@ -302,7 +304,8 @@ Societies
   : - Counselor at Large, 2012-2014
   : - Program Chair, 2012 Annual Meeting, Newport, RI
   : - Strategic Planning Committee, 2004-2006
-  : Northeast Arc Users Group; Host Committee and Social Chair for 2010 Northeast Arc Users Group annual meeting in Newport, RI.
+  : Northeast Arc Users Group:
+  : - Host Committee and Social Chair, 2010 Northeast Arc Users Group annual meeting in Newport, RI.
   : - Chair, Poster session 2006 Northeast Arc Users Group annual meeting in Mystic, CT
   : - Host Committee for 2006 Northeast Arc Users Group annual meeting in Mystic, CT
   : Ecological Society of America
