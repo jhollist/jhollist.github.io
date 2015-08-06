@@ -134,8 +134,8 @@ Peer Reviewed Articles
   : - Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2). links: [pdf](public/files/Eubanks_etal_2002.pdf)
 
 Chapters
-  : - Cormier, S. and J. W. Hollister. (2011). Chapter 6: Types of Spatial and Landscape Data and Sampling Designs. Pages xx-xx. in USEPA. Landscape and Predictive Tools: A Guide to Spatial Analysis for Environmental Assessment. EPA/100/R-11/002.  links: [pdf](http://www.epa.gov/osa/raf/publications/pdfs/Predictive%20Tools%20-%20Chapter%206%20-%20Final%20508.pdf)
-  : - Hollister, J. W., and S. Cormier. (2011). Chapter 7: Methods and Tools for Analyzing Spatially Explicit Information. Pages xx-xx. in USEPA. Landscape and Predictive Tools: A Guide to Spatial Analysis for Environmental Assessment. EPA/100/R-11/002. links: [pdf](http://www.epa.gov/osa/raf/publications/pdfs/Predictive%20Tools%20-%20Chapter%207%20-%20Final%20508.pdf)
+  : - Cormier, S. and J. W. Hollister. (2015). Chapter 7: Types of Spatial and Landscape Data and Sampling Designs. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067.  links: [pdf]()
+  : - Hollister, J. W., and S. Cormier. (2015). Chapter 8: Methods and Tools for Analyzing Spatially Explicit Information. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067. links: [pdf]()
   : - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  links: [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
 
 Popular articles, Letters, and Guest Blog Posts
