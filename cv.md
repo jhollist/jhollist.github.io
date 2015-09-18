@@ -138,7 +138,7 @@ Chapters
   : - Hollister, J. W., and S. Cormier. (2015). Chapter 8: Methods and Tools for Analyzing Spatially Explicit Information. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067. links: [pdf]()
   : - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  links: [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
 
-Popular articles, Letters, Website, and Guest Blog Posts
+Popular articles, Letters, Websites, and Guest Blog Posts
   : - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology and Open Science: Tools to Help Manage Cyanobacteria in Lakes. LakeLines Magazine. links: [pdf](http://www.nalms.org/media.acux/beb75c9c-f812-4753-b888-79864899c6d6) 
   : - Kreakie, B. J., J.W. Hollister, W. B. Milstead (2014). Modeling Cyanobacteria Ecology to Keep Harmful Algal Blooms at Bay.  US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/modeling-cyanobacteria-ecology-to-keep-harmful-algal-blooms-at-bay/)
   : - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Opening our Science: Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
