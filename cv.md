@@ -255,7 +255,7 @@ OS and Misc
   
 Research Funding
   : - USEPA Safe and Sustainable Water Research Program Task 4.01C: A Data Intensive Investigation of Temperature Impacts and Bloom Modelling. Deputy Task Lead with B. J. Kreakie, Lead. 2016 - 2019.
-  : - Cyanoscope: Smartphone based field microscopy of harmful algal blooms. USEPA, National Health and Environmental Effects Research Lab Citizen Science Competition.  With W. B. Milstead, H. Snook., T. Hollenhorst, and B. J. Kreakie. 2016 - 2017. 
+  : - Cyanoscope: Smartphone based field microscopy of harmful algal blooms. USEPA, National Health and Environmental Effects Research Lab Citizen Science Competition.  With W. B. Milstead, H. Snook., T. Hollenhorst, and B. J. Kreakie. 2016 - 2017. [Proposal](public/files/cyanoscope_proposal.pdf) 
   : - USEPA Safe and Sustainable Water Research Program Task 2.3C: Cyanobacteria, nutrients, and land use – a nexus for sustainable water resources and human health protection, co-lead with B. J. Kreakie. 2013 - 2015.
   : - Geospatial Statistical Analysis Seminar, A Cooperative Training Project Between the University of Rhode Island and the US EPA Atlantic Ecology Division, US EPA NHEERL Grant, June 2003. PI's: P. August, L. González; Co-PI's: R. Sand, J. Opaluch, J. Hollister, and D. Grossman-Garber.
   : - Estuarine Condition and Landscape Structure Relationships in the Mid-Atlantic and Southern New England Regions of the United States, EPA/URI Pre-Doctoral Fellowship (Major Advisor: Peter V. August, EPA Mentor: John F. Paul).
