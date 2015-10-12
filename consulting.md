@@ -1,7 +1,7 @@
----
-layout: page
-title: GIS and R Consulting
---- 
+#---
+#layout: page
+#title: GIS and R Consulting
+#--- 
 
 I have nearly two decades of experience utilizing GIS in environmental and natural science research. During the last 10 years, I have been weaving in the use of R for these same applications.  I have (admitedly limited) availablity to consult for your project.  Examples of the types of services I can provide are:
 
