@@ -11,7 +11,7 @@ output:
 
 #Jeffrey Wi Hollister
 
-<a id="pdf-link" href="https://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
+<a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
 - updated: 15 Oct 2015
 - U.S. Environmental Protection Agency
