@@ -7,6 +7,8 @@ output:
     css: "public/css/cv.css"
 ---
 
+<div id="address">
+
 #Jeffrey W. Hollister
 - updated: 15 Oct 2015
 - U.S. Environmental Protection Agency
@@ -17,7 +19,11 @@ output:
 - (c)401 556 4087
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 - [jwhollister.com](http://jwhollister.com)
+- GitHub: [@jhollist](https://github.com/jhollist)
+- Twitter: [@jhollist](https://twitter.com/jhollist)
+- ORCID: [0000-0002-9254-9740](https://orcid.org/0000-0002-9254-9740)
 
+</div>
 
 <div id="cv-nav">
 
@@ -159,7 +165,7 @@ Peer Reviewed Articles
   
       - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (In Review) Modeling Lake Trophic State: A Random Forest Approach. Submitted to Ecosphere.  links: [GitHub](https://github.com/USEPA/LakeTrophicModelling).  pre-print: [10.7287/peerj.preprints.1319v2](http://dx.doi.org/10.7287/peerj.preprints.1319v2) [pdf](https://peerj.com/preprints/1319.pdf).
       
-   : 2010 - Present
+  : 2010 - Present
    
       - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker. (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457. doi: [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081457&representation=PDF).
       
@@ -338,6 +344,7 @@ Posters
       - Hollister, J. W., J. L Copeland. Where New England Lives: A dasymetric population map for New England. Northeast Arc Users Group Annual Meeting, Hyannis, MA September 2008. 
       
       - Hollister, J. W., H. W. Walker. Landscape Thresholds and the Condition of Northeastern Estuaries. New England Estuarine Research Society Spring Meeting. Portsmouth, NH. May 2008. 
+      
       - Keith, D. J., J. W. Hollister, A. Kuhn-Hines. The Distribution of Colored Dissolved Organic Matter and Salinity along the Southern New England Coast from Aircraft Remote Sensing. American Society of Limnology and Oceanography annual meeting, Orlando, FL. March 2008.
       
       - Hollister, J.W., A. T. Morzillo, E. J. Weissberger, J. A. Nestlerode, and J. F. Paul. Comparing Apples to Apples: Generating a Nationally Consistent Index of Benthic Biology in Estuarine Waters. Estuarine Research Foundation Annual Meeting, Providence, RI November 2007.
@@ -523,7 +530,7 @@ Other Activities
       
       - Provided Peer Review for: Landscape Ecology, Trends in Ecology and Evolution, Plant Ecology, Integrated Environmental Assessment and Management, Remote Sensing of Environment, Journal of Environmental Quality, Selbyana, Minnesota Sea Grant, and numerous USEPA Office of Research and Development internal reviews.
       
-   : Past
+  : Past
    
       - Served on Steering Committee for The Nature Conservancy's Northeast Lake and Pond Classification System. link: [web](http://nature.ly/NElakes) [pdf](https://easterndivision.s3.amazonaws.com/Freshwater/Northeast_Lake_and_Pond_Classification.pdf)
       
@@ -545,14 +552,14 @@ Other Activities
       
       - Assisted with compiling links of software and graduate programs in spatial ecology for the [US-IALE web page](http://www.usiale.org/related-links).
       
-   : Additional Information
+  : Additional Information
    
-       - Award Winning Homebrewer
+      - Award Winning Homebrewer
        
-       - Barbeque-er
+      - Barbeque-er
        
-       - Mediocre Dart player
+      - Mediocre Dart player
        
-       - Retired mediocre Ultimate player
+      - Retired mediocre Ultimate player
        
-       - SCUBA Certified
+      - SCUBA Certified
