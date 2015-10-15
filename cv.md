@@ -9,7 +9,7 @@ output:
 
 <div id="address">
 
-#Jeffrey Willy Hollister
+#Jeffrey W. Hollister
 
 <a id="pdf-link" href="https://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
