@@ -10,6 +10,9 @@ output:
 <div id="address">
 
 #Jeffrey W. Hollister
+
+<a id="pdf-link" href="https://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
+
 - updated: 15 Oct 2015
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
@@ -22,8 +25,6 @@ output:
 - Twitter: [jhollist](https://twitter.com/jhollist)
 - GitHub: [jhollist](https://github.com/jhollist)
 - ORCID: [0000-0002-9254-9740](https://orcid.org/0000-0002-9254-9740)
-
-<a id="pdf-link" href="https://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
 </div>
 
