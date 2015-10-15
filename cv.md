@@ -2,11 +2,8 @@
 layout: page
 title: Curriculum Vitae
 cv: True
-output:
-  html_document:
-    css: "public/css/cv.css"
 ---
-<div id="address">
+
 #Jeffrey W. Hollister
 - updated: 15 Oct 2015
 - U.S. Environmental Protection Agency
@@ -17,7 +14,6 @@ output:
 - (c)401 556 4087
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 - [jwhollister.com](http://jwhollister.com)
-</div>
 
 <div id="cv-nav">
 
