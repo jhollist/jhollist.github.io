@@ -1,0 +1,94 @@
+/*
+ * CV styling
+ * @jhollist 2014
+ */
+
+.logos {
+  width: 176px;
+}
+.page {
+  margin-top: -50px;
+}
+.page-title {
+  display: none;
+}
+
+#header {
+  display: none;
+}
+
+#jeffrey-w-hollister {
+  text-align:center;
+}
+
+#address {
+  text-align:center;
+}
+
+#cv-nav {
+  display: none;
+}
+
+#pdf-link {
+  display: none;
+}
+
+body > div.content.container > div > ul {
+  text-align:center;
+}
+
+ul {
+  list-style-type: none; 
+  left: 0;
+  top: 25px;
+  color: #626262;
+  font-size: 14px;
+  text-transform: none;
+  width: 100%;
+  margin-left: 0px;
+  margin-bottom: 2px;
+  padding-left: 0px;
+}
+li {
+  margin-bottom: 2px;
+}
+
+dt {
+  float: left;
+  clear: right;
+  width: 20%;
+  font-size: 18px;
+}
+
+dd{
+  margin-left: 22%;
+  font-size: 18px;
+}
+
+dl > dd > ul{
+  margin-top: 10px;
+}
+
+/* page break from http://davidwalsh.name/css-page-breaks */
+
+@media all {
+  .page-break	{ 
+    display: none;
+  }
+}
+
+@media print {
+  #cv-nav {
+    display: none;
+  }
+  
+  div.sidebar {
+    display: none;
+  }
+  
+  li {
+    orphans: 4;
+    widows: 3;
+  }
+  
+}

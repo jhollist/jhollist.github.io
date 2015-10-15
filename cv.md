@@ -4,7 +4,7 @@ title: Curriculum Vitae
 cv: True
 output:
   html_document:
-    css: "public/css/cv.css"
+    css: "public/css/pdf.css"
 ---
 
 <div id="address">
@@ -19,9 +19,11 @@ output:
 - (c)401 556 4087
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 - [jwhollister.com](http://jwhollister.com)
-- GitHub: [@jhollist](https://github.com/jhollist)
-- Twitter: [@jhollist](https://twitter.com/jhollist)
+- Twitter: [jhollist](https://twitter.com/jhollist)
+- GitHub: [jhollist](https://github.com/jhollist)
 - ORCID: [0000-0002-9254-9740](https://orcid.org/0000-0002-9254-9740)
+
+<a id="pdf-link" href="https://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
 </div>
 
@@ -171,17 +173,17 @@ Peer Reviewed Articles
       
       - Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764. doi: [10.1371/journal.pone.0025764](http://dx.doi.org/10.1371/journal.pone.0025764). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0025764&representation=PDF).
       
-      - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. doi: [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321). links: [pdf](public/files/HollisterMilsteadLakeVolume.pdf) corrigenda: [10.1080/10402381.2014.930627](http://dx.doi.org/10.1080/10402381.2014.930627) [pdf](http://www.tandfonline.com/doi/pdf/10.1080/10402381.2014.930627).
+      - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. doi: [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321). links: [pdf](http://jwhollister.com/public/files/HollisterMilsteadLakeVolume.pdf) corrigenda: [10.1080/10402381.2014.930627](http://dx.doi.org/10.1080/10402381.2014.930627) [pdf](http://www.tandfonline.com/doi/pdf/10.1080/10402381.2014.930627).
       
-      - Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. doi: [10.1007/s00267-010-9485-3](http://dx.doi.org/10.1007/s00267-010-9485-3) links: [pdf](public/files/Morzilloetal2010EnvMonitor_accepted.pdf)
+      - Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. doi: [10.1007/s00267-010-9485-3](http://dx.doi.org/10.1007/s00267-010-9485-3) links: [pdf](http://jwhollister.com/public/files/Morzilloetal2010EnvMonitor_accepted.pdf)
       
   : 2000 - 2009
   
       - Benyi, S. J., J. W. Hollister, J. A. Kiddon, H. A. Walker. (2009). A Process for Comparing and Interpreting Differences in Two Benthic Indices in New York Harbor. Marine Pollution Bulletin. 59:65-71. doi: [10.1016/j.marpolbul.2008.11.009](http://dx.doi.org/10.1016/j.marpolbul.2008.11.009).
       
-      - Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235. doi: [10.1007/s10661-008-0675-x](http://dx.doi.org/10.1007/s10661-008-0675-x). links: [pdf](public/files/HaleHollisterEcoInfandMonitor2009.pdf).
+      - Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235. doi: [10.1007/s10661-008-0675-x](http://dx.doi.org/10.1007/s10661-008-0675-x). links: [pdf](http://jwhollister.com/public/files/HaleHollisterEcoInfandMonitor2009.pdf).
       
-      - Hollister, J. W., J. F. Paul, and H. A. Walker (2008). CProb: A Computational Tool for Conducting Conditional Probability Analysis. Journal of Environmental Quality. 37(6):2392-2396. doi: [10.2134/jeq2007.0536](http://dx.doi.org/10.2134/jeq2007.0536). links: [pdf](public/files/HollisterWalkerPaulCProb_Final.pdf).
+      - Hollister, J. W., J. F. Paul, and H. A. Walker (2008). CProb: A Computational Tool for Conducting Conditional Probability Analysis. Journal of Environmental Quality. 37(6):2392-2396. doi: [10.2134/jeq2007.0536](http://dx.doi.org/10.2134/jeq2007.0536). links: [pdf](http://jwhollister.com/public/files/HollisterWalkerPaulCProb_Final.pdf).
       
       - Hollister, J. W., P. V. August, J. F. Paul, and H. A. Walker. (2008). Predicting Estuarine Sediment Metal Concentrations and Inferred Ecological Conditions: An Information Theoretic Approach. Journal of Environmental Quality. 37(1):234-244. doi: [10.2134/jeq2007.0105](http://dx.doi.org/10.2134/jeq2007.0105).
       
@@ -191,7 +193,7 @@ Peer Reviewed Articles
       
       - Paul, J. F., J. L. Copeland, M. Charpentier, P. V. August, and J. W. Hollister (2003). Overview of Geographic Information Systems applications in Estuarine Monitoring and Assessment Research. Marine Geodesy. 26:63-72. doi: [10.1080/01490410306704](http://dx.doi.org/10.1080/01490410306704).
       
-      - Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2). links: [pdf](public/files/Eubanks_etal_2002.pdf)
+      - Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2). links: [pdf](http://jwhollister.com/public/files/Eubanks_etal_2002.pdf)
 
 
 Chapters
@@ -230,14 +232,14 @@ Popular articles, Letters, Websites, and Guest Blog Posts
       
       - Hollister, J. W. and H. A. Walker (2007). Beyond Data: Reproducible Research in Ecology and Environmental Science. Frontiers in Ecology and the Environment. 5(1):11-12. doi: [10.1890/1540-9295(2007)5[10a:TPOC]2.0.CO;2](http://dx.doi.org/10.1890/1540-9295(2007)5[10a:TPOC]2.0.CO;2).
       
-      - Hollister, J. W. and L. M. Ernst (2001) Eelgrass Habitats get a Boost from Geographic Information Systems. Maritimes. 43(1):16-18. links: [pdf](public/files/HollisterErnst2001Maritimes.pdf)
+      - Hollister, J. W. and L. M. Ernst (2001) Eelgrass Habitats get a Boost from Geographic Information Systems. Maritimes. 43(1):16-18. links: [pdf](http://jwhollister.com/public/files/HollisterErnst2001Maritimes.pdf)
 
 Thesis and Dissertation
   : 2000 - 2009
   
-      - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp. links: [pdf](public/files/Hollisterdissertation_final.pdf).
+      - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp. links: [pdf](http://jwhollister.com/public/files/Hollisterdissertation_final.pdf).
       
-      - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](public/files/hollistermasterproject.pdf)
+      - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](http://jwhollister.com/public/files/hollistermasterproject.pdf)
   
 Software and Repositories
   : 2010 - Present
@@ -435,7 +437,7 @@ Research Funding
   
       - USEPA Safe and Sustainable Water Research Program Task 4.01C: A Data Intensive Investigation of Temperature Impacts and Bloom Modelling. Deputy Task Lead with B. J. Kreakie, Lead. 2016 - 2019.
       
-      - Cyanoscope: Smartphone based field microscopy of harmful algal blooms. USEPA, National Health and Environmental Effects Research Lab Citizen Science Competition.  With W. B. Milstead, H. Snook., T. Hollenhorst, and B. J. Kreakie. 2016 - 2017. [Proposal](public/files/cyanoscope_proposal.pdf) 
+      - Cyanoscope: Smartphone based field microscopy of harmful algal blooms. USEPA, National Health and Environmental Effects Research Lab Citizen Science Competition.  With W. B. Milstead, H. Snook., T. Hollenhorst, and B. J. Kreakie. 2016 - 2017. [Proposal](http://jwhollister.com/public/files/cyanoscope_proposal.pdf) 
       
       - USEPA Safe and Sustainable Water Research Program Task 2.3C: Cyanobacteria, nutrients, and land use – a nexus for sustainable water resources and human health protection, co-lead with B. J. Kreakie. 2013 - 2015.
   
