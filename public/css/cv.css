@@ -13,7 +13,15 @@
   display: none;
 }
 
+#header {
+  display: none;
+}
+
 #jeffrey-w-hollister {
+  text-align:center;
+}
+
+#address {
   text-align:center;
 }
 
