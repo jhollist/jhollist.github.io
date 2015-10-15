@@ -2,10 +2,13 @@
 layout: page
 title: Curriculum Vitae
 cv: True
+output:
+  html_document:
+    css: "public/css/cv.css"
 ---
-
+<div id="address">
 #Jeffrey W. Hollister
-- updated: 4 Aug 2015
+- updated: 15 Oct 2015
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -14,6 +17,7 @@ cv: True
 - (c)401 556 4087
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 - [jwhollister.com](http://jwhollister.com)
+</div>
 
 <div id="cv-nav">
 
@@ -153,13 +157,13 @@ Popular articles, Letters, Websites, and Guest Blog Posts
 
 Thesis and Dissertation
   : - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp. links: [pdf](public/files/Hollisterdissertation_final.pdf).
-  : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](public/files/hollistermasterproject.pdf).
+  : - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](public/files/hollistermasterproject.pdf)
   
 Software and Repositories
- : - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.0.3.999 [GitHub](https://github.com/ropensci/lawn) [CRAN](http://cran.r-project.org/web/packages/lawn/)
- : - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.0.1 [GitHub](https://github.com/jhollist/quickmapr) 
- : - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
- : - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
+  : - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.0.3.999 [GitHub](https://github.com/ropensci/lawn) [CRAN](http://cran.r-project.org/web/packages/lawn/)
+  : - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.0.1 [GitHub](https://github.com/jhollist/quickmapr) 
+  : - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
+  : - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
 
 Bootcamps, Workshops, and Panels
   : - Data Carpentry Workshop.  Co-Hosted with J. Swift and P. V. August.  Co- Taught with N. Ross.  University of Rhode Island Coastal Institute. Narragansett, RI. October 2015.
@@ -195,7 +199,7 @@ Seminars and Presentations
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Coastal landscape structure and estuarine condition relationships: How does scale alter model reliability? US Chapter of the International Association for Landscape Ecology Annual Meeting, Las Vegas, Nevada. April 2004.
   : - Hollister, J. W. Assessing and Monitoring out Nation's Estuaries: The Past, Present and Future of Geographic Information Systems Applications? Invited Speaker for Geographic Information Systems and Environmental Monitoring special session at the North Atlantic Chapter of the Society of Environmental Toxicology and Chemistry 9th Annual Meeting, Mystic, CT. April 2003
   : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Assessing the Predictive Capability of Hydrologically Defined Sampling Units for Landscape Analysis. Invited speaker at St. Lawrence University, Canton, NY. December 2002
-  : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.'
+  : - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.
 
 Posters
   : - Nojavan, F., B. J. Kreakie. A Bayesian Multilevel Model for Microcystin Prediction in the Continental United States Lakes. 2015 Society for Freshwater Science (SFS) Annual Meeting, Milwaukee, WI May 2015.
@@ -317,8 +321,8 @@ Societies
   : - Member, lapsed
   
 Additional Information
- : - Award Winning Homebrewer
- : - Barbeque-er
- : - Mediocre Dart player
- : - Retired mediocre Ultimate player
- : - SCUBA Certified
+  : - Award Winning Homebrewer
+  : - Barbeque-er
+  : - Mediocre Dart player
+  : - Retired mediocre Ultimate player
+  : - SCUBA Certified
