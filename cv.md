@@ -2,6 +2,9 @@
 layout: page
 title: Curriculum Vitae
 cv: True
+output:
+  html_document:
+    css: "public/css/cv.css"
 ---
 
 #Jeffrey W. Hollister
@@ -14,6 +17,7 @@ cv: True
 - (c)401 556 4087
 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov)
 - [jwhollister.com](http://jwhollister.com)
+
 
 <div id="cv-nav">
 
@@ -29,10 +33,16 @@ cv: True
 
 Dec 2004
   : Doctor of Philosophy in Environmental Science
-  : - Department of Natural Resources Science, University of Rhode Island, Kingston, RI
-  : - Areas of emphasis: Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
-  : - Coursework in: Coastal Ecology, Geographic Information Systems, Landscape Ecology, and Statistics
-  : - Dissertation Topic: Predicting Condition of Small Estuarine Systems along the United States' Atlantic Coast. (Advisor: Peter V. August, Ph. D.)
+  
+  
+      - Department of Natural Resources Science, University of Rhode Island, Kingston, RI
+      
+      - Areas of emphasis: Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
+      
+      - Coursework in: Coastal Ecology, Geographic Information Systems, Landscape Ecology, and Statistics
+      
+      - Dissertation Topic: Predicting Condition of Small Estuarine Systems along the United States' Atlantic Coast. (Advisor: Peter V. August, Ph. D.)
+
 
 May 1997
   : Masters of Environmental Management
