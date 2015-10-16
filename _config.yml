@@ -23,6 +23,7 @@ author:
 paginate:         5
 
 timezone:         America/New_York
+exclude:          "cv.Rmd"
 
 # Custom vars
 version:          0.2.0
