@@ -46,7 +46,7 @@ Dec 2004
   
       - Department of Natural Resources Science, University of Rhode Island, Kingston, RI
       
-      - Areas of emphasis: Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
+      - *Areas of emphasis:* Landscape Ecology, Geospatial Sciences, and Environmental Monitoring
       
       - Coursework in: Coastal Ecology, Geographic Information Systems, Landscape Ecology, and Statistics
       
