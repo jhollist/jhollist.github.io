@@ -149,6 +149,7 @@ May 1996 – July 1997
   
       - Researched environmental, ecological, and spatial controls on the establishment success of Red Spruce (Picea rubens) in northwestern Virginia. Research techniques included a variety of geographic information systems analytical tools (e.g. Topographic Convergence Index) and spatial statistics techniques (e.g. partial mantel’s tests).
 
+
 ##Teaching
 
 Jan 2007 – Present 
@@ -174,7 +175,9 @@ May 2003 – Aug 2004
   
       - Provided training to Rhode Island Natural History Survey and Ecological Inventory and Monitoring Stewardship Program Staff on ArcView and ArcMap GIS and Trimble GPS. Training focused on use of these products for ecological and natural history applications. June 2001 Geographic Information Systems Consultant, National Park Service, Gateway National Recreation Area, Staten Island, NY Trained Gateway National Recreation Area staff in use of ArcView, Spatial Analyst, and Trimble GPS products.
 
+
 ##Research Products and Presentations
+
 Peer Reviewed Articles
   : In Review
   
@@ -220,6 +223,7 @@ Chapters
   
       - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  links: [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
 
+
 Popular articles, Letters, Websites, and Guest Blog Posts
   : 2010 - Present
   
@@ -254,6 +258,7 @@ Thesis and Dissertation
       
       - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](http://jwhollister.com/public/files/hollistermasterproject.pdf)
   
+  
 Software and Repositories
   : 2010 - Present
   
@@ -264,6 +269,7 @@ Software and Repositories
       - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
       
       - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
+
 
 Bootcamps, Workshops, and Panels
   : 2010 - Present
@@ -287,6 +293,7 @@ Bootcamps, Workshops, and Panels
       - Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
       
       - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002. links: [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
+
 
 Seminars and Presentations
   : 2010 - Present
@@ -338,6 +345,7 @@ Seminars and Presentations
       - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Assessing the Predictive Capability of Hydrologically Defined Sampling Units for Landscape Analysis. Invited speaker at St. Lawrence University, Canton, NY. December 2002
       
       - Hollister, J. W., J. Copeland, P. V. August, J. F. Paul. Utilizing Hydrologically Defined Sampling Units for Landscape Analysis. Northeast Arc Users Group Annual Meeting, Mt. Washington Hotel, Bretton Woods, NH. November 2002.
+
 
 Posters
   : 2010 - Present
@@ -411,6 +419,7 @@ Programming
   
       - I use markdown and Rmarkdown extensively for developing web content, creating reproducible presentations and writing manuscripts.  Over the years I have also used a variety of tools for individual projects.  These include Visual Basic for Applications, Arc Macro Language, Typo3, Dreamweaver, Movable Type, Drupal, and RApache
   
+  
 Data Management and Analysis
   : GIS
   
@@ -432,6 +441,7 @@ Data Management and Analysis
   
       - I have collected GPS data from a variety of devices including Trimble ProXR, Trimble GeoExplorer, Trimble GeoXT, Garmin Chartplotters, and associated device specific software. 
 
+
 OS and Misc
   : Linux
   
@@ -444,6 +454,7 @@ OS and Misc
   : Misc
   
       - I have extensive knowledge of Microsoft Office 2000-2013 and have some networking and hardware maintenance experience. 
+  
   
 Research Funding
   : 2010 - Present
@@ -459,6 +470,7 @@ Research Funding
       - Geospatial Statistical Analysis Seminar, A Cooperative Training Project Between the University of Rhode Island and the US EPA Atlantic Ecology Division, US EPA NHEERL Grant, June 2003. PI's: P. August, L. González; Co-PI's: R. Sand, J. Opaluch, J. Hollister, and D. Grossman-Garber.
       
       - Estuarine Condition and Landscape Structure Relationships in the Mid-Atlantic and Southern New England Regions of the United States, EPA/URI Pre-Doctoral Fellowship (Major Advisor: Peter V. August, EPA Mentor: John F. Paul).
+
 
 Awards
   : 2010 - Present
@@ -486,6 +498,7 @@ Awards
       - Phi Eta Sigma National Honor Society
       - Blue Key National Honor Society
   
+  
 Graduate Students
   : Galen Scott
   
@@ -498,6 +511,7 @@ Graduate Students
   : Ann Borowik
   
       - 2008, Masters of Environmental Science and Management Written Comprehensive Exam Committee, University of Rhode Island, Kingston, RI.
+
 
 Societies
   : US Chapter of the International Association of Landscape Ecology
@@ -531,6 +545,7 @@ Societies
   : Society for Conservation GIS
   
       - Member, lapsed
+ 
   
 Other Activities
   : Current
