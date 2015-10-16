@@ -274,7 +274,7 @@ Software and Repositories
 Bootcamps, Workshops, and Panels
   : 2010 - Present
   
-      - Data Carpentry Workshop.  Co-Hosted with J. Swift and P. V. August.  Co- Taught with N. Ross.  University of Rhode Island Coastal Institute. Narragansett, RI. October 2015.
+      - Data Carpentry Workshop.  Co-Hosted with J. Swift and P. V. August.  Co- Taught with TBD.  University of Rhode Island Coastal Institute. Narragansett, RI. January 2016.
       
       - Federal Agency Networking Session. Invited panelist.  Organizers: Alan Wilson, Henry Gholz, and Daniel B. Stover. 100th Annual Ecological Society of America meeting.  Baltimore, MD. August 2015.
       
