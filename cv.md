@@ -95,45 +95,54 @@ Aug 2008 - Present
   
       - I serve as principle investigator and provide leadership to the division on landscape ecological research, on application of geospatial sciences to the understanding of water quality in fresh and estuarine waters, and on the use of informatics and information management tools in environmental research. In this role, I have developed tools and methodologies (GIS and statistical) using numerous software packages and languages (R, ArcGIS, GRASS, Python, MS Excel) and have continued prior research on technology transfer of data, analytical methods and predictive tools to Northeast States; and developed statistical and modeling tools to facilitate use of defensible techniques in water quality criteria development. Previously I have: served as Co-lead on a project studying ecosystem services related to nutrient cycling in Northeastern lakes and ponds, was the liaison between the National Ecological Observatory Network (NEON) and EPA’s Ecosystem Services Research Program (ESRP), was task lead for our lakes ecosystem services work, and served as co-task lead for developing decision support tools for a project in Narragansett Bay and its watershed. I am currently serving as a co-Task Lead on a project exploring cyanobacteria risk in lakes of the Northeastern US. I am also exploring the use of Open Science, data mining, and computational ecology in our various research programs. 
 
+
 May 2006 – July 2008 
   : Postdoctoral Landscape Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
   
       - Contributed to research and technology transfer of National Coastal Assessment data, analytical methods and predictive tools to Northeast States. Developed statistical and modeling tools (e.g. Conditional Probability Analysis with R and Excel) to facilitate use of defensible techniques in water quality criteria development. Provided Landscape Ecology, Spatial Statistics and GIS support to a variety of ongoing projects at the Atlantic Ecology Division and within US EPA’s Office of Research and Development. Explored linkages between landscape and downstream receiving waters and examined utility of broad scale monitoring data in identifying and assessing ecological impairment.
+
 
 Aug 2005 – May 2006 
   : Postdoctoral Fellow, U.S. Coast Guard Academy, Department. of Science, Marine Sciences Section, New London, CT
   
       - Continued prior research on multi-scale interactions between landscape structure (via NLCD) and sediment metal concentrations (via EMAP) and predictive modeling of estuarine impairment. Worked with students, faculty and colleagues in the Marine Sciences Section, the International Ice Patrol, and Information Services Division on a wide variety of Geographic Information Systems projects.
 
+
 Jan 2005 – July 2005 
   : Postdoctoral Associate, American Institute of Biological Sciences, National Ecological Observatory (NEON) Project Office, Washington, DC
   
       - Researched and assisted in planning of ecological observatories designed to address the National Research Council’s Environmental Grand Challenges. Made specific contributions in the design of the land use change component of NEON and design of a Multi-Scaled Remote Sensing System designed to support and develop NEON analytical tools and ecological forecasting models. Other duties included managing Geographic Information Systems operations in the Project Office, maintaining the NEON web presence (http://www.neoninc.org), interacting with research scientists and educators on the NEON Senior Management Team and National Network Design Committee, and assisting with the day-to-day operations of the NEON Project Office.
+
 
 Sep 2000 – Dec 2004 
   : U.S. EPA/URI Pre-doctoral Fellow/Doctoral Research/Graduate Research Assistant, USEPA Atlantic Ecology Division/University of Rhode Island Northeast Environmental Research Training Program, Narragansett, RI/Kingston, RI
   
       - Used monitoring data from the Environmental Monitoring and Assessment Program (EMAP) and the National Land Cover Dataset (NLCD) to explore relationships between landscape structure and indicators of estuarine condition. I specifically researched the accuracy of the NLCD at multiple spatial scales, the role of spatial scale on the relationship between landscape organization (e.g. landscape composition) and ecological health and integrity of Atlantic coast estuaries, and built predictive models of estuarine condition designed to locate estuaries with impacted ecological integrity. As member of Landscape Ecology Working Group, discussed and assisted on projects at USEPA Atlantic Ecology Division and URI utilizing landscape ecology, spatial analysis and broad scale environmental monitoring data, in particular NLCD and EMAP.
 
+
 May 2003 – Aug 2004 
   : Geographic Information Systems/Biological Database Specialist, Rhode Island Natural History Survey, Kingston, RI
   
       - Contributed towards the design and implementation of the Rhode Island Natural History Survey (RINHS) Biodiversity Databases, specifically the Odonata of Rhode Island and the Biota of Rhode Island. Designed field sampling methodology to accurately map invasive species with geostatistical techniques.
+
 
 Jan 2001 – June 2001 
   : Geographic Information System/Eelgrass Restoration Modeling Consultant, Save the Bay, Inc., Kingston, RI
   
       - Compiled bathymetry, current and historic eelgrass locations, historic, and water quality data sets for use in eelgrass restoration efforts. Using the Short et al. (2002) methodology, built geographic information system models of eelgrass restoration potential and generated maps of areas in Narragansett Bay with higher potential of eelgrass restoration success.
 
+
 June 1998 – July 2000 
   : Lead Research Technician in Landscape Ecology, J.W. Jones Ecological Research Center, Landscape Ecology Lab, Newton, GA
   
       - Conducted research on ecological impacts of small wetland loss in the Southeastern United States, use of home range in the design of gopher tortoise (Gopherus polyphemus) reserves, and habitat use and landscape ecology of Northern Bobwhite Quail . Other research duties included remote sensing data analysis (e.g. Landsat Thematic Mapper, SPOT-XS, B&W and CIR Aerial Photography), analysis of vector and raster GIS data, and field data collection (e.g. GPS, vegetation data). Supervised and assisted other technicians, graduate students and summer field workers and managed day-to-day operations of the Landscape Ecology Lab.
 
+
 Aug 1997 – Jan 1998 
   : Geographic Information Systems Specialist, Research Triangle Institute, Research Triangle Park, NC
   
       - Developed a GIS methodology and series of Arc Macro Language scripts to facilitate the identification of river reaches, as required by the Clean Water Act, in the states of North Dakota and Arkansas.
+
 
 May 1996 – July 1997 
   : Resource Ecology Master’s Research, Duke University, Landscape Ecology Lab, Durham, NC
@@ -147,15 +156,18 @@ Jan 2007 – Present
   
       - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level [seminar course in Landscape Ecology](http://www.edc.uri.edu/nrs/classes/nrs534/). Course included readings and group discussion of the concepts and principles of landscape ecology.  Also team taught with Drs. Peter V August and Adam Smith, a [scientific computing survey course](http://scicomp2014.edc.uri.edu) focusing on R, version control, and reproducible research.  Provided guest lecture on R in CSC 592 Programming For Scientists during Fall 2014.
 
+
 Aug 2005 – May 2006 
   : Postdoctoral Teaching Fellow, U.S. Coast Guard Academy, Department of Science, Marine Sciences Section, New London, CT
   
       - Responsible for teaching 3 laboratory sections of Introduction to Geospatial Sciences (major topics include: introduction to ESRI products, geospatial data management, spatial analysis, cartography, coordinate systems and projections, geodatabases, development of geodatabase for emergency management and hazardous materials response) and teaching 3 sections of a core course in Oceanography (major topics include: marine and coastal ecology, fisheries, meteorology, physical oceanography, coastal oceanography, estuarine classification, and oil spill impact/response).
 
+
 Sep 2002 – Dec 2004 
   : Graduate Teaching Assistant, University of Rhode Island, Department of Natural Resource Science, Kingston, RI
   
       - Coordinated Conservation of Populations and Ecosystems course (major topics include: conservation biology, ecological and socioeconomic importance of biodiversity, introductory population, community, and ecosystems ecology, genetics, metapopulations, landscape ecology, and data analysis for conservation biology). Taught laboratory sections for Fundamentals of Geographic Information Systems (major topics include: operating systems essentials for GIS, ArcInfo Workstation, Editing and creating spatial data, cartography, and introductory spatial analysis).
+
 
 May 2003 – Aug 2004 
   : Geographic Information Systems/Database Consultant, Rhode Island Natural History Survey, Kingston, RI
