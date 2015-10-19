@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2015-10-16
+- updated: 2015-10-19
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -297,8 +297,6 @@ Bootcamps, Workshops, and Panels
 
 Seminars and Presentations
   : 2010 - Present
-  
-      - Hollister, J. W., W. B. Milstead, Betty J. Kreakie, Hilary Snook, Tom Hollenhorst.  cyanoScope: smartphone based field microscopy of harmful algal blooms. Lightning Talk at workshop on Advancing EPA integration of environmental and information sciences. Oct 2015, Research Triangle Park, NC. [slides]()
       
       - Hollister, J. W. Open Science: A Zealot's View.  Invited Symposium Speaker, "Emerging Issues and Novel Technologies in Coastal Ecosystem Science", New England Estuarine Research Society Spring Meeting, April 2015, Bristol, RI. [slides](open_science_neers/) 
       
