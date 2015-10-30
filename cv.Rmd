@@ -264,7 +264,7 @@ Software and Repositories
   
       - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.0.3.999 [GitHub](https://github.com/ropensci/lawn) [CRAN](http://cran.r-project.org/web/packages/lawn/)
       
-      - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.0.1 [GitHub](https://github.com/jhollist/quickmapr) 
+      - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.0 [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.32971](http://dx.doi.org/10.5281/zenodo.32971)
       
       - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
       
