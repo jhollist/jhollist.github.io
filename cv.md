@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2015-10-30
+- updated: 2015-11-03
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -262,9 +262,9 @@ Thesis and Dissertation
 Software and Repositories
   : 2010 - Present
   
-      - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.0.3.999 [GitHub](https://github.com/ropensci/lawn) [CRAN](http://cran.r-project.org/web/packages/lawn/)
+      - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.1. Links: [CRAN](https://cran.r-project.org/web/packages/quickmapr/index.html)  [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.33135](http://dx.doi.org/10.5281/zenodo.33135)
       
-      - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.0 [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.32971](http://dx.doi.org/10.5281/zenodo.32971)
+      - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.1.4. links: [CRAN](http://cran.r-project.org/web/packages/lawn/) [GitHub](https://github.com/ropensci/lawn) 
       
       - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
       
@@ -297,6 +297,8 @@ Bootcamps, Workshops, and Panels
 
 Seminars and Presentations
   : 2010 - Present
+      
+      - Hollister, J. W. Spatial Data Analysis in R: Lightning Demo! Lightning Talk at Northeast Arc Users Group Fall Meeting, November 2015, Burlington, VT.  [GitHub](https://github.com/jhollist/rgis_lightning_demo).
       
       - Hollister, J. W. Open Science: A Zealot's View.  Invited Symposium Speaker, "Emerging Issues and Novel Technologies in Coastal Ecosystem Science", New England Estuarine Research Society Spring Meeting, April 2015, Bristol, RI. [slides](open_science_neers/) 
       
