@@ -1,0 +1,253 @@
+---
+layout: post
+title: "Spatial Data Analysis in R: Lightning Demo!""
+tags: ['R','spatial data','visualization','demo','GIS','sp', 'raster']
+categories: ['R', 'GIS']
+---
+
+At this years [NEARC](http://northeastarc.org/2015/index.html) meeting I decided to give a lightning talk on using R as a GIS.  As I was working on this I thought, "why not try a lightning demo?"  That would be better than five minutes of slides on packages and commands.  But, as anyone who has done a live demo will know, they often provide unexpected challenges.  Add a 5 minute limit to that, and well, some level of failure is sure to occur.  Becuase of this I have decided put everything into a web page so that the attendees (and others) can access the full demo at a later date.  The full text and code is provided below.
+
+********************************************************************************
+
+[Just the Code](index.R)
+
+Free and open source software solutions for GIS have come a long way in the last several years as the tools to handle file I/O, vector analysis, and raster processing have matured.  Built on top of many of these libraries are some farily well known options and include [QGIS](http://www.qgis.org/en/site/), [GRASS](https://grass.osgeo.org/), and [PostGIS](http://postgis.net/).  During this same time, we have seen the rise of the [R Language for Statistical Computing](https://www.r-project.org/) and not to be left behind many of the same libraries are now supported in R.  So given all of these options, plus the tools many use provided by [esri](https://www.esri.com) there is a rich ecosystem of options for GIS analysts.  
+
+The purpose of this lightning demo is to provide a small taste of GIS capabilities that are available in R.  I will run through the set-up required to get going, show examples of reading in and exploring both raster and vector, show some visualization options, and do some simple analysis.  As this is a demo, and supposed to be done in 5 minutes, I will likely fail miserably at this.  Becuase of that, I have created this page that has all of what I wanted to show in one place so when things go off the ralis, you can follow along later.
+
+*Note: This demo assumes a minimum level of familiarity with R*
+
+##Get R set up to do GIS
+First task is to make sure we have everything in place to do spatial analysis.  The core packages that will provide nearly all of the GIS functionality you need on a daily basis are:
+
+- `sp`: provides the base data structure for vector (and other) data.  This is the foundation that most GIS in R is built on.
+- `raster`: provides the base data strcuture for raster data as well as a bit of visualization and analysis tools.  I prefer this over using `sp` for raster data becuase `raster` leaves data on disk and does not pull it all in to memory.
+- `rgdal`: R client for Geospatial Data Abstraction Library (GDAL) and handles file I/O plus projections.  Does require access to GDAL and PROJ.4.  These are part of the package on Windows (e.g. trivial to install), but external libraries need to be loaded on Linux and Mac.
+- `rgeos`: R client for the Geometry Engine, Open Source (GEOS).  This provides vector analysis capabilities.  Similar to `rgdal` external libraries are needed, but are part of Windows binaries and needed for Linux and Mac.
+
+To get this set up all we need to do is:
+
+```{r eval = FALSE}
+#if not already installed
+install.packages(c("sp","raster","rgdal","rgeos"))
+```
+
+```{r}
+library("sp")
+library("raster")
+library("rgdal")
+library("rgeos")
+```
+
+##Read in data
+First, let's go find some data... Since we are in Burlington, VT we can keep it local and get some data from the [Vermont Center for Geographic Information](http://vcgi.vermont.gov/).  No need to leave our beloved R command line for this either.  
+
+```{r}
+#Get the Town Boundaries
+towns_url <- "http://maps.vcgi.org/gisdata/vcgi/packaged_zips/BoundaryTown_TWNBNDS.zip"
+download.file(towns_url,"vt_towns.zip")
+unzip("vt_towns.zip")
+
+#Get Landcover
+lc_url <-"http://maps.vcgi.org/gisdata/vcgi/packaged_zips/LandLandcov_LCLU.zip"
+download.file(lc_url,"vt_lulc.zip")
+unzip("vt_lulc.zip")
+```
+
+We now have some vector data (the towns) and raster data (the land cover) locally.  How do we pull that into R?  Frist the town boundaries, which are in shapefiles.
+
+```{r}
+#Read in the vector town boundary
+vt_towns <- readOGR(".","Boundary_TWNBNDS_poly")
+```
+
+That wasn't too bad.  Essentially (for shapefiles, anyway) the first argument is the folder where the shapefiles reside and the second argument is the name of the shapefile (without the `.shp` extension).
+
+Rasters are pretty easy too.  In this case we are reading in an Arc Grid file.  Becuase of the unzipping it is buried a bit in the path.
+
+```{r}
+#Read in the raster landcover
+vt_lulc <- raster("lclu/lclu/")
+```
+
+```{r, echo = FALSE}
+proj4string(vt_lulc)<-proj4string(vt_towns)
+```
+
+##Explore that data
+So, not much really happened there.  Let's look around at these just to make sure we got something.
+
+```{r}
+#List the objects in memory
+ls()
+
+#Let's look at the towns
+#Default view (from the raster package, actually)
+vt_towns
+#Summary
+summary(vt_towns)
+#Look at the attributes on the towns
+head(vt_towns)
+#Or the whole thing
+vt_towns@data
+
+#Now for the raster
+vt_lulc
+#Value attribute table
+print(vt_lulc)
+
+```
+
+##Visualize it
+
+We have our data in, we've looked at some of information, but this is all about GIS in R and what would a GIS demo be without some maps.  There are lots of ways to create maps in R and this area is receiveing a lot of development attention.  I'll show three ways to do this: using base tools, using a wrapper around the base tools called `quickmapr` (WARNING: SHAMELESS SELF-PROMOTION), and finally using `leaflet` to map the data.  
+
+I won't spend time on cartography per se, but thought I'd show some examples of maps created in R to show what is possible:
+
+- [London Bike Map](http://spatialanalysis.co.uk/wp-content/uploads/2012/02/bike_ggplot.png)
+- [Facebook Connections](http://paulbutler.org/archives/visualizing-facebook-friends/facebook_map.png)
+
+So, let's first look at our data with base functions.  It is pretty straightforward.
+
+```{r , echo = FALSE, messages = FALSE}
+png("map1.png")
+#Plot landcover first
+plot(vt_lulc)
+#Now add the towns
+plot(vt_towns, add = TRUE)
+dev.off()
+```
+
+
+```{r, eval = FALSE}
+#Plot landcover first
+plot(vt_lulc)
+#Now add the towns
+plot(vt_towns, add = TRUE)
+```
+
+![map1](map1.png)
+
+Hey, a map!  Simple and easy.  There are many controls for how this draws, but beyond scope for a 5 minute demo.
+
+But what if I want to interact with this map?  Well, that is what `quickmapr` does.
+
+```{r, eval=FALSE}
+#Get the package
+install.packages("quickmapr")
+library("quickmapr")
+```
+```{r, echo=FALSE,message=FALSE}
+#Get the package
+if(!require(quickmapr)){
+  install.packages("quickmapr", repo = "https://cran.rstudio.com")
+}
+library("quickmapr")
+```
+
+With that loaded up we can create the `quickmapr` object and map and then interact with it.
+
+```{r , echo = FALSE, messages = FALSE}
+png("map2.png")
+map <- qmap(vt_lulc,vt_towns)
+dev.off()
+```
+
+```{r, eval = FALSE}
+map <- qmap(vt_lulc,vt_towns)
+```
+
+![map2](map2.png)
+
+Then a few options for interactions:
+- Zooming with `zi()`,`zo()`, and `ze()`
+- Pan with `p()`
+- Identify with `i()`
+- Label with `l()` (work in progress!)
+- Back to full extent with `f()`
+
+Last example I'll show is using our data in R, with the `leaflet` package (and javascript library) to build interactive web maps.
+
+Like above, we need the package.
+
+```{r, eval=FALSE}
+#Get the package
+install.packages("leaflet")
+library("leaflet")
+```
+```{r, echo=FALSE,message=FALSE}
+#Get the package
+if(!require(leaflet)){
+  install.packages("leaflet", repo = "https://cran.rstudio.com")
+}
+library("leaflet")
+```
+
+Plus, since this is `leaflet`, projected data is going to be a challenge and we need to get the data into geographic coordinates. 
+
+```{r}
+proj4 <- CRS("+proj=longlat +datum=NAD83 +no_defs +ellps=GRS80 +towgs84=0,0,0")
+vt_towns_geo <- spTransform(vt_towns,proj4)
+```
+
+Now let's create the `leaflet` map.
+
+```{r}
+map <- leaflet()
+map <- addTiles(map)
+map <- addPolygons(map,data=vt_towns_geo)
+#Not Run: Takes a while.  Does projection behind the scenes.
+#map <- addRasterImage(map, data = vt_lulc)
+map
+```
+
+##Analyze it
+Last thing we would expect to be able to do with any GIS is some geospatial analysis.  For this demo we will keep it simple and pull out some land use and landcover summaries for Burlington.
+
+First, let's extract just Burlington from the towns.
+
+```{r}
+#Use base R indexing to grab this
+burlington_bnd <- vt_towns[vt_towns[["TOWNNAME"]] == "BURLINGTON",]
+burlington_bnd
+#And plot it, with a basemap in quickmapr
+burl <- qmap(vt_towns, burlington_bnd, basemap = "1m_aerial", 
+             resolution = 600)
+```
+
+Now we can use the boundary to clip out the land use/land cover.
+
+```{r}
+#First we crop the data: which uses the extent
+burlington_lulc <- crop(vt_lulc,burlington_bnd)
+#Next we mask which removes lulc outside of town boundary
+burlington_lulc <- mask(burlington_lulc,burlington_bnd)
+#And look at the result 
+burl <- qmap(burlington_lulc,burlington_bnd,
+             colors = "black")
+```
+
+Last thing to do is summarize our stats:
+
+```{r}
+values <- getValues(burlington_lulc)
+values <- data.frame(table(values))
+values$Perc <- round(100 * (values$Freq/sum(values$Freq)),1)
+```
+
+Well, I am not too familiar with Vermont's codes, so lets add that in.
+
+```{r}
+#Get Codes from VCGI
+download.file("http://maps.vcgi.org/gisdata/vcgi/products/products_vcgi/lucodes.zip","vt_lucodes.zip")
+unzip("vt_lucodes.zip")
+#It's a dbf so we can deal with that in foreign package
+library(foreign)
+codes <- read.dbf("lucodes/lucodes.dbf")
+values <- merge(values,codes,by.x="values",by.y="CODE")
+knitr::kable(values[,3:4])
+```
+
+Whew!  Did I finish in 5 minutes.  Most likely not even close.
+
+

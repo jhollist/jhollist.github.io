@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>GIS Database Administrator</origin>
+<pubdate>20120216</pubdate>
+<pubtime>unknown</pubtime>
+<title>BoundaryOther_BNDHASH</title>
+<edition>2011A</edition>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>Vermont village, town, county, state and RPC boundaries, from best available sources</sername>
+<issue>2011A</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Waterbury VT 05676</pubplace>
+<publish>GIS Database Administrator</publish>
+</pubinfo>
+<othercit>Tile Structure - STATE</othercit>
+<onlink>http://www.vcgi.org/dataware/default.cfm?layer=BoundaryOther_BNDHASH</onlink>
+<onlink>http://www.vcgi.org/dataware/default.cfm?layer=BoundaryOther_BNDHASH&amp;mapit=yes</onlink>
+<onlink>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_REGION_VILLAGES&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</onlink>
+<onlink>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_REGION_TOWNS&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</onlink>
+<onlink>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_REGION_COUNTIES&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</onlink>
+<onlink>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_REGION_RPCS&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</onlink>
+<onlink>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_REGION_VTBND&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</onlink>
+<onlink>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_REGION_LEPC&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</onlink>
+<onlink>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_LINE&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The BNDHASH data layer depicts Vermont villages, towns, counties, Regional Planning Commissions (RPC),</abstract>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>20120216</caldate>
+<time>Unknown</time>
+</sngdate>
+</timeinfo>
+<current>Publication Date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Annual</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-73.454162</westbc>
+<eastbc>-71.465281</eastbc>
+<northbc>45.018361</northbc>
+<southbc>42.722789</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Vermont</themekey>
+<themekey>boundaries</themekey>
+<themekey>villages</themekey>
+<themekey>towns</themekey>
+<themekey>county</themekey>
+<themekey>RPC</themekey>
+<themekey>LEPC</themekey>
+<themekey>administrative</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>Vermont</placekey>
+</place>
+</keywords>
+<accconst>
+VCGI and the State of Vermont make no
+representations of any kind, including but not limited to the
+warranties of merchantability or fitness for a
+particular use, nor are any such warranties to be
+implied with respect to the data.
+</accconst>
+<useconst>
+Although every effort has been made to assure the
+accuracy of features and their attributes, VCGI is not accountable for any
+errors or misuse of the data.  The data should be used for general mapping purposes only!
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Vermont Center for Geographic Information</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>58 South Main Street, Suite 2</address>
+<city>Waterbury</city>
+<state>VT</state>
+<postal>05676</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>802/882-3000</cntvoice>
+<cnttdd>None</cnttdd>
+<cntfax>(802) 882-3001</cntfax>
+<hours>9am - 5pm, M-F</hours>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&amp;VERSION=1.1.1&amp;request=getmap&amp;BBOX=-73.45416,42.72279,-71.46528,45.018356&amp;SRS=EPSG:4326&amp;LAYERS=BOUNDARY_BNDHASH_REGION_TOWNS&amp;STYLES=&amp;WIDTH=300&amp;HEIGHT=400&amp;FORMAT=image/gif</browsen>
+<browsed>GIF</browsed>
+<browset>GIF</browset>
+</browse>
+<datacred>VCGI</datacred>
+<secinfo>
+<secsys>N/A</secsys>
+<secclass>Unclassified</secclass>
+<sechandl>No restrictions</sechandl>
+</secinfo>
+<native>ArcGIS 9.x</native>
+and LEPC (Local Emergency Planning Committee) boundaries.
+It is a mosaic of generally &apos;best available&apos; boundaries from various data sources
+(refer to ARC_SRC and SRC_NOTES attributes), but DOES NOT attempt to provide a legally definitive boundary.
+The layer was originally developed from TBHASH,
+which was the master VGIS town boundary layer prior to the development and release of BNDHASH.
+By integrating village, town, county, RPC, and state boundaries into a single layer,
+VCGI has assured vertical integration of these boundaries and simplified maintenance.
+BNDHASH also includes annotation text for town, county, and RPC names.
+
+BNDHASH includes the following feature classes:
+
+1) VILLAGES = Vermont villages
+2) TOWNS = Vermont towns
+3) COUNTIES = Vermont counties
+4) RPCS = Vermont&apos;s Regional Planning Commissions
+5) LEPC = Local Emergency Planning Committee boundaries
+6) VTBND = Vermont&apos;s state boundary
+
+The master BNDHASH layer is managed as ESRI geodatabase feature dataset by VCGI.  The dataset stores villages,
+towns, counties, and RPC boundaries as seperate feature classes with a set of topology rules which binds the features.
+This arrangement assures vertical integration of the various boundaries.  VCGI will update this layer on an annual
+basis by reviewing records housed in the VT State Archives - Secretary of State&apos;s Office.
+VCGI also welcomes documented information from VGIS users which identify boundary errors.
+
+NOTE - VCGI has NOT attempted to create a legally definitive boundary layer.
+Instead the idea is to maintain an integrated village/town/county/rpc boundary layer which provides for a
+reasonably accurate representation of these boundaries (refer to ARC_SRC and SRC_NOTES).
+BNDHASH includes all counties, towns, and villages listed in &quot;Population and Local Government - State of Vermont - 2000&quot; published by the Secretary of State.
+BNDHASH may include changes endorsed by the Legislature since the publication of this document in 2000 (eg: villages merged with towns).
+Utlimately the Vermont Secratary of State&apos;s Office and the VT Legislature are responsible for maintaining
+information which accurately describes the location of these boundaries.  BNDHASH should be used for general
+mapping purposes only.
+
+* Users who wish to determine which boundaries are different from the original TBHASH boundaries should refer
+to the ORIG_ARC field in the BOUNDARY_BNDHASH_LINE (line featue with attributes).  Also, updates to BNDHASH are tracked by version
+number (ex: 2003A).  The UPDACT field is used to track changes between versions.  The UPDACT field is flushed
+between versions.
+<purpose>Depict Vermont&apos;s village, town, county, RPC, administrative, LEPC, and state boundary lines.</purpose>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>
+Original attributes were based on TBHASH.  VCGI has verified that all
+features have valid attribute values. Values have been validated against the VGIS Geographic Area
+Codes (geocodes) standard and data product.
+</attraccr>
+</attracc>
+<logic>
+Coverage checked for correct topology.  Polygons are closed.  No label
+errors.  All features have unique IDs. No dangles
+1) VILLAGES = Checked against U.S. Census Bureau 2000 village boundaries. Some villages have been merged with their parent towns since the 2000 census.  Other villages are not recognized by the U.S. Census Bureau, however, they are still part of the REGION.VILLAGES subclass since they are recognized by the State of Vermont as incorporated villages.
+2) TOWNS = Checked against the original TBHASH layer.  255 towns (MCDs).
+3) COUNTIES = Derived from REGION.TOWNS.  Visually checked against CNTY250.
+4) RPCS = Visually checked against RPC250.
+5) VTBND = Visually checked against VT250.
+5) ADMIN = Not checked.
+5) LEPC = Not checked
+</logic>
+<complete>
+VCGI has verfied all villages, towns, counties, and RPCs are represented in the BHDHASH data layer.
+As noted, BNDHASH was developed from TBHASH (which has been archived).  Boundaries have been
+derived from &apos;best available&apos; sources, however, town and other boundaries are notoriously difficult
+to accurately locate.  As a result, this data should be used with caution and for general mapping purposes only!
+
+KNOWN ISSUES AND SPECIAL NOTES:  There are a number of town boundary and other boundary issues that have been identified and documented by VCGI, however, for various reasons VCGI has been unable to resolve them.  Some of these issues have been identified by other organizations.
+
+1) Barnard/Stockbridge boundary. Barnard&apos;s parcel data (2000) depicts a jog in the southwest corner of town which overlaps Stockbridge.  VCGI chose to stick with the current representation (straight line) since the jog could not be validated.
+
+2) Williamstown/Northfield boundary.  The VT General Assembly, through Act M16 1988, commissioned a survey  to accurately establish the boundary lines between Williamstown/Northfield and Brookfield/Roxbury.  These boundaries also define the boundary between Orange and Washington Counties.  The Williamstown/Northfield survey was completed in 1989 and was ratified by the General Assembly via Act M-7 1989.  VCGI has a hardcopy of the survey (Dubois &amp; King, Inc.).  VCGI contacted the surveyor to get a digital copy of the boundaries, however, the surveyor wasn&apos;t able to locate the digital file.  VCGI visually check the BNDHASH Williamstown/Northfield boundary relative to the hardcopy survey and determined that the BNDHASH boundary is reasonably accurate.
+
+3) Act 129 1994 Brandon/Goshen:  VCGI used an ArcView 3.2a COGO extension to determine that the existing BNDHASH boundary was within 50 meters of the line defined in Act 129.  As a result, the boundary was not modified.
+
+4) Act M-20 1988 Hinesburg/Starksboro: VCGI did not modify the BNDHASH line because the description in the act was too difficult to translate.
+
+5) Northfield/Warren town line.  Parcel data from these two towns overlap each other.  As a result, VCGI used what was depicted on the 24K USGS topo map, which is consistent with what Warren had in their 1992 parcel data.
+</complete>
+<posacc>
+<horizpa>
+<horizpar>
+The accuracy of each feature depends on its source
+data (refer to ARC_SRC and SRC_NOTES).  In general, parcel level data can be
+considered more accurate than lines digitized
+from RF 24,000 scale topographic maps (which
+are very approximate).  However, town boundaries
+are notoriously difficult to accurately locate.  Where
+two adjoining towns have parcel-level data, the
+common boundary often disagree by hundreds of meters.
+VCGI used the most recent parcel data, however, this does
+not mean that it is more accurate spatially.  It is assumed
+that more recent parcel data is more accurate.
+</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>GIS Database Administrator</origin>
+<pubdate>19931216</pubdate>
+<pubtime>unknown</pubtime>
+<title>Vermont town boundaries, mostly from best available sources</title>
+<edition>1993</edition>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>BoundaryTown_TBHASH</sername>
+<issue>1993</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Waterbury VT 05676</pubplace>
+<publish>GIS Database Administrator</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<srcscale>Various</srcscale>
+<typesrc>Various</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>19740000</begdate>
+<begtime>Unknown</begtime>
+<enddate>1990000</enddate>
+<endtime>Unknown</endtime>
+</rngdates>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>BoundaryTown_TBHASH</srccitea>
+<srccontr>BNDHASH was based on TBHASH. Coverage TBHASH was a mosaic of generally &apos;best available&apos; town boundaries, from various data sources. These include VGIS data layers BoundaryTown_TB24, TWNBND, and TB (from parcel data), and coverage CCTB for Chittenden County. All of these sources were digital, in Arc/Info format. Detailed documentation is available for each data layer; brief descriptions are given below. TB24 - Data source is USGS RF 24000 scale topographic maps, pre-1990 dates, original media 95% paper, 5% mylar, digital files obtained from EPA Region 1. TWNBND - Covers Addison, Orange, Rutland, and Windham counties (plus a few adjacent towns). Various data sources, including town parcel maps, Green Mountain National Forest Survey maps, State Archive survey documents, and orthophotos (lines photointerpreted, with guidance from USGS topographic maps). Where none of the above existed for a town, lines were inferred from existing data. All previously mentioned data sources were at RF 5000 scale. Source dates varied; orthophotos for the four counties were flown between 1974 &amp; 1982. Media included paper, tin sheets (GMNF maps), and digital (DXF and Arc/Info). Quality control was visual overlay with source map where applicable. TB \&lt;town&gt; coverages from parcel data - 24 towns. Source was town tax parcel maps (orthophoto-based), usually at RF 5000 scale (village or more densely populated areas were often at RF 2500 or 1250 scale. Source media was mylar or paper; a few towns were converted from digital DXF files. The feature accuracy is only as good as the town&apos;s original tax maps. There were often edgematching problems at adjacent sheets of different scales. Quality control consisted of proof plot overlays reviewed by town project coordinators, and independant review by VCGI. CCTB - Chittenden county town boundaries, compiled by CCRPC. Sources may vary. Many are RF 5000 scale (or larger) orthophoto-based tax parcel maps. Others are RF 24000 scale USGS topographic quads and RF 20000 scale 1978 orthophoto composites. Dates vary. Media was paper and digital (the original source of these data was a TB coverage from the University of Vermont School of Natural Resources).  TBHASH was first released in 12/16/1993 (Alice Doyle, VCGI).</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>Original release of TBHASH.</procdesc>
+<srcused>BoundaryTown_TB24</srcused>
+<srcused>TWNBND</srcused>
+<srcused>TB \&lt;town&gt;</srcused>
+<procdate>19931216</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Alice Doyle</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>Project Manager</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Revision of TBHASH.
+Changed TOWNNAME of SHERBURNE to KILLINGTON.  Updated FIPS6 from 21105 to 21047.
+Update annotation.  Revised metadata.  Loaded into VGIS Data Warehouse.
+</procdesc>
+<procdate>20010622</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Release 2003A.  Major update of TBHASH. Renamed to BNDHASH.  Integration of villages, counties, and RPC boundaries to create a vertically integrated layer with the best available village, town, county, RPC, and state BND data.  These features are now managed as ArcInfo coverage REGIONS.  Detailed summary below.
+
+This was the initial release of BNDHASH, which replaced TBHASH.  VCGI has performed an extensive review of various information sources in order to identify village, town, county, and RPC boundary changes.  Sources included records maintained by the Secretary of State at the Vermont State Archives in Montpelier. The VT Agency of Transportation also provided information regarding boundary errors or changes.  Finally, VCGI asked all RPCs to provide information regarding boundary changes or errors (BCRC,CCRPC,LCPC,TRORC,WRC provided information).  Refer to the details below:
+
+Significant Boundary Changes - Summary (2003A)
+----------------------------------------------
+Most of the village, town, and county boundary changes were minor tweaks based on better information or Legislative Act and Resolves noted in the State Archives.  However, there were a few significant changes (some of which have been wrong for a long time).
+
+1) Belvidere/Bakersfield (Lamoille/Franklin County) boundary:  In 1896 Act 125 &quot;An Act to Annex certain portions of Avery&apos;s Gore to the Town of Belvidere&quot; was enacted by the VT General Assembly.  This was once a Gore between Belvidere and Bakersfield that was annexed to Belvidere via Act 125 of 1896.  However, USGS topographic maps and other maps did not depict this boundary change accurately.  This is also a county boundary (Franklin/Lamoille), which makes the change more significant.  VCGI correct this boundary error by using Belvidere&apos;s parcel data (provided by the Lamoille County RPC), which apparently was developed in consultation with town officials.  However, VCGI did not independently validate this delineation via a ground survey or any other source.
+
+2) Perley&apos;s Gore: In 1986 the VT General Assembly, through Act M-13 &quot;An Act relating to Establishing a boundary line between the towns of Enosburg, Bakersfield, and Montgomery&quot;, modified these town boundaries to correct an error in the original survey used to established the boundaries.  VCGI modified the boundary based on information provied by VTrans.  The boundary change provided by VTrans only modified the border between Bakersfield and Enosburg (jog to allocate TH-31 completely to Enosburg).  This change is consistent with Act M-13, however, VCGI did not independently validate the change against &quot;Plan of Perley&apos;s Gore, December 1985, By Harvey W. Chaffee, RLS No. 558&quot;.
+
+3) Pownal/VT/NY state line:  The VT/NY state line in Pownal was modified to match Pownal&apos;s parcel data.
+
+State Archives (2003A)
+----------------------
+VCGI reviewed a document maintained by the Secretary of State entitled &quot;Vermont Municipalities: An Index to their Charters and Special Acts - 1986 - 1997&quot;.  This document included a listing of all village (merged with towns), town, and county boundary changes between 1986 and 1997.  VCGI made all necessary changes to the BNDHASH boundary lines based on this information.  VCGI also searched the VT Legislative &quot;Acts and Resolves&quot; online for boundary changes between 1998 and 2003 (http://www.leg.state.vt.us/docs/acts.cfm). Four changes were identified, including:
+
+- http://www.leg.state.vt.us/docs/2004/acts/ACTM004.HTM MERGING THE VILLAGE OF MILTON INTO THE TOWN OF MILTON
+- http://www.leg.state.vt.us/DOCS/2002/ACTS/ACTM009.HTM ALTERATION OF THE TOWN LINE BETWEEN THE CITY OF RUTLAND AND THE TOWN OF RUTLAND
+- http://www.leg.state.vt.us/DOCS/1998/ACTS/ACTM011.HTM MERGER OF THE TOWN OF RICHFORD AND THE VILLAGE OF RICHFORD
+
+VTrans Data (2003A)
+-------------------
+VTrans provided VCGI with a town boundary layer called TB_MASTER.  VCGI ran a spatial overlay operation between TB_MASTER and the original TBHASH layer to identify boundary changes.  Changes were implemented in BNDHASH and included:
+
+1) Burlington/Colchester/South Burlington/Winooski - boundaries shared with Burlington updated based on good boundary supplied by Jay Appleton of City of Burlington.
+
+2) Waterbury/Moretown/Duxbury - corner updated to work better geometrically, match to the USGS 1:24,000 topo map.
+
+3) Worcester/Stowe/Middlesex/Waterbury - corner moved to make this a true 4 corner and not angled off.  The intersection matches the 1:24,000 USGS Topo Maps and looks better geometrically.
+
+4) Perley&apos;s gore as noted in &quot;Significant Boundary Changes&quot; above.
+</procdesc>
+<procdate>20030617</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Added ADMIN attribute to REGION.TOWNS attribute table.  ADMIN identifies which Administrative District (created by Executive Order #7-95) the town is located in.  Updated metadata to reflect changed.  Loaded data into VGIS Data Warehouse.</procdesc>
+<procdate>20031010</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Release 2004A.  Added four missing villages (Groton, Northfield, South Ryegate, and Townshend) to REGION.VILLAGES.  Dropped Upper Vally-Lake Sunapee Commission from REGION.RPC.  Added new item/field to BNDHASH.AAT file called BNDTYPE (similar to old TBHASH TBLINE attribute).  Loaded revised data into VGIS Data Warehouse.  Detailed summary below.
+
+Significant Boundary Changes - Summary (2004A)
+---------------------------------------------
+
+1) Villages: The following villages have been added REGION.VILLAGES subclass
+A) Groton Village
+B) Northfield Village
+C) South Ryegate Village Lighting District
+D) Townshend Village
+
+NOTES:
+A) Groton, Ryegate, and Townshend village are not recognized by the U.S. Census Bureau.  As a result, their FIPS10 values are a concatenate of the FIPS6 + 999.
+
+B) Groton Village: &quot;Groton Village is listed here, even though the town voated to assume all village functions in 1965 and 1967.  The Census Bureau no longer recognizes is as a village.  Vermont law suggests that merger is the only way out for a village.  Groton is still a village de jure, which is why we include it here.&quot; Source Publication: &quot;Population and Local Government - State of Vermont - 2000 - Published by Deborah L. Markowitz, Secretary of State&quot;.
+
+C) South Ryegate Village Lighting District: &quot;Although its name is &apos;Lighting District&apos;, this municipality is treated as a village for most purposes, except that the Census doesn&apos;t appear to have counted its population separately from the town for many years.  The vagueness of the date of its organization is ude to poor recordkeeping.&quot; Source Publication: &quot;Population and Local Government - State of Vermont - 2000 - Published by Deborah L. Markowitz, Secretary of State&quot;.
+
+2) RPC Boundaries:  The Upper Valley-Lake Sunapee Commission (UV) no longer serves any towns in Vermont (as of 7/1/2004).  The towns formerly served by UV have been reallocated to Two Rivers-Ottauquechee Regional Planning Commission.  BNDHASH&apos;s REGION.RPC subclass has been updated to reflect this change.
+
+Legislative &quot;Acts and Resolves - 2004 Session&quot; (2004A)
+-----------------------------------------------------
+VCGI searched the VT Legislative &quot;Acts and Resolves&quot; online for boundary changes acted upon during the 2004 session (http://www.leg.state.vt.us/docs/acts.cfm). Two acts were identified, including:
+
+- http://www.leg.state.vt.us/docs/legdoc.cfm?URL=/docs/2004/acts/ACTM019.HTM BALTIMORE, CAVENDISH, AND WEATHERSFIELD TOWN LINES
+
+NOTES:  VCGI attempted to get a copy of the Baltimore/Cavendish/Weathersfield survey from the State Archives as specified in the Act, however, the Archives had not received any information from the either the towns or surveyor as specified in the Act.
+</procdesc>
+<procdate>20040713</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Release 2004B.  Dropped Bradford Village.  Corrected spelling of &quot;Buels Gore&quot;.  Loaded revised data into VGIS Data Warehouse.
+
+Significant Boundary Changes - Summary (2004B)
+---------------------------------------------
+
+1) Villages: Bradford Village has been dropped from REGION.VILLAGES.  Supporting documentation http://www.leg.state.vt.us/docs/legdoc.cfm?URL=/docs/2004/acts/ACTM010.HTM
+
+Minor Updates (2004B)
+---------------------
+1) Fixed a spelling error.  The TOWNNAME &quot;BUELLS GORE&quot; was changed to &quot;BUELS GORE&quot; in the REGION.TOWNS feature class.
+</procdesc>
+<procdate>20041217</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Release 2005A.  Loaded revised data into VGIS Data Warehouse.
+
+Significant Boundary Changes - Summary (2005A)
+---------------------------------------------
+
+1) MIDDLETOWN SPRINGS, IRA, POULTNEY, TINMOUTH, AND WELLS TOWN LINES.  Got a DWG file from the surveyor.  http://www.leg.state.vt.us/docs/legdoc.cfm?URL=/docs/2006/acts/ACTM002.HTM
+- ACTION: Used CAD file provided by surveyor to revised boundary.  THE BOUNDARY HAS CHANGED SIGNIFICANTLY FROM WHAT WAS IN THE PREVIOUS VERSION OF BNDASH.  CAD file included with BNDHASH distribution under the ./cadfiles folder.
+
+2) Baltimore, Cavendish, Weathersfield town line.  There was no survey on file at the state archives as of 7/2004.  Contacted surveyor (Gary Rapanotti 875-5000) got a DWG file of the new line. http://www.leg.state.vt.us/docs/legdoc.cfm?URL=/docs/2004/acts/ACTM019.HTM
+</procdesc>
+</procstep>
+<procstep>
+<procdesc>
+Release 2006A.  Loaded revised data into VGIS Data Warehouse.
+
+Significant Boundary Changes - Summary (2006A)
+---------------------------------------------
+- NONE
+
+Minor Updates (2006A)
+---------------------
+1) Minor topological corrections.
+2) Changed &apos;Alburg&apos; to &apos;Alburgh&apos; in TOWNS and VILLAGES feature classes.
+The Vermont Board of Libraries approvided the towns request to add the &apos;h&apos;
+(http://www.burlingtonfreepress.com/apps/pbcs.dll/article?AID=/20060419/NEWS/60419002).
+The Board had not posted the April 2006 minutes as of 7/7/2006 to the following website
+http://dol.state.vt.us/gopher_root5/libraries/bol/BOL.HTML.
+</procdesc>
+<procdate>20060721</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Revised BNDHASH (2007A).  Loaded revised data into VGIS Data Warehouse.
+
+Significant Boundary Changes - Summary (2007A)
+---------------------------------------------
+1) Bakersfield/Fairfield surveyed boundary (CAD file). M-9.  AN ACT RELATING TO ESTABLISHING THE TOWN LINE BETWEEN BAKERSFIELD AND FAIRFIELD.  http://www.leg.state.vt.us/docs/legdoc.cfm?URL=/docs/2008/acts/ACTM009.HTM
+2) Burke/Kirby surveyed boundary (CAD file). M-12.  AN ACT RELATING TO ESTABLISHING THE TOWN LINE BETWEEN BURKE AND KIRBY.  b.	http://www.leg.state.vt.us/docs/legdoc.cfm?URL=/docs/2008/acts/ACTM012.HTM
+3) Brookfield/Roxbury surveyed boundary (CAD file). Survey:  Douglas Henson (656).  Project # 98123.  Survey Date: 12/3/1998 - Revised 2/5/2007.  Lamoureux &amp; Dickinson.  802-878-4450.  Plat Sheet #1
+
+Minor Updates (2007A)
+---------------------
+1) CCRPC town boundary corrections.  Colchester/Milton town line and Hinesburg/Richmond/Williston town line.
+2) NWRPC town boundary corrections.  Saint Albans City/Town line.
+3) TRORC town boundary corrections.  Pittsfield/Chittenden town line.  Plymouth town line.
+</procdesc>
+<procdate>20080212</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Annual review of data.  VCGI did not identify any Legislative or
+other legal changes to municipal or village boundaries since the previous BNDHASH
+update (2007A).  RPCs did not submit any corrections.  Therefore no changes were made
+to BNDHASH in 2008.
+</procdesc>
+<procdate>20080819</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Revised BNDHASH (2010A).  Loaded revised data into VGIS Data Warehouse.
+
+Significant Boundary Changes - Summary (2010A)
+---------------------------------------------
+1) Barnard/Pomfret surveyed boundary.  Survey: Robert W Farnsworth (No. 21). Barnard/Pomfret State Road Area.  Drawing number 08-1969.  Data provided by Two Rivers RPC in VT.  Provided as shapefile and PDF.
+2) Adjusted US/CA border based on USGS boundary monument shapefile.  Provided to VCGI by USGS.  Note from USGS.  The official boundary file I provided was obtained by the International Boundary Commission. The horizontal positions obtained by Canada and the US for the same monuments varied up to 33 feet. The temporary solution was to average between the two solutions. Bottom line is that the data varies at places. There is an ongoing joint project between CN and US to correctly GPS the positions.  The problem with creating a corrected file is that the Official Boundary File is used as the join line for datasets between the two countries. If you do not use that file there will be data gaps or duplicate coverages.
+
+Minor Updates (2010A)
+---------------------
+1) Change Ferrisburg to Ferrisburgh per GNIS and VT Board of Libraries
+2) Made minor adjustments to VT/NY border based on monumenation provided by VTrans.
+</procdesc>
+<procdate>20101112</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>
+Revised BNDHASH (2011A).  The Boundary_BNDHASH_region_admin FC has been dropped because it was nevery adopted by the state.  Loaded revised data into VGIS Data Warehouse.
+
+Significant Boundary Changes - Summary (2011A)
+---------------------------------------------
+1) Saint George / Shelburne Town line.  Adjusted to match Survey “Town Line Agreement between Towns of: Shelburne &amp; St. George Chittenden County State of Vermont” conducted by a licensed land surveyor employed by Civil Engineering Associates, Inc. and dated March 9, 2011.  Boundary codified by VT Legislature in 2011 H. 452 (ACT 0015).  Recieved copy of survey boundary in shapefile format from CCRPC.
+2) Braintree / Rochester town line.  Adjusted based on latest matching Braintree/Rochester parcel data provided by TRORC.
+</procdesc>
+</procstep>
+- ACTION: Used CAD file provided by surveyor to revise boundary.  CAD file included with BNDHASH distribution under the ./cadfiles folder.
+
+Minor Updates (2005A)
+---------------------
+1) Newport City  boundary. Used revised boundary provided by VTrans to revised boundary.
+2) RRPC town boundary corrections. Used parcel boundary data to revise boundaries for Pittsford, Proctor, Brandon, Rutland Town, and West Rutland Town.
+3) WRC town boundary corrections. Corrected boundary between Rockingham and Athens based on data provided         4) Create an LEPC region subclass using the information developed by Tom Williams at VCGI other misc items
+5) Changed &quot;Warren&apos;s Gore&quot; to &quot;Warren Gore&quot;.
+6) Added a mixed case townname to region.towns attribute table.
+<procdate>20051117</procdate>
+<proctime>Unknown</proctime>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>Steve Sharp</cntper>
+<cntorg>VCGI</cntorg>
+</cntperp>
+<cntpos>GIS Database Administrator</cntpos>
+</cntinfo>
+</proccont>
+3) MA / VT boundary.  Adjusted MA / VT boundary based on survey point data provided by MassGIS http://www.mass.gov/mgis/townssurvey.htm which was derived from 68-volume MA &quot;Harbor and Lands Commission Town Boundary Atlas&quot;.
+
+Minor Updates (2011A)
+---------------------
+1) Tweaked Norwich/Harford boundary based on the latest parcel data to correct a problem.
+2) Updated LEPC boundaries based on new information.
+3) Adjusted boundaries for several villages to match 2011 boundary information provided by VTrans from their HMS system.
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Complete chain</sdtstype>
+<ptvctcnt>908</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Label point</sdtstype>
+<ptvctcnt>298</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>GT-polygon composed of chains</sdtstype>
+<ptvctcnt>298</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Point</sdtstype>
+<ptvctcnt>271</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Label point</sdtstype>
+<ptvctcnt>0</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Label point</sdtstype>
+<ptvctcnt>261</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Label point</sdtstype>
+<ptvctcnt>14</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Label point</sdtstype>
+<ptvctcnt>4</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Label point</sdtstype>
+<ptvctcnt>37</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Composite object</sdtstype>
+<ptvctcnt>254</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Composite object</sdtstype>
+<ptvctcnt>1</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Composite object</sdtstype>
+<ptvctcnt>41</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Composite object</sdtstype>
+<ptvctcnt>14</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Composite object</sdtstype>
+<ptvctcnt>11</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>State Plane Coordinate System 1983</gridsysn>
+<spcs>
+<spcszone>4400</spcszone>
+<transmer>
+<sfctrmer>0.999964</sfctrmer>
+<longcm>-72.500000</longcm>
+<latprjo>42.500000</latprjo>
+<feast>500000.000000</feast>
+<fnorth>0.000000</fnorth>
+</transmer>
+</spcs>
+</gridsys>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000237</absres>
+<ordres>0.000237</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>BNDHASH_LINE (line attribute table)</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>FNODE#</attrlabl>
+<attrdef>Internal node number for the beginning of an arc (from-node).</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TNODE#</attrlabl>
+<attrdef>Internal node number for the end of an arc (to-node).</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LPOLY#</attrlabl>
+<attrdef>Internal node number for the left polygon.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>RPOLY#</attrlabl>
+<attrdef>Internal node number for the right polygon.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LENGTH</attrlabl>
+<attrdef>Length of feature in internal units.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BNDHASH#</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>BNDHASH-ID</attrlabl>
+<attrdef>User-defined feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>BNDTYPE</attrlabl>
+<attrdef>State, county, town, or village boundary type.</attrdef>
+<attrdefs>VCGI.  State trumps county, which trumps towns, which trumps villages.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>STATE</edomv>
+<edomvd>State line</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>COUNTY</edomv>
+<edomvd>County line</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TOWN</edomv>
+<edomvd>Town line</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>VILLAGE</edomv>
+<edomvd>Village line</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ARC_SRC</attrlabl>
+<attrdef>Source of line location.</attrdef>
+<attrdefs>Various</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Green Mountain National Forest data.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>VT State Archive Survey document (analog/paper).</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Photointerpreted from RF 5000 scale orthophoto OR taken from 24K USGS topographic map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Inferred from best available data.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Town parcel map data.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>USGS RF 24000 scale topographic maps.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Based on detailed information provided by town officials.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Derived from VTran&apos;s HMS Index (Town/Village/UC layer) - Boundaries based on a mix of USGS Topo, VHD hydro, and parcel data.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>VT State Archive Survey document (digital).  CAD file.  Refer to CADFNAME for name of CAD file.  Files are distributed with BNDHASH.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>10</edomv>
+<edomvd>Border monuments based on high precision coordinates (GPS and/or field survey).</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SRC_NOTES</attrlabl>
+<attrdef>Source notes, either town or more detail on ARC_SRC item.</attrdef>
+<attrdefs>Various</attrdefs>
+<attrvai>
+<attrva>Line Source</attrva>
+<attrvae>
+If needed, SRC_NOTES provides additional information on top of ARC_SRC.
+For example, for parcel-level data SRC_NOTES
+indicates the town&apos;s parcel maps from which the
+line was derived.
+</attrvae>
+</attrvai>
+</attr>
+<attr>
+<attrlabl>CADFNAME</attrlabl>
+<attrdef>
+Name of CAD file used to digitize this line.  Refer to files bundled with BNDHASH under
+the ./cadfiles directory.
+</attrdef>
+<attrdefs>VCGI</attrdefs>
+</attr>
+<attr>
+<attrlabl>SRCORG</attrlabl>
+<attrdef>Organization/project which digitized/provided line.  This attribute identifies the organization or project which digitized the line. When a TBHASH line is redigitized or moved, the SRCORG code should be updated. The SRCORG codes will serve as a record of &quot;who did it&quot;.</attrdef>
+<attrdefs>Assigned when digitized or moved.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>VCGI - Original TBHASH project 1993</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>VCGI</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>VTrans</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>10</edomv>
+<edomvd>Addison County RPC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>11</edomv>
+<edomvd>Bennington County RC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>12</edomv>
+<edomvd>Central VT RPC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>13</edomv>
+<edomvd>Chittenden County RPC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>14</edomv>
+<edomvd>Northwest RPC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>15</edomv>
+<edomvd>Lamoille County PC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>16</edomv>
+<edomvd>Northeast VT Development Assoc.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>17</edomv>
+<edomvd>Rutland RPC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>18</edomv>
+<edomvd>Southern Windsor RPC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>19</edomv>
+<edomvd>Two Rivers-Ottauquechee RPDC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>20</edomv>
+<edomvd>Upper Valley-Lake Sunapee RPC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>21</edomv>
+<edomvd>Windham PC</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>99</edomv>
+<edomvd>Refer to SRC_NOTES</edomvd>
+</edom>
+</attrdomv>
+<attrdomv></attrdomv>
+</attr>
+<attr>
+<attrlabl>ORIG_ARC</attrlabl>
+<attrdef>Flag indicating whether line/arc is the original arc included in the 1993 release of TBHASH.</attrdef>
+<attrdefs>VCGI</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>Yes, line is from the original release of TBHASH</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>N = No, this is a new line.  Refer to UPD_DATE and ARC_SRC.</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>UPDACT</attrlabl>
+<attrdef>Flag indicating the type of Update Action taken since the last release.  These values are flushed between versions.</attrdef>
+<attrdefs>VCGI</attrdefs>
+<attrdomv>
+<edom>
+<edomv>A</edomv>
+<edomvd>ADD. Line has been Added.  This boundary was not represented in the previous release.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>NEW. Line is new.  This is a new cartographic representation of the boundary based on new arcs pulled into the coverage.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>M</edomv>
+<edomvd>MOVED. Line has been moved.  The line has been moved/reshaped based on information as noted in ARC_SRC and SRC_NOTES.</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>UPD_DATE</attrlabl>
+<attrdef>Date of Update Action was taken</attrdef>
+<attrdefs>VCGI</attrdefs>
+</attr>
+<attr>
+<attrlabl>UPD_NOTES</attrlabl>
+<attrdef>Update notes</attrdef>
+<attrdefs>VCGI</attrdefs>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BNDHASH_REGION_TOWNS (TOWNS attribute table)</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter of feature in internal units.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TOWNS#</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TOWNS-ID</attrlabl>
+<attrdef>User-defined feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>FIPS6</attrlabl>
+<attrdef>
+Unique FIPS code for each Vermont town.
+Town FIPS6 codes are made up of 6 digits or
+&quot;cccttt&quot;.  The first three digits (ccc) are a county
+FIPS code (001 to 027 by odd numbers,
+alphabetical by county), however, the VGIS Geocodes Standard
+DOES NOT pad with leading zeros (ex: 1 instead of 001).
+The last three digits (ttt)
+are a Census Place code (in multiples of 005,
+alphabetical within county).  See the Geographic
+Area Codes standard in the VGIS handbook for a
+description and a list of geographic area codes
+used in Vermont.  Also, data product GEOCODES
+is a database of geographic codes used to
+generate the guideline.
+</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+<attr>
+<attrlabl>TOWNNAME</attrlabl>
+<attrdef>Name of town in upper case letters.</attrdef>
+<attrdefs>State</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>Town names</codesetn>
+<codesets>VGIS Geocodes Standard</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TOWNNAMEMC</attrlabl>
+<attrdef>Name of town in mixed case letters.</attrdef>
+<attrdefs>State</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>Town names</codesetn>
+<codesets>VGIS Geocodes Standard</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>CNTY</attrlabl>
+<attrdef>County code - redefine of FIPS6</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BNDHASH_REGION_VTBND (VTBND attribute table)</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter of feature in internal units.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>VTBND#</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>VTBND-ID</attrlabl>
+<attrdef>User-defined feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BNDHASH_REGION_VILLAGES (VILLAGES attribute table)</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter of feature in internal units.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>VILLAGES#</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>VILLAGES-ID</attrlabl>
+<attrdef>User-defined feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>FIPS10</attrlabl>
+<attrdef>Unique code for each village. FIPS10 is a concatenation of FIPS6 and PLACECE.</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+<attr>
+<attrlabl>VILLNAME</attrlabl>
+<attrdef>Village name</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+<attr>
+<attrlabl>PLACECE</attrlabl>
+<attrdef>Census place code for villages.  This is a redefined item of FIPS10.</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+<attr>
+<attrlabl>FIPS6</attrlabl>
+<attrdef>Town FIPS code.  This is a redefined item of FIPS10. Identifies the town the village is in.</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BNDHASH_REGION_COUNTIES (COUNTIES attribute table)</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter of feature in internal units.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>COUNTIES#</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>COUNTIES-ID</attrlabl>
+<attrdef>User-defined feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>CNTY</attrlabl>
+<attrdef>County code</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+<attr>
+<attrlabl>CNTYNAME</attrlabl>
+<attrdef>County name</attrdef>
+<attrdefs>US government (U.S. Bureau of the Census) and VGIS Geocodes Standard.</attrdefs>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BNDHASH_REGION_RPCS (RPCs attribute table)</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter of feature in internal units.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>RPCS#</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>RPCS-ID</attrlabl>
+<attrdef>User-defined feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>RPC</attrlabl>
+<attrdef>Regional Planning Commission designation</attrdef>
+<attrdefs>VGIS Geocodes Standard</attrdefs>
+<attrdomv>
+<edom>
+<edomv>AC</edomv>
+<edomvd>Addison County Regional Planning Commission</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BC</edomv>
+<edomvd>Bennington County Regional Commission</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CC</edomv>
+<edomvd>Central Vermont Regional Planning Commission</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CV</edomv>
+<edomvd>Chittenden County Regional Planning Commission</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>LC</edomv>
+<edomvd>Lamoille County Planning Commissio</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NV</edomv>
+<edomvd>Northeastern Vermont Development Association</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NW</edomv>
+<edomvd>Northwest Regional Planning Commission</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>RR</edomv>
+<edomvd>Rutland Regional Planning Commission</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SW</edomv>
+<edomvd>Southern Windsor County Regional Planning Commission</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WR</edomv>
+<edomvd>Windham Regional Commission</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SHORTNAME</attrlabl>
+<attrdef>Regional Planning Commission name - abbreviated version</attrdef>
+<attrdefs>VGIS Geocodes Standard</attrdefs>
+</attr>
+<attr>
+<attrlabl>LONGNAME</attrlabl>
+<attrdef>Regional Planning Commission name - full version</attrdef>
+<attrdefs>VGIS Geocodes Standard</attrdefs>
+</attr>
+</detailed>
+<detailed>
+<enttyp>
+<enttypl>BNDHASH_REGION_LEPC (Local Emergency Planning Committe attribute table)</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter of feature in internal units.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LEPC#</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LEPC-ID</attrlabl>
+<attrdef>User-defined feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>LEPC</attrlabl>
+<attrdef>Local Emergency Planning Committe name</attrdef>
+<attrdefs>VT Emergency Management</attrdefs>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>VT Center for Geographic Information</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>58 South Main Street, Suite 2</address>
+<city>Waterbury</city>
+<state>VT</state>
+<postal>05676</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>802/882-3000</cntvoice>
+<cnttdd>None</cnttdd>
+<cntfax>802/882-3001</cntfax>
+<cntemail>info@vcgi.org</cntemail>
+<hours>9am - 5pm, M-F</hours>
+</cntinfo>
+</distrib>
+<resdesc>BoundaryOther_BNDHASH</resdesc>
+<distliab>VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>SHP</formname>
+<formspec>ESRI Shapefile format (compressed to ZIP format)</formspec>
+<formcont>geospatial data</formcont>
+<filedec>ZIP decompression software</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.vcgi.org/dataware/default.cfm?layer=BoundaryOther_BNDHASH</networkr>
+</networka>
+</computer>
+<accinstr>Download from web site.</accinstr>
+</onlinopt>
+<offoptn>
+<offmedia>Thumb drive</offmedia>
+</offoptn>
+<offoptn>
+<offmedia>DVD</offmedia>
+</offoptn>
+</digtopt>
+</digform>
+<fees>No charge when downloading from the internet, and when no custom processing is required.</fees>
+<ordering>
+Download from web site or mail-fax a copy of the VCGI &apos;Data Request Form&apos; which
+is available from the VGIS web site http://www.vcgi.org/dataware/order_forms
+</ordering>
+<turnarnd>About 5 days.</turnarnd>
+</stdorder>
+<custom>Mail or Fax a copy of the VCGI &apos;Data Request Form&apos; which is available from http://www.vcgi.org/dataware/order_forms</custom>
+<techpreq>ESRI Arc/Info, ArcView, or ArcExplorer software.</techpreq>
+<availabl>
+<timeinfo>
+<sngdate>
+<caldate>20120216</caldate>
+<time>Unknown</time>
+</sngdate>
+</timeinfo>
+</availabl>
+</distinfo>
+<metainfo>
+<metd>20120216</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>VT Center for Geographic Information</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>58 South Main Street, Suite 2</address>
+<city>Waterbury</city>
+<state>VT</state>
+<postal>05676</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(802) 882-3000</cntvoice>
+<cnttdd>None</cnttdd>
+<cntfax>(802) 882-3001</cntfax>
+<hours>9am - 5pm, M-F</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>Local time</mettc>
+<metac>None</metac>
+<metuc>None</metuc>
+<metsi>
+<metscs>None</metscs>
+<metsc>Unclassified</metsc>
+<metshd>No security considerations</metshd>
+</metsi>
+</metainfo>
+</metadata>

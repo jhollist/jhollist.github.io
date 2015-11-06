@@ -1,0 +1,12 @@
+19990102 936  64  3771 11179ericp lclu-new = merge(43072-h8g,43073-d4g,43073-d5g,43073-d6g,43073-e3g,43073-e4g,43073-e5g,43073-e6g,43073-f3g,43073-f4g,43073-f5g,43073-g1g,43073-g2g,43073-g3g,43073-g4g,43073-g5g,43073-h1g,43073-h2g,43073-h3g,43073-h4g,44072-a8g,44072-b8g,44073-a1g,44073-a2g,44073-a3g,44073-a4g,44073-b1g,44073-b2g,44073-b3g,44073-b4g,/prj2/lclu/grids/epalulc-sp)
+199901041049   0     4  7916ericp copy /m/temp/eric/temp/lclu-new lclu
+199909071416   0     1  8984steves copy lclu /d1/pczone/jtohost/none/temp
+199909071417   0     0    38steves rename temp lclu
+200009121119   0     0     0external /D2/JDRIVE/NONE/LCLU
+200009121119   0     0     0indexitem LCLU.VAT VALUE
+200309081345   1     1  9004steves copy /j/layers_vcgi/land/landcov/lclu
+200309081345   0     0     0external /D1/PCZONE/HDRIVE/DDEV/LAYERS_VCGI/LAND/LANDCOV/LCLU
+200309081349   0     3   104steves BUILDVAT lclu
+200309081430   0     1  8962vgisadmn copy /h/ddev/layers_vcgi/land/landcov/lclu
+200309081441   0     0     0external /D4/MDRIVE/LANDCOV/LCLU
+200309081441   0     0     0indexitem LCLU.VAT VALUE

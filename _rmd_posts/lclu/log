@@ -1,0 +1,4 @@
+200309081430   0     0    54vgisadmn kill lclu all
+200309081430   0     1  8962vgisadmn copy /h/ddev/layers_vcgi/land/landcov/lclu
+200309081441   0     0    45steves     kill /d4/mdrive/landcov/nlcd_vt ALL
+200309081441   0     1    38steves externalall

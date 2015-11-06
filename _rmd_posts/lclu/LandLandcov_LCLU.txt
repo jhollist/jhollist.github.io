@@ -1,0 +1,446 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: VCGI and Mount Holyoke College.
+      Publication_Date: 20030908
+      Publication_Time: 00000000
+      Title: LandLandcov_LCLU
+      Edition: 2003
+      Geospatial_Data_Presentation_Form: map
+      Series_Information:
+        Series_Name: Landcover/Landuse for VT and Lake Champlain Basin
+        Issue_Identification: 2003
+      Publication_Information:
+        Publication_Place: Burlington, VT
+        Publisher: VCGI
+      Other_Citation_Details: Tile Structure - NONE
+      Online_Linkage: http://www.mtholyoke.edu/
+      Online_Linkage: http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_LCLU
+      Online_Linkage: http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_LCLU&mapit=yes
+      Online_Linkage: ogc:WMS-1.0.0-http-get-map http://maps.vcgi.org:8080/servlet/com.esri.wms.Esrimap?servicename=WMS_VCGI_OGC&WMTVER=1.0.0&request=map&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=LANDLANDCOV_LCLU&WIDTH=300&HEIGHT=400&FORMAT=GIF [Landcover/LandUse (final) for VT and Lake Champlain Basin]
+      Online_Linkage: http://maps.vcgi.org:8080/servlet/com.esri.wms.Esrimap?servicename=WMS_VCGI_OGC&WMTVER=1.0.0&request=map&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=LANDLANDCOV_LCLU&WIDTH=300&HEIGHT=400&FORMAT=GIF
+  Description:
+    Abstract:
+      Landuse/Landcover for Vermont and the Lake Champlain
+      Basin derived from Landsat Thematic Mapper Imagery (early 1990s).
+      
+      Note: Minor corrections have been made since original release (1997).  Refer to Process_Steps for details.
+    Purpose:
+      These data are designed for regional scale
+      landuse/landcover analysis.  Specific application areas
+      include non-point source pollution modeling, broad scale
+      wildlife habitat analysis, and regional landuse inventories.
+      The data are available in either Arc/Info GRID format (a
+      raster format) or as polygon coverages (vector) clipped
+      into QUAD tiles.  The GRID dataset is the whole area (VT
+      & Lake Champlain Basin) and is approximately 34 MB.
+      Vectorization causes a huge increase in dataset size,
+      necessitating a relatively small tile sheme.  Each quad is
+      about 4 MB as a coverage, and 9 exported.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19910000
+        Ending_Date: 19960000
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -73.454162
+      East_Bounding_Coordinate: -71.465281
+      North_Bounding_Coordinate: 45.018361
+      South_Bounding_Coordinate: 42.722789
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: EPA Vermont New York Quebec Lake Champlain Landuse Landcover
+      Theme_Keyword: landuse
+      Theme_Keyword: landcover
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Lake Champlain Basin and all of Vermont
+      Place_Keyword: lake champlain basin
+      Place_Keyword: vermont
+  Access_Constraints: None
+  Use_Constraints:
+    The minimum mapping unit for this dataset is 2 acres and
+    a grid cell size of 25 meters.  Many areas of the study
+    region were updated with previously developed vector
+    GIS  data layers. In some cases, these vector data sets
+    may be older than the the imagery used for the
+    classification.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Dr. Thomas L. Millette
+        Contact_Organization: Mount Holyoke College
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 50 College Street
+        City: South Hadley
+        State_or_Province: Massachusetts
+        Postal_Code: 01075
+        Country: U.S.
+      Contact_Voice_Telephone: (413) 538-2813
+      Contact_Facsimile_Telephone: (413) 538-2239
+      Contact_Electronic_Mail_Address: tmillet@mtholyoke.edu
+      Hours_of_Service: 9am - 5pm
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://maps.vcgi.org:8080/servlet/com.esri.wms.Esrimap?servicename=WMS_VCGI_OGC&WMTVER=1.0.0&request=map&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=LANDLANDCOV_LCLU&WIDTH=300&HEIGHT=400&FORMAT=GIF
+    Browse_Graphic_File_Description: GIF
+    Browse_Graphic_File_Type: GIF
+  Data_Set_Credit:
+    Vermont Center for Geographic Information,
+    Vermont Regional Planning Commission (GIS Staff),
+    Adirondack Park Agency,
+    New York State Dept. of Environmental Conservation,
+    VisualDATA,
+    Robert J. Turner Company
+  Security_Information:
+    Security_Classification_System: N/A
+    Security_Classification: Unclassified
+    Security_Handling_Description: No security considerations
+  Native_Data_Set_Environment: Arc/Info v.7.0.4 on Sun Solaris
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      VCGI has reviewed and approved the accuracy
+      assessment procedures used to arrive at the stated
+      accuracy figure.
+    Quantitative_Attribute_Accuracy_Assessment:
+      Attribute_Accuracy_Value: 0.000 map units
+      Attribute_Accuracy_Explanation: Fuzzy Tolerance
+    Quantitative_Attribute_Accuracy_Assessment:
+      Attribute_Accuracy_Value: 0.00 map units
+      Attribute_Accuracy_Explanation: Dangle
+  Logical_Consistency_Report:
+    N/A for raster data
+    Not all areas were updated with vector data sets, and
+    different vector datasets have differing levels of accuracy,
+    so the data quality may vary across the spatial extent of
+    the study area.
+  Completeness_Report:
+    Four LANDSAT Thematic Mapper images were classified
+    into 8 spectral classes, using Erdas Imagine software.
+    Path    Row    Date
+    13        29         4/27/91
+    13        30         5/02/93
+    14        29         5/09/93
+    14        30         5/09/93
+    The supervised classification yielded the following spectral classes
+    (class-codes based on VGIS's "Land Use/Land Cover Codes" standard - refer to VGIS
+    Part2-Section C) -
+    001 urban/built up
+    211 row crop
+    212 hay/pasture
+    024 other agriculture and mixed open
+    003 brush/transitional
+    041 deciduous
+    042 coniferous forest
+    043 mixed forest
+    005 water
+    The Following classes were added using previously developed vector datasets -
+    011 residential
+    012 commercial
+    013 industrial
+    014 transportation/utilities
+    017 other urban
+    2111 row crop (corn)
+    2121 hay/pasture (hay)
+    022 orchard
+    061 forested wetland
+    062 non-forested wetland
+    007 barren lands
+    The vector datasets were gridded using ArcInfo 7.0.4 with a 25 meter cell size,
+    and overlaid with the classified satellite imagery in a raster GIS environment.
+    The order of overlay of GIS layers was as follows -
+    1. LANDSAT spectral land cover classification
+    Canadian GIS data
+    2. Orchards
+    3. Barren
+    4. Surface Waters
+    5. Wetlands
+    6. Urban
+    7. Roads/Utilities
+    Vermont/New York Data
+    8. Orchards
+    9. Barren
+    10. Surface Waters
+    11. Wetlands
+    12. Urban
+    13. Roads/Utilities
+    See final report dated August 15, 1997 for more
+    information.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The accuracy of the classification is 86% (86% of the
+        pixels were classified correctly).
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Mt. Holyoke College, GeoProcessing Lab(comp.)
+          Publication_Date: Unknown
+          Publication_Time: Unknown
+          Title: LandLandcov_LCLU
+          Edition: 1998
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: South Hadley, MA
+            Publisher: Mt. Holyoke College
+          Online_Linkage: http://www.vcgi.org/
+          Online_Linkage: http://www.mtholyoke.edu/
+      Source_Scale_Denominator: 1200
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19910000
+            Beginning_Time: Unknown
+            Ending_Date: 19980000
+            Ending_Time: Unknown
+        Source_Currentness_Reference: Publication Date
+      Source_Citation_Abbreviation: LandLandcov_LCLU
+      Source_Contribution: Erdas Imagine (v.8.2) software was used for classification.
+    Process_Step:
+      Process_Description:
+        Documentation of pre-release (2) dataset; data avaliable.
+        Operator - Alice Doyle, VCGI
+      Process_Date: 19970520
+      Process_Time: 00000000
+    Process_Step:
+      Process_Description:
+        Performed review of data development and accuracy
+        assessment methodologies.  Prepared data for
+        distribution.  Developed final documentation.  Operator -
+        Eric Pyle, VCGI
+      Process_Date: 19971010
+    Process_Step:
+      Process_Description:
+        Thomas Millette updated the final land cover grid to
+        correct errors introduced due to problems with the GIS
+        overlay data sets.
+        Two errors were corrected -
+        1) Surface waters data were missing in the vicinity of Lewis
+        Creek (VT).
+        2) Portions of some lakes in the Lake George area were
+        improperly labeled as wetlands.
+        Operator - Eric Pyle, VCGI
+      Process_Date: 19980128
+    Process_Step:
+      Process_Description:  VCGI correct erroneous cell coding in the Finn Basin area of Fayston, VT (near Mad River Glen Ski area).
+        Area was erroneously coded as Barren Land (7).  VCGI used the ArcInfo GRID module (FILLREGION) to change this area
+        to Decidous Forest (41).  Metadata was updated to reflect this minor correction.  Data was reloaded into the VGIS Data Warehouse. 
+        Operator - Steve Sharp, VCGI
+      Process_Date: 20030908
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Grid Cell
+    Row_Count: 12143
+    Column_Count: 9782
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 4400 (USGS), 5526 (ESRI)
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.99996
+            Longitude_of_Central_Meridian: -072.500000
+            Latitude_of_Projection_Origin: +42.500000
+            False_Easting: 500,000
+            False_Northing: 0.000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000
+          Ordinate_Resolution: 0.000
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 1 / 298.25722210
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: EPA_LCLU.VAT
+      Entity_Type_Definition: Value Attribute Table containing Landuse codes
+      Entity_Type_Definition_Source: VGIS LandLandcov_LCLU coding standard
+    Attribute:
+      Attribute_Label: VALUE
+      Attribute_Definition: Internal Feature number for GRID cells
+      Attribute_Definition_Source: Computed
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Integer
+          Enumerated_Domain_Value_Definition: Internally computed
+          Enumerated_Domain_Value_Definition_Source: N/A
+    Attribute:
+      Attribute_Label: COUNT
+      Attribute_Definition: Number of GRID cells of a VALUE
+      Attribute_Definition_Source: Computed
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Integer
+          Enumerated_Domain_Value_Definition: Internally computed
+          Enumerated_Domain_Value_Definition_Source: N/A
+    Attribute:
+      Attribute_Label: MIN
+      Attribute_Definition: Minimum GRID cell value
+      Attribute_Definition_Source: Computed
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Real
+          Enumerated_Domain_Value_Definition: Internally computed
+          Enumerated_Domain_Value_Definition_Source: N/A
+    Attribute:
+      Attribute_Label: MAX
+      Attribute_Definition: Maximum GRID cell value
+      Attribute_Definition_Source: Computed
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Real
+          Enumerated_Domain_Value_Definition: Internally computed
+          Enumerated_Domain_Value_Definition_Source: N/A
+    Attribute:
+      Attribute_Label: MEAN
+      Attribute_Definition: Mean GRID cell value
+      Attribute_Definition_Source: Computed
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Real
+          Enumerated_Domain_Value_Definition: Internally computed
+          Enumerated_Domain_Value_Definition_Source: N/A
+    Attribute:
+      Attribute_Label: STDV
+      Attribute_Definition: Standard Deviation of GRID cell values
+      Attribute_Definition_Source: Computed
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Real
+          Enumerated_Domain_Value_Definition: Internally computed
+          Enumerated_Domain_Value_Definition_Source: N/A
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Polygon
+      Entity_Type_Definition: Closed 2-D representation
+      Entity_Type_Definition_Source: VCGI
+    Attribute:
+      Attribute_Label: LCLU
+      Attribute_Definition:
+        Land cover / Land use code
+        Type (N), Width (4), Decimals (0)
+      Attribute_Definition_Source: VCGI
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: LandLandcov_LCLU
+          Codeset_Source: VCGI
+      Attribute_Value_Accuracy_Information:
+        Attribute_Value_Accuracy: LandLandcov_LCLU
+        Attribute_Value_Accuracy_Explanation:
+          The supervised classification yielded the following
+          spectral classes ---
+          (001) urban/built up,
+          (211) row crop,
+          (212) hay/pasture,
+          (024) other agriculture and mixed open,
+          (003) brush/transitional,
+          (041) deciduous,
+          (042) coniferous forest,
+          (043) mixed forest,
+          (005) water.
+
+          The Following classes were added using previously
+          developed vector datasets ---
+          (011) residential
+          (012) commercial
+          (013) industrial
+          (014) transportation/utilities
+          (017) other urban
+          (022) orchard
+          (061) forested wetland
+          (062) non-forested wetland
+          (007) barren lands
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: VT Center for Geographic Information
+      Contact_Address:
+        Address_Type: Mailing and Physical Address
+        Address: 58 South Main Street, Suite 2
+        City: Waterbury
+        State_or_Province: VT
+        Postal_Code: 05676
+        Country: USA
+      Contact_Voice_Telephone: 802/882-3000
+      Contact_TDD/TTY_Telephone: None
+      Contact_Facsimile_Telephone: 802/882-3001
+      Contact_Electronic_Mail_Address: geowiz@vcgi.org
+      Hours_of_Service: 9am - 5pm, M-F
+  Resource_Description: LandLandcov_LCLU
+  Distribution_Liability: VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE
+        Format_Specification: ArcInfo Export file
+        Format_Information_Content: ArcInfo Export File (WinZip self extracting format)
+        File_Decompression_Technique: WinZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_LCLU
+          Access_Instructions: Download from web site.
+        Offline_Option:
+          Offline_Media: CD-ROM
+        Offline_Option:
+          Offline_Media: 3-1/2 inch floppy disk
+        Offline_Option:
+          Offline_Media: 4 mm cartridge tape
+        Offline_Option:
+          Offline_Media: 8 mm cartridge tape
+    Fees: No charge when downloading from the internet, and when no custom processing is required.
+    Ordering_Instructions:
+      Download from web site or mail-fax a copy of the VCGI 'Data Request Form' which
+      is available from the VGIS web site http://www.vcgi.org/dataware/order_forms
+    Turnaround: About 5 days.
+  Custom_Order_Process: Mail or Fax a copy of the VCGI 'Data Request Form' which is available from http://www.vcgi.org/dataware/order_forms
+  Technical_Prerequisites: ESRI Arc/Info, ArcView, or ArcExplorer software.
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20001023
+        Time_of_Day: 00000000
+Metadata_Reference_Information:
+  Metadata_Date: 20030908
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: VCGI
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 58 South Main Street, Suite 2
+        City: Waterbury
+        State_or_Province: VT
+        Postal_Code: 05676
+        Country: U.S.
+      Contact_Voice_Telephone: 802/882-3000
+      Contact_Facsimile_Telephone: 802/882-3001
+      Hours_of_Service: 9am - 5pm, M-F
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: Local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: N/A
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: No security considerations
