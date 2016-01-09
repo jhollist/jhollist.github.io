@@ -1,11 +1,9 @@
-<!--
 ---
 layout: post
 title: "Year in Review"
 tags: ['R','spatial data','Mozilla Science Lab','Study Group']
 categories: ['R', 'GIS','Review']
 ---
--->
 
 I haven't ever thought about doing this before, but I was quite inspired by [David Miller's post](http://converged.yt/posts/yearnotes-2015/).  So inspired, that I have decided to do it myself!  In no particular order, a quick rundown of what I did in 2015 (filtered by what I remembered while writing this).
 
