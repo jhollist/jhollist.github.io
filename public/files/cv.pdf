@@ -9,7 +9,7 @@ output:
 
 <div id="address">
 
-#Jeffrey William Hollister
+# Jeffrey William Hollister
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
@@ -38,7 +38,7 @@ output:
 
 </div>
 
-##Education
+## Education
 
 Dec 2004
   : Doctor of Philosophy in Environmental Science
@@ -88,7 +88,7 @@ May 1995
       - Introduction to Computer Science using Java I (CSCI E-50a), Fall 2012, Harvard University, Division of Continuing Education
   
 
-##Research
+## Research
 
 Aug 2008 - Present 
   : Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
@@ -150,7 +150,7 @@ May 1996 – July 1997
       - Researched environmental, ecological, and spatial controls on the establishment success of Red Spruce (Picea rubens) in northwestern Virginia. Research techniques included a variety of geographic information systems analytical tools (e.g. Topographic Convergence Index) and spatial statistics techniques (e.g. partial mantel’s tests).
 
 
-##Teaching
+## Teaching
 
 Jan 2007 – Present 
   : Adjunct Assistant Professor, University of Rhode Island, Department of Natural Resources Science, Kingston, RI
@@ -176,7 +176,7 @@ May 2003 – Aug 2004
       - Provided training to Rhode Island Natural History Survey and Ecological Inventory and Monitoring Stewardship Program Staff on ArcView and ArcMap GIS and Trimble GPS. Training focused on use of these products for ecological and natural history applications. June 2001 Geographic Information Systems Consultant, National Park Service, Gateway National Recreation Area, Staten Island, NY Trained Gateway National Recreation Area staff in use of ArcView, Spatial Analyst, and Trimble GPS products.
 
 
-##Research Products and Presentations
+## Research Products and Presentations
 
 Peer Reviewed Articles
 <!--
@@ -399,7 +399,7 @@ Posters
   
       - Hollister, J. W. and W. K. Michener. Landscape Ecology of the Northern Bobwhite Quail in the Coastal Plain of Georgia. International Association for Landscape Ecology World Congress, Snowmass, CO. July/Aug 1999.
 
-##Qualifications and Activities
+## Qualifications and Activities
 
 Programming
   : R  
