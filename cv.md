@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2015-12-29
+- updated: 2016-03-18
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -179,12 +179,12 @@ May 2003 – Aug 2004
 ##Research Products and Presentations
 
 Peer Reviewed Articles
-
+<!--
   : In Review
-  
-      - Hollister, J.W., B.J. Kreakie (In Review). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. To be submitted to F1000Research. [GitHub](https://github.com/USEPA/microcystinchla).
-      
+--->  
   : 2010 - Present
+  
+      - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151 doi: [10.12688/f1000research.7955.1](https://dx.doi.org/10.12688/f1000research.7955.1) links: [GitHub](https://github.com/USEPA/microcystinchla) [pdf](http://f1000research.com/articles/5-151/v1/pdf).
   
       - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (In Press). Modeling Lake Trophic State: A Random Forest Approach. Accepted in Ecosphere.  links: [GitHub](https://github.com/USEPA/LakeTrophicModelling).  pre-print: [10.7287/peerj.preprints.1319v2](http://dx.doi.org/10.7287/peerj.preprints.1319v2) [pdf](https://peerj.com/preprints/1319.pdf).
    
