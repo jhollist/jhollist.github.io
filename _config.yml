@@ -2,11 +2,11 @@
 markdown:         kramdown
 kramdown:
   parse_block_html: true 
-highlighter:      pygments
 
 # Permalinks
 permalink:            date
 paginate_path:        /page:num
+
 
 # Setup
 title:            'Jeffrey W. Hollister'
@@ -22,7 +22,7 @@ author:
 paginate:         5
 
 timezone:         America/New_York
-exclude:          "cv.Rmd"
+exclude:          ["cv.Rmd"]
 
 # Custom vars
 version:          0.2.0
@@ -46,3 +46,4 @@ gems:
 - jemoji
 - jekyll-redirect-from
 - jekyll-sitemap
+- jekyll-paginate
