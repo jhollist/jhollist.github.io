@@ -179,9 +179,7 @@ May 2003 – Aug 2004
 ## Research Products and Presentations
 
 Peer Reviewed Articles
-<!--
-  : In Review
---->  
+
   : 2010 - Present
   
       - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (In Press). Modeling Lake Trophic State: A Random Forest Approach. Accepted in Ecosphere.  links: [GitHub](https://github.com/USEPA/LakeTrophicModelling).  pre-print: [10.7287/peerj.preprints.1319v2](http://dx.doi.org/10.7287/peerj.preprints.1319v2) [pdf](https://peerj.com/preprints/1319.pdf).
