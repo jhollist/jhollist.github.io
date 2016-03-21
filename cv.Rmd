@@ -182,94 +182,94 @@ Peer Reviewed Articles
 
   : 2010 - Present
   
-      - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3. doi: [10.1002/ecs2.1321](http://dx.doi.org/10.1002/ecs2.1321)  links: [GitHub](https://github.com/USEPA/LakeTrophicModelling).  pre-print: [10.7287/peerj.preprints.1319v2](http://dx.doi.org/10.7287/peerj.preprints.1319v2) [pre-print pdf](https://peerj.com/preprints/1319.pdf).
+      - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3  [10.1002/ecs2.1321](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/full). [pdf](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/pdf) [GitHub](https://github.com/USEPA/LakeTrophicModelling) [pre-print](http://dx.doi.org/10.7287/peerj.preprints.1319v2)
   
-      - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151 doi: [10.12688/f1000research.7955.1](https://dx.doi.org/10.12688/f1000research.7955.1) links: [GitHub](https://github.com/USEPA/microcystinchla) [pdf](http://f1000research.com/articles/5-151/v1/pdf).
+      - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151  [10.12688/f1000research.7955.1](https://dx.doi.org/10.12688/f1000research.7955.1). [pdf](http://f1000research.com/articles/5-151/v1/pdf) [GitHub](https://github.com/USEPA/microcystinchla)
    
-      - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker. (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457. doi: [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081457&representation=PDF).
+      - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker. (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457  [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457).  [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081457&representation=PDF)
       
-      - Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764. doi: [10.1371/journal.pone.0025764](http://dx.doi.org/10.1371/journal.pone.0025764). links: [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0025764&representation=PDF).
+      - Hollister, J. W., W.B. Milstead, M.A. Urrutia (2011). Predicting Maximum Lake Depth from Surrounding Topography. PLoS ONE 6(9): e25764 [10.1371/journal.pone.0025764](http://dx.doi.org/10.1371/journal.pone.0025764).  [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0025764&representation=PDF)
       
-      - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199. doi: [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321). links: [pdf](http://jwhollister.com/public/files/HollisterMilsteadLakeVolume.pdf) corrigenda: [10.1080/10402381.2014.930627](http://dx.doi.org/10.1080/10402381.2014.930627) [pdf](http://www.tandfonline.com/doi/pdf/10.1080/10402381.2014.930627).
+      - Hollister, J. W., W.B. Milstead (2010). Using GIS to Estimate Lake Volume from Limited Data. Lake and Reservoir Management. 26(3)194-199  [10.1080/07438141.2010.504321](http://dx.doi.org/10.1080/07438141.2010.504321).  [pdf](http://jwhollister.com/public/files/HollisterMilsteadLakeVolume.pdf) corrigenda: [10.1080/10402381.2014.930627](http://dx.doi.org/10.1080/10402381.2014.930627)  [pdf](http://www.tandfonline.com/doi/pdf/10.1080/10402381.2014.930627).
       
-      - Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311. doi: [10.1007/s00267-010-9485-3](http://dx.doi.org/10.1007/s00267-010-9485-3) links: [pdf](http://jwhollister.com/public/files/Morzilloetal2010EnvMonitor_accepted.pdf)
+      - Morzillo, A. T., A. G. Mertig, J. W. Hollister, N. Garner, J. Liu (2010). Socioeconomic Factors Affecting Local Support for Black Bear Recovery Strategies. Environmental Management. 45:1299-1311 [10.1007/s00267-010-9485-3](http://dx.doi.org/10.1007/s00267-010-9485-3).  [pdf](http://jwhollister.com/public/files/Morzilloetal2010EnvMonitor_accepted.pdf)
       
   : 2000 - 2009
   
-      - Benyi, S. J., J. W. Hollister, J. A. Kiddon, H. A. Walker. (2009). A Process for Comparing and Interpreting Differences in Two Benthic Indices in New York Harbor. Marine Pollution Bulletin. 59:65-71. doi: [10.1016/j.marpolbul.2008.11.009](http://dx.doi.org/10.1016/j.marpolbul.2008.11.009).
+      - Benyi, S. J., J. W. Hollister, J. A. Kiddon, H. A. Walker. (2009). A Process for Comparing and Interpreting Differences in Two Benthic Indices in New York Harbor. Marine Pollution Bulletin. 59:65-71. [10.1016/j.marpolbul.2008.11.009](http://dx.doi.org/10.1016/j.marpolbul.2008.11.009).
       
-      - Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235. doi: [10.1007/s10661-008-0675-x](http://dx.doi.org/10.1007/s10661-008-0675-x). links: [pdf](http://jwhollister.com/public/files/HaleHollisterEcoInfandMonitor2009.pdf).
+      - Hale, S. S. and J. W. Hollister. (2009) Beyond Data Management: How Ecoinformatics Can Benefit Environmental Management Programs. Environmental Monitoring and Assessment. 150:227-235 [10.1007/s10661-008-0675-x](http://dx.doi.org/10.1007/s10661-008-0675-x).  [pdf](http://jwhollister.com/public/files/HaleHollisterEcoInfandMonitor2009.pdf)
       
-      - Hollister, J. W., J. F. Paul, and H. A. Walker (2008). CProb: A Computational Tool for Conducting Conditional Probability Analysis. Journal of Environmental Quality. 37(6):2392-2396. doi: [10.2134/jeq2007.0536](http://dx.doi.org/10.2134/jeq2007.0536). links: [pdf](http://jwhollister.com/public/files/HollisterWalkerPaulCProb_Final.pdf).
+      - Hollister, J. W., J. F. Paul, and H. A. Walker (2008). CProb: A Computational Tool for Conducting Conditional Probability Analysis. Journal of Environmental Quality. 37(6):2392-2396 [10.2134/jeq2007.0536](http://dx.doi.org/10.2134/jeq2007.0536).  [pdf](http://jwhollister.com/public/files/HollisterWalkerPaulCProb_Final.pdf)
       
-      - Hollister, J. W., P. V. August, J. F. Paul, and H. A. Walker. (2008). Predicting Estuarine Sediment Metal Concentrations and Inferred Ecological Conditions: An Information Theoretic Approach. Journal of Environmental Quality. 37(1):234-244. doi: [10.2134/jeq2007.0105](http://dx.doi.org/10.2134/jeq2007.0105).
+      - Hollister, J. W., P. V. August, J. F. Paul, and H. A. Walker. (2008). Predicting Estuarine Sediment Metal Concentrations and Inferred Ecological Conditions: An Information Theoretic Approach. Journal of Environmental Quality. 37(1):234-244  [10.2134/jeq2007.0105](http://dx.doi.org/10.2134/jeq2007.0105).
       
-      - Hollister, J. W., P. V. August, and J. F. Paul. (2008). Effects of Spatial Extent on Landscape Structure and Sediment Metal Concentration Relationships in Small Estuarine Systems of the United States’ Mid-Atlantic Coast. Landscape Ecology. 23(SI):91-106. doi: [10.1007/s10980-007-9143-1](http://dx.doi.org/10.1007/s10980-007-9143-1).
+      - Hollister, J. W., P. V. August, and J. F. Paul. (2008). Effects of Spatial Extent on Landscape Structure and Sediment Metal Concentration Relationships in Small Estuarine Systems of the United States’ Mid-Atlantic Coast. Landscape Ecology. 23(SI):91-106  [10.1007/s10980-007-9143-1](http://dx.doi.org/10.1007/s10980-007-9143-1).
       
-      - Hollister, J. W., M. L. Gonzalez, J. F. Paul, P. V. August, J. L. Copeland (2004). Assessing the Accuracy of the National Land Cover Dataset at Multiple Spatial Extents. Photogrammetric Engineering and Remote Sensing. 70(4):405-414. doi: [10.14358/PERS.70.4.405](http://dx.doi.org/10.14358/PERS.70.4.405). links: [pdf](http://www.asprs.org/a/publications/pers/2004journal/april/2004_apr_405-414.pdf).
+      - Hollister, J. W., M. L. Gonzalez, J. F. Paul, P. V. August, J. L. Copeland (2004). Assessing the Accuracy of the National Land Cover Dataset at Multiple Spatial Extents. Photogrammetric Engineering and Remote Sensing. 70(4):405-414  [10.14358/PERS.70.4.405](http://dx.doi.org/10.14358/PERS.70.4.405).  [pdf](http://www.asprs.org/a/publications/pers/2004journal/april/2004_apr_405-414.pdf).
       
-      - Paul, J. F., J. L. Copeland, M. Charpentier, P. V. August, and J. W. Hollister (2003). Overview of Geographic Information Systems applications in Estuarine Monitoring and Assessment Research. Marine Geodesy. 26:63-72. doi: [10.1080/01490410306704](http://dx.doi.org/10.1080/01490410306704).
+      - Paul, J. F., J. L. Copeland, M. Charpentier, P. V. August, and J. W. Hollister (2003). Overview of Geographic Information Systems applications in Estuarine Monitoring and Assessment Research. Marine Geodesy. 26:63-72  [10.1080/01490410306704](http://dx.doi.org/10.1080/01490410306704).
       
-      - Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2). links: [pdf](http://jwhollister.com/public/files/Eubanks_etal_2002.pdf)
+      - Eubanks, J. O., J. W. Hollister C. Guyer, and W.K. Michener. (2002). Reserve Area Requirements for Gopher Tortoises (Gopherus polyphemus). Chelonian Conservation and Biology. 4(2). [pdf](http://jwhollister.com/public/files/Eubanks_etal_2002.pdf)
 
 
 Chapters
   : 2010 - Present
   
-      - Cormier, S. and J. W. Hollister. (2015). Chapter 7: Types of Spatial and Landscape Data and Sampling Designs. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067.  links: [pdf]()
+      - Cormier, S. and J. W. Hollister. (2015). Chapter 7: Types of Spatial and Landscape Data and Sampling Designs. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067.  note: Awaiting Clearance.
       
-      - Hollister, J. W., and S. Cormier. (2015). Chapter 8: Methods and Tools for Analyzing Spatially Explicit Information. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067. links: [pdf]()
+      - Hollister, J. W., and S. Cormier. (2015). Chapter 8: Methods and Tools for Analyzing Spatially Explicit Information. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067. note: Awaiting Clearance.
   
   : 2000 - 2009
   
-      - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  links: [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
+      - Michener, W. K., J. B. Atkinson, D. G. Edwards, J. W. Hollister, P. F. Houhoulis, P. M. Johnson, and R. N. Smith. (2000). Habitat Characteristics of Northern Bobwhite Quail-Hunting Party Encounters: A Landscape Perspective. Pages 173-182 in L.A. Brennan, W.E. Palmer, L.W. Burger, Jr., and T.L. Pruden (eds.). Quail IV: Proceedings of the Fourth National Quail Symposium, Tall Timbers Research Station, Tallahassee, FL.  [pdf](http://www.jonesctr.org/research/research_publications/Pdf/MichenerProcIVNatQuailSymp.pdf)
 
 
 Popular articles, Letters, Websites, and Guest Blog Posts
   : 2010 - Present
   
-      - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology and Open Science: Tools to Help Manage Cyanobacteria in Lakes. LakeLines Magazine. links: [pdf](http://www.nalms.org/media.acux/beb75c9c-f812-4753-b888-79864899c6d6) 
+      - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology and Open Science: Tools to Help Manage Cyanobacteria in Lakes. LakeLines Magazine.  [pdf](http://www.nalms.org/media.acux/beb75c9c-f812-4753-b888-79864899c6d6) 
       
-      - Kreakie, B. J., J.W. Hollister, W. B. Milstead (2014). Modeling Cyanobacteria Ecology to Keep Harmful Algal Blooms at Bay.  US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/modeling-cyanobacteria-ecology-to-keep-harmful-algal-blooms-at-bay/)
+      - Kreakie, B. J., J.W. Hollister, W. B. Milstead (2014). Modeling Cyanobacteria Ecology to Keep Harmful Algal Blooms at Bay.  US EPA It All Starts with Science Blog.  [web](http://blog.epa.gov/science/2014/06/modeling-cyanobacteria-ecology-to-keep-harmful-algal-blooms-at-bay/)
       
-      - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Opening our Science: Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
+      - Hollister, J. W., B. J. Kreakie, and W. B. Milstead. (2014). Opening our Science: Open Science and Cyanobacterial Research at EPA. US EPA It All Starts with Science Blog.  [web](http://blog.epa.gov/science/2014/06/open-science-and-cyanobacterial-research-at-epa/)
       
-      - Hollister, J. W., A. Smith, P. V. August. (2014). Keeping the Bootcamp Fun Alive!  Software Carpentry Blog. links: [web](http://software-carpentry.org/blog/2014/06/post-mortem-on-uri-bootcamp.html)
+      - Hollister, J. W., A. Smith, P. V. August. (2014). Keeping the Bootcamp Fun Alive!  Software Carpentry Blog.  [web](http://software-carpentry.org/blog/2014/06/post-mortem-on-uri-bootcamp.html)
       
-      - Hollister, J. W., W. B. Milstead. (2013). SPARROWs, Lakes, and Nutrients? US EPA It All Starts with Science Blog. links: [web](http://blog.epa.gov/science/2013/12/sparrows-lakes-and-nutrients/)
+      - Hollister, J. W., W. B. Milstead. (2013). SPARROWs, Lakes, and Nutrients? US EPA It All Starts with Science Blog.  [web](http://blog.epa.gov/science/2013/12/sparrows-lakes-and-nutrients/)
       
-      - Hollister, J. W. (2010). Ecology on the Web – 3 Years Old. Submitted to Ecology on the Web, Bulletin of the Ecological Society of America. 91(2)232–234. doi: [10.1890/0012-9623-91.2.232](http://dx.doi.org/10.1890/0012-9623-91.2.232). links: [pdf](http://www.esajournals.org/doi/pdf/10.1890/0012-9623-91.2.232)
+      - Hollister, J. W. (2010). Ecology on the Web – 3 Years Old. Submitted to Ecology on the Web, Bulletin of the Ecological Society of America. 91(2)232–234. doi: [10.1890/0012-9623-91.2.232](http://dx.doi.org/10.1890/0012-9623-91.2.232).  [pdf](http://www.esajournals.org/doi/pdf/10.1890/0012-9623-91.2.232)
 
   : 2000 - 2009
   
-      - Morzillo, A. T., J. W. Hollister, C. A. Drew, M. E. Rocca, M. E. Baker, J. M. Bossenbroek, C. A. Mazzarella. (2008). A Young Scientist’s Guide to Gainful Employment: Recent Graduates’ Experiences and Successful Strategies. Bulletin of the Ecological Society of America. 89(2)193-203. doi: [10.1890/0012-9623(2008)89[193:AYSGTG]2.0.CO;2](http://dx.doi.org/10.1890/0012-9623(2008)89[193:AYSGTG]2.0.CO;2). links: [pdf](http://www.esajournals.org/doi/pdf/10.1890/0012-9623%282008%2989%5B193%3AAYSGTG%5D2.0.CO%3B2)
+      - Morzillo, A. T., J. W. Hollister, C. A. Drew, M. E. Rocca, M. E. Baker, J. M. Bossenbroek, C. A. Mazzarella. (2008). A Young Scientist’s Guide to Gainful Employment: Recent Graduates’ Experiences and Successful Strategies. Bulletin of the Ecological Society of America. 89(2)193-203. doi: [10.1890/0012-9623(2008)89[193:AYSGTG]2.0.CO;2](http://dx.doi.org/10.1890/0012-9623(2008)89[193:AYSGTG]2.0.CO;2).  [pdf](http://www.esajournals.org/doi/pdf/10.1890/0012-9623%282008%2989%5B193%3AAYSGTG%5D2.0.CO%3B2)
       
-      - Hollister, J. W. (2007). Moving Forward with Ecological Informatics and Reproducibility. ESA News and Views Blog. links: [web](http://www.esa.org/esablog/?p=62.) 
+      - Hollister, J. W. (2007). Moving Forward with Ecological Informatics and Reproducibility. ESA News and Views Blog.  [web](http://www.esa.org/esablog/?p=62.) 
       
-      - Hollister, J. W. (2007). Natural Resource Management Partnership Annotated Website Link. Submitted to Ecology on the Web, Bulletin of the Ecological Society of America. 88(2). doi: [10.1890/0012-9623(2007)88[204:WSOITE]2.0.CO;2](http://dx.doi.org/10.1890/0012-9623(2007)88[204:WSOITE]2.0.CO;2).  links: [pdf](http://www.esajournals.org/doi/pdf/10.1890/0012-9623%282007%2988%5B204%3AWSOITE%5D2.0.CO%3B2).
+      - Hollister, J. W. (2007). Natural Resource Management Partnership Annotated Website Link. Submitted to Ecology on the Web, Bulletin of the Ecological Society of America. 88(2). doi: [10.1890/0012-9623(2007)88[204:WSOITE]2.0.CO;2](http://dx.doi.org/10.1890/0012-9623(2007)88[204:WSOITE]2.0.CO;2).   [pdf](http://www.esajournals.org/doi/pdf/10.1890/0012-9623%282007%2988%5B204%3AWSOITE%5D2.0.CO%3B2).
       
       - Hollister, J. W. and H. A. Walker (2007). Beyond Data: Reproducible Research in Ecology and Environmental Science. Frontiers in Ecology and the Environment. 5(1):11-12. doi: [10.1890/1540-9295(2007)5[10a:TPOC]2.0.CO;2](http://dx.doi.org/10.1890/1540-9295(2007)5[10a:TPOC]2.0.CO;2).
       
-      - Hollister, J. W. and L. M. Ernst (2001) Eelgrass Habitats get a Boost from Geographic Information Systems. Maritimes. 43(1):16-18. links: [pdf](http://jwhollister.com/public/files/HollisterErnst2001Maritimes.pdf)
+      - Hollister, J. W. and L. M. Ernst (2001) Eelgrass Habitats get a Boost from Geographic Information Systems. Maritimes. 43(1):16-18.  [pdf](http://jwhollister.com/public/files/HollisterErnst2001Maritimes.pdf)
 
 Thesis and Dissertation
   : 2000 - 2009
   
-      - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp. links: [pdf](http://jwhollister.com/public/files/Hollisterdissertation_final.pdf).
+      - Hollister, J. W. (2004). Predicting Condition of Small Estuarine Systems Along the United States’ Atlantic Coast. Ph.D. Dissertation, University of Rhode Island. 143 pp.  [pdf](http://jwhollister.com/public/files/Hollisterdissertation_final.pdf).
       
-      - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University. links: [pdf](http://jwhollister.com/public/files/hollistermasterproject.pdf)
+      - Hollister, J. W. (1997). An Analysis of Red Spruce Establishment Success in Highland County, Virginia. Masters of Environmental Management Project, Duke University.  [pdf](http://jwhollister.com/public/files/hollistermasterproject.pdf)
   
   
 Software and Repositories
   : 2010 - Present
   
-      - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.1. Links: [CRAN](https://cran.r-project.org/web/packages/quickmapr/index.html)  [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.33135](http://dx.doi.org/10.5281/zenodo.33135)
+      - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.1.  [CRAN](https://cran.r-project.org/web/packages/quickmapr/index.html)  [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.33135](http://dx.doi.org/10.5281/zenodo.33135)
       
-      - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.1.4. links: [CRAN](http://cran.r-project.org/web/packages/lawn/) [GitHub](https://github.com/ropensci/lawn) 
+      - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.1.4.  [CRAN](http://cran.r-project.org/web/packages/lawn/) [GitHub](https://github.com/ropensci/lawn) 
       
-      - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0. links: [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
+      - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0.  [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
       
-      - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1. links: [GitHub](https://github.com/jhollist/manuscriptPackage)
+      - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1.  [GitHub](https://github.com/jhollist/manuscriptPackage)
 
 
 Bootcamps, Workshops, and Panels
@@ -281,11 +281,11 @@ Bootcamps, Workshops, and Panels
       
       - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015. [web](http://jwhollister.com/iale_open_science)
       
-      - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015. links: [web](https://github.com/USEPA/introR)
+      - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015.  [web](https://github.com/USEPA/introR)
       
-      - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014. links: [web](https://github.com/iglpdc/2014-01-13-uri) 
+      - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014.  [web](https://github.com/iglpdc/2014-01-13-uri) 
       
-      - R for Spatial Data Management and Analysis. Presented during Student Workshop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013. links: [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
+      - R for Spatial Data Management and Analysis. Presented during Student Workshop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013.  [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
       
   : 2000 - 2009
   
@@ -293,7 +293,7 @@ Bootcamps, Workshops, and Panels
       
       - Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
       
-      - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002. links: [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
+      - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002.  [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
 
 
 Seminars and Presentations
@@ -303,21 +303,21 @@ Seminars and Presentations
       
       - Hollister, J. W. Open Science: A Zealot's View.  Invited Symposium Speaker, "Emerging Issues and Novel Technologies in Coastal Ecosystem Science", New England Estuarine Research Society Spring Meeting, April 2015, Bristol, RI. [slides](open_science_neers/) 
       
-      - Kreakie, B. J., F. Nojavan, J. W. Hollister When Green Goes Bad: A Computational Ecology Approach to a Better Understanding of Cyanobacteria, Nutrients, and Lakes. USEPA Office of Water Oceans, and Wetlands Cyanobacteria webinar series. October 2014. links: [web](http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=292834) [slides](http://figshare.com/articles/When_Green_Goes_Bad_A_Computational_Ecology_Approach_to_a_better_Understanding_of_Cyanobacteria_Nutrients_and_Lakes/1243644).
+      - Kreakie, B. J., F. Nojavan, J. W. Hollister When Green Goes Bad: A Computational Ecology Approach to a Better Understanding of Cyanobacteria, Nutrients, and Lakes. USEPA Office of Water Oceans, and Wetlands Cyanobacteria webinar series. October 2014.  [web](http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=292834) [slides](http://figshare.com/articles/When_Green_Goes_Bad_A_Computational_Ecology_Approach_to_a_better_Understanding_of_Cyanobacteria_Nutrients_and_Lakes/1243644).
       
-      - Kreakie, B. J., W. B. Milstead, J. W. Hollister.  When Green Goes Bad: An Interdisciplinary Approach to Better Understand Cyanobacteria, Nutrients, and Lakes. USEPA Safe and Sustainable Water Resources Webinar Series. June 2014. links: [web](http://www2.epa.gov/water-research/when-green-goes-bad-interdisciplinary-approach-better-understand-cyanobacteria).
+      - Kreakie, B. J., W. B. Milstead, J. W. Hollister.  When Green Goes Bad: An Interdisciplinary Approach to Better Understand Cyanobacteria, Nutrients, and Lakes. USEPA Safe and Sustainable Water Resources Webinar Series. June 2014.  [web](http://www2.epa.gov/water-research/when-green-goes-bad-interdisciplinary-approach-better-understand-cyanobacteria).
       
       - Kreakie, B. J., W. B. Milstead, J. W. Hollister. Combined Influence of Landscape Composition and Nutrient Inputs on Lake Trophic Structure. US Chapter of the International Association for Landscape Ecology Annual Meeting, Anchorage, AK. May 2014.
       
-      - Hollister, J. W. Blogging, Social Media, and Science: EPA Edition. Presentation given at USEPA Atlantic Ecology Division. March 2014. links: [slides](epablogpresent/).
+      - Hollister, J. W. Blogging, Social Media, and Science: EPA Edition. Presentation given at USEPA Atlantic Ecology Division. March 2014.  [slides](epablogpresent/).
       
-      - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012. links: [slides](http://files.figshare.com/1829418/jwhLODPresent08152012_v2.pdf).
+      - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012.  [slides](http://files.figshare.com/1829418/jwhLODPresent08152012_v2.pdf).
       
-      - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011. links: [slides](http://files.figshare.com/1829419/jwhWCSUSeminar_v3.pdf).
+      - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011.  [slides](http://files.figshare.com/1829419/jwhWCSUSeminar_v3.pdf).
 
   : 2000 - 2009
   
-      - Hollister, J. W. and W. B. Milstead. Using GIS to Estimate Lake Volume from Limited Data. Annual Meeting of the North American Lake Management Society, Hartford, CT. October 2009. links: [slides](http://files.figshare.com/1829427/jwhLakeVolumeNALMS.pdf).
+      - Hollister, J. W. and W. B. Milstead. Using GIS to Estimate Lake Volume from Limited Data. Annual Meeting of the North American Lake Management Society, Hartford, CT. October 2009.  [slides](http://files.figshare.com/1829427/jwhLakeVolumeNALMS.pdf).
       
       - Hollister, J. W. and W. B. Milstead. A Simple GIS Approach for Estimating Lake Volume from Limited Data. Northeast Arc Users Group Annual Meeting, Nashua, NH. October 2009. 
       
@@ -353,7 +353,7 @@ Posters
   
       - Nojavan, F., B. J. Kreakie. A Bayesian Multilevel Model for Microcystin Prediction in the Continental United States Lakes. 2015 Society for Freshwater Science (SFS) Annual Meeting, Milwaukee, WI May 2015.
       
-      - Hollister, J. W., W. B. Milstead, B. J. Kreakie. Expanding Models of Lake Trophic State to Predict Cyanobacteria in Lakes: A Data Mining Approach. 99th Annual Ecological Society of America Annual Meeting, Sacramento, CA. August 2014. links: [poster](http://f1000research.com/posters/1096851)
+      - Hollister, J. W., W. B. Milstead, B. J. Kreakie. Expanding Models of Lake Trophic State to Predict Cyanobacteria in Lakes: A Data Mining Approach. 99th Annual Ecological Society of America Annual Meeting, Sacramento, CA. August 2014.  [poster](http://f1000research.com/posters/1096851)
       
       - Copeland, J. L., J. W. Hollister. Geospatial Tools for Ecosystem Services. ESRI International Users Conference, San Diego, CA. June 2010. 
       
@@ -563,7 +563,7 @@ Other Activities
       
   : Past
    
-      - Served on Steering Committee for The Nature Conservancy's Northeast Lake and Pond Classification System. link: [web](http://nature.ly/NElakes) [pdf](https://easterndivision.s3.amazonaws.com/Freshwater/Northeast_Lake_and_Pond_Classification.pdf)
+      - Served on Steering Committee for The Nature Conservancy's Northeast Lake and Pond Classification System. link: (http://nature.ly/NElakes) [pdf](https://easterndivision.s3.amazonaws.com/Freshwater/Northeast_Lake_and_Pond_Classification.pdf)
       
       - Liaison between USEPA’s Ecosystem Services Research Program (ESRP) and the National Ecological Observatory Network (NEON).
       
