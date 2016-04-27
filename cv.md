@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2016-03-21
+- updated: 2016-04-27
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -179,6 +179,10 @@ May 2003 – Aug 2004
 ## Research Products and Presentations
 
 Peer Reviewed Articles
+  
+  : Submitted
+  
+    - Hart, E., Barmby, P.,LeBauer, D.,Michonneau, F.,Mount, S.,Mulrooney, P.,Poisot, T.,Woo, K.H., Zimmerman, N.,Hollister, J. W. (Submitted). Ten simple rules for digital data storage. Submitted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
 
   : 2010 - Present
   
