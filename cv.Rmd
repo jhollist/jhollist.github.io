@@ -179,7 +179,6 @@ May 2003 – Aug 2004
 ## Research Products and Presentations
 
 Peer Reviewed Articles
-  
   : Submitted
   
      - Hart, E., Barmby, P.,LeBauer, D.,Michonneau, F.,Mount, S.,Mulrooney, P.,Poisot, T.,Woo, K.H., Zimmerman, N.,Hollister, J. W. (Submitted). Ten simple rules for digital data storage. Submitted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
@@ -555,6 +554,8 @@ Societies
 Other Activities
   : Current
   
+      - Data Carpentry Instructor, Mar 2016 - Present. 
+      
       - Software Carpenty Instructor, Oct 2014 - Present.
       
       - Adjunct Assistant Professor, Department of Natural Resources Science, University of Rhode Island, Kingston, RI, Jan 2007 - Present.
