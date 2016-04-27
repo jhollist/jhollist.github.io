@@ -8,7 +8,7 @@ output:
 ---
 
 <div id="address">
-
+ 
 # Jeffrey William Hollister
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
