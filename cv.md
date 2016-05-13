@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2016-04-27
+- updated: 2016-05-13
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -265,12 +265,12 @@ Thesis and Dissertation
   
 Software and Repositories
   : 2010 - Present
-  
+      
+      - Hollister, J. W. (2016). lakemorpho: Lake morphometry in R. Version 1.0.2  [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/jhollist/lakemorpho) doi(v1.0.2): [10.5281/zenodo.51415](http://dx.doi.org/10.5281/zenodo.51415)
+     
       - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.1.  [CRAN](https://cran.r-project.org/web/packages/quickmapr/index.html)  [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.33135](http://dx.doi.org/10.5281/zenodo.33135)
       
       - Chamberlain, S, and J.W. Hollister (2015). lawn: R Client for turf.js for Geospatial Analysis. Version 0.1.4.  [CRAN](http://cran.r-project.org/web/packages/lawn/) [GitHub](https://github.com/ropensci/lawn) 
-      
-      - Hollister, J. W. (2014). lakemorpho: Lake morphometry in R. Version 1.0.  [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/USEPA/lakemorpho) doi(v1.1.1): [10.5281/zenodo.16244](http://dx.doi.org/10.5281/zenodo.16244)
       
       - Hollister, J. W. (2014). manuscriptPackage: Template package for creating manuscript within an R Package. Version 0.1.  [GitHub](https://github.com/jhollist/manuscriptPackage)
 
