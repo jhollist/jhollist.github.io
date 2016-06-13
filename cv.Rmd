@@ -181,13 +181,13 @@ May 2003 – Aug 2004
 Peer Reviewed Articles
   : Submitted
   
-     - Hart, E., Barmby, P.,LeBauer, D.,Michonneau, F.,Mount, S.,Mulrooney, P.,Poisot, T.,Woo, K.H., Zimmerman, N.,Hollister, J. W. (Submitted). Ten simple rules for digital data storage. Submitted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
+     - Hart, E., Barmby, P.,LeBauer, D.,Michonneau, F.,Mount, S.,Mulrooney, P.,Poisot, T.,Woo, K.H., Zimmerman, N., Hollister, J. W. (Submitted). Ten simple rules for digital data storage. Submitted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
 
   : 2010 - Present
   
       - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3  [10.1002/ecs2.1321](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/full). [pdf](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/pdf) [GitHub](https://github.com/USEPA/LakeTrophicModelling) [pre-print](http://dx.doi.org/10.7287/peerj.preprints.1319v2)
   
-      - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151  [10.12688/f1000research.7955.1](https://dx.doi.org/10.12688/f1000research.7955.1). [pdf](http://f1000research.com/articles/5-151/v1/pdf) [GitHub](https://github.com/USEPA/microcystinchla)
+      - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151  [10.12688/f1000research.7955.2](https://dx.doi.org/10.12688/f1000research.7955.2). [pdf](http://f1000research.com/articles/5-151/v2/pdf) [GitHub](https://github.com/USEPA/microcystinchla)
    
       - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker. (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457  [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457).  [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081457&representation=PDF)
       
