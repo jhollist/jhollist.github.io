@@ -12,7 +12,8 @@ paginate_path:        /page:num
 title:            'Jeffrey W. Hollister'
 tagline:          ''
 description:      'Landscape Ecology, Lakes, GIS, R, and Open Science'
-url:              http://jwhollister.com
+url:              https://jwhollister.com
+enforce_ssl:      jwhollister.com  
 baseurl:          /
 
 author:
