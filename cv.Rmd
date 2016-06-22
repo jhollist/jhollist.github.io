@@ -279,13 +279,23 @@ Software and Repositories
 Bootcamps, Workshops, and Panels
   : 2010 - Present
   
-      - Data Carpentry Workshop.  Co-Hosted with J. Swift and P. V. August.  Co- Taught with TBD.  University of Rhode Island Coastal Institute. Narragansett, RI. January 2016.
+      - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1) and Katrina Kipp (USEPA/Region 1). US EPA New England Regional Laboratory. Chelmsford, MA. June 2016. [GitHub](https://github.com/USEPA/region1_r)
+      
+      - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1). US EPA Region 1 Headquarters.  Boston, MA. May 2016. [GitHub](https://github.com/USEPA/region1_r)
+  
+      - Introduction to GIS with R.  Co-hosted with Sandra Gaona (USEPA/OEI), Shea Caspersen (USEPA/OEI) and Paul Stey (USEPA/OECA).  US EPA. Washington, DC. March 2016. [GitHub](https://github.com/USEPA/intro_gis_with_r)
+      
+      - rhodyRstats Intro to R Workshop.  Co-Hosted with J. Swift and P. V. August. University of Rhode Island Coastal Institute. Narragansett, RI. January 2016. [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
       
       - Federal Agency Networking Session. Invited panelist.  Organizers: Alan Wilson, Henry Gholz, and Daniel B. Stover. 100th Annual Ecological Society of America meeting.  Baltimore, MD. August 2015.
       
       - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015. [web](http://jwhollister.com/iale_open_science)
       
+      - Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Jan 2015  [web](https://github.com/USEPA/introR)
+      
       - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015.  [web](https://github.com/USEPA/introR)
+      
+      - Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Dec 2014  [web](https://github.com/USEPA/introR)
       
       - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014.  [web](https://github.com/iglpdc/2014-01-13-uri) 
       
