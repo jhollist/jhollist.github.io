@@ -1,0 +1,12 @@
+#!/bin/sh
+files=`git diff --cached --name-only`
+re="cv.Rmd"
+if [[ $files =~ $re ]]
+then
+  /usr/bin/Rscript -e "library(knitr); knit('cv.Rmd')"
+  /usr/bin/Rscript -e "library(rmarkdown); render('cv.md')"
+  wkhtmltopdf cv.html public/files/cv.pdf 
+  rm cv.html
+  git add public/files/cv.pdf
+  git add cv.md
+fi
