@@ -181,13 +181,14 @@ May 2003 – Aug 2004
 Peer Reviewed Articles
   : Submitted
   
-     - Hart, E., Barmby, P.,LeBauer, D.,Michonneau, F.,Mount, S.,Mulrooney, P.,Poisot, T.,Woo, K.H., Zimmerman, N.,Hollister, J. W. (Submitted). Ten simple rules for digital data storage. Submitted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
+     - Hart, E., Barmby, P.,LeBauer, D.,Michonneau, F.,Mount, S.,Mulrooney, P.,Poisot, T.,Woo, K.H., Zimmerman, N.,Hollister, J. W. (Accepted). Ten simple rules for digital data storage. Accepted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
+
 
   : 2010 - Present
   
       - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3  [10.1002/ecs2.1321](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/full). [pdf](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/pdf) [GitHub](https://github.com/USEPA/LakeTrophicModelling) [pre-print](http://dx.doi.org/10.7287/peerj.preprints.1319v2)
   
-      - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151  [10.12688/f1000research.7955.1](https://dx.doi.org/10.12688/f1000research.7955.1). [pdf](http://f1000research.com/articles/5-151/v1/pdf) [GitHub](https://github.com/USEPA/microcystinchla)
+      - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151  [10.12688/f1000research.7955.2](https://dx.doi.org/10.12688/f1000research.7955.2). [pdf](http://f1000research.com/articles/5-151/v2/pdf) [GitHub](https://github.com/USEPA/microcystinchla)
    
       - Milstead, W. B., J.W. Hollister, R. B. Moore, H. A. Walker. (2013). Estimating Summer Nutrient Concentrations in Northeastern Lakes from SPARROW Load Predictions and Modeled Hydraulic Residence Time. PLoS ONE 8(11): e81457  [10.1371/journal.pone.0081457](http://dx.doi.org/10.1371/journal.pone.0081457).  [pdf](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081457&representation=PDF)
       
@@ -278,13 +279,23 @@ Software and Repositories
 Bootcamps, Workshops, and Panels
   : 2010 - Present
   
-      - Data Carpentry Workshop.  Co-Hosted with J. Swift and P. V. August.  Co- Taught with TBD.  University of Rhode Island Coastal Institute. Narragansett, RI. January 2016.
+      - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1) and Katrina Kipp (USEPA/Region 1). US EPA New England Regional Laboratory. Chelmsford, MA. June 2016. [GitHub](https://github.com/USEPA/region1_r)
+      
+      - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1). US EPA Region 1 Headquarters.  Boston, MA. May 2016. [GitHub](https://github.com/USEPA/region1_r)
+  
+      - Introduction to GIS with R.  Co-hosted with Sandra Gaona (USEPA/OEI), Shea Caspersen (USEPA/OEI) and Paul Stey (USEPA/OECA).  US EPA. Washington, DC. March 2016. [GitHub](https://github.com/USEPA/intro_gis_with_r)
+      
+      - rhodyRstats Intro to R Workshop.  Co-Hosted with J. Swift and P. V. August. University of Rhode Island Coastal Institute. Narragansett, RI. January 2016. [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
       
       - Federal Agency Networking Session. Invited panelist.  Organizers: Alan Wilson, Henry Gholz, and Daniel B. Stover. 100th Annual Ecological Society of America meeting.  Baltimore, MD. August 2015.
       
       - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015. [web](http://jwhollister.com/iale_open_science)
       
+      - Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Jan 2015  [web](https://github.com/USEPA/introR)
+      
       - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015.  [web](https://github.com/USEPA/introR)
+      
+      - Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Dec 2014  [web](https://github.com/USEPA/introR)
       
       - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014.  [web](https://github.com/iglpdc/2014-01-13-uri) 
       
