@@ -450,7 +450,7 @@ Data Management and Analysis
   
   : Data
   
-      - I have many years experience managing small to medium-sized research datasets.  I have done this using relational databases (Access, SQLite), flat files, and for spatial data, shapefiles, coverages, and File Geodatabases.  
+      - I have many years experience managing small to medium-sized research datasets.  I have done this using relational databases (Access, SQLite), flat files, and for spatial data, shapefiles, coverages, File Geodatabases, and recently GeoJSON.  
   
   : Remote Sensing
   
