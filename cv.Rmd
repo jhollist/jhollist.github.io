@@ -93,7 +93,7 @@ May 1995
 Aug 2008 - Present 
   : Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division, Narragansett, RI
   
-      - I serve as principle investigator and provide leadership to the division on landscape ecological research, on application of geospatial sciences to the understanding of water quality in fresh and estuarine waters, and on the use of informatics and information management tools in environmental research. In this role, I have developed tools and methodologies (GIS and statistical) using numerous software packages and languages (R, ArcGIS, GRASS, Python, MS Excel) and have continued prior research on technology transfer of data, analytical methods and predictive tools to Northeast States; and developed statistical and modeling tools to facilitate use of defensible techniques in water quality criteria development. Previously I have: served as Co-lead on a project studying ecosystem services related to nutrient cycling in Northeastern lakes and ponds, was the liaison between the National Ecological Observatory Network (NEON) and EPA’s Ecosystem Services Research Program (ESRP), was task lead for our lakes ecosystem services work, and served as co-task lead for developing decision support tools for a project in Narragansett Bay and its watershed. I am currently serving as a co-Task Lead on a project exploring cyanobacteria risk in lakes of the Northeastern US. I am also exploring the use of Open Science, data mining, and computational ecology in our various research programs. 
+      - I serve as principle investigator and provide leadership to the division on landscape ecological research, on application of geospatial sciences to the understanding of water quality in fresh and estuarine waters, and on the use of informatics and information management tools in environmental research. In this role, I have developed tools and methodologies (GIS and statistical) using numerous software packages and languages (R, ArcGIS, GRASS, Python, MS Excel) and have continued prior research on technology transfer of data, analytical methods and predictive tools to Northeast States; and developed statistical and modeling tools to facilitate use of defensible techniques in water quality criteria development. Previously I have: served as Co-lead on a project studying ecosystem services related to nutrient cycling in Northeastern lakes and ponds, was the liaison between the National Ecological Observatory Network (NEON) and EPA’s Ecosystem Services Research Program (ESRP), was task lead for our lakes ecosystem services work, and served as co-task lead for developing decision support tools for a project in Narragansett Bay and its watershed. I am currently serving as a co-Task Lead on a project exploring cyanobacteria risk in lakes of the Northeastern US. I am also exploring the use of Open Science, data science, and computational ecology in our various research programs. 
 
 
 May 2006 – July 2008 
@@ -179,7 +179,7 @@ May 2003 – Aug 2004
 ## Research Products and Presentations
 
 Peer Reviewed Articles
-  : Submitted
+  : Accepted
   
      - Hart, E., Barmby, P.,LeBauer, D.,Michonneau, F.,Mount, S.,Mulrooney, P.,Poisot, T.,Woo, K.H., Zimmerman, N.,Hollister, J. W. (Accepted). Ten simple rules for digital data storage. Accepted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
 
@@ -279,6 +279,10 @@ Software and Repositories
 Bootcamps, Workshops, and Panels
   : 2010 - Present
   
+      - Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Ryan Peek.  University of Rhode Island Coastal Institute.  Aug 29-30, 2016.  [web](http://rhodyrstats.org/2016-08-29-uri)
+      
+      - Introduction to R.  US EPA Atlantic Ecology Division.  Narragansett, RI, July 2016 [GitHub](https://github.com/USEPA/aed_r/tree/master/workshop)
+      
       - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1) and Katrina Kipp (USEPA/Region 1). US EPA New England Regional Laboratory. Chelmsford, MA. June 2016. [GitHub](https://github.com/USEPA/region1_r)
       
       - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1). US EPA Region 1 Headquarters.  Boston, MA. May 2016. [GitHub](https://github.com/USEPA/region1_r)
@@ -416,7 +420,7 @@ Posters
 Programming
   : R  
   
-      - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with one on CRAN and several in development on GitHub. I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
+      - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with two on CRAN ([quickmapr](https://cran.r-project.org/web/packages/quickmapr/index.html) and [lakemorpho](https://cran.r-project.org/web/packages/lakemorpho/index.html)) and several in development on [GitHub](https://github.com/jhollist). I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
   
   : Web
   
