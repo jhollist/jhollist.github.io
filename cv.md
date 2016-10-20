@@ -495,6 +495,8 @@ Awards
   
       - US EPA, 2015 Bronze Medal for Commendable Service to the Safe and Sustainable Water Resources National Program Tream
       
+      - US EPA, Region 1, 2015 Science Achievement Award - Water Quality for Cyanobacteria Monitoring Initiative Team, with Hilary Snook, Betty Kreakie and Bryan Milstead.
+      
       - US EPA, Region 1, 2011 Commendable Service Award for Contributions to the Northeast Lakes and Ponds
       
       - 2010 US EPA Science and Technological Achievement Award Honorable Mention 
