@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2016-09-07
+- updated: 2016-10-20
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -179,11 +179,11 @@ May 2003 – Aug 2004
 ## Research Products and Presentations
 
 Peer Reviewed Articles
-  : Accepted
-  
-     - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (Accepted). Ten simple rules for digital data storage. Accepted to PLoS Computational Biology. [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
+  <!--: Accepted -->
 
   : 2010 - Present
+  
+       - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (2016). Ten simple rules for digital data storage. PLoS Computational Biology. e1005097.  [10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097) [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
   
       - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3  [10.1002/ecs2.1321](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/full). [pdf](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/pdf) [GitHub](https://github.com/USEPA/LakeTrophicModelling) [pre-print](http://dx.doi.org/10.7287/peerj.preprints.1319v2)
   
@@ -493,6 +493,8 @@ Research Funding
 Awards
   : 2010 - Present
   
+      - US EPA, 2015 Bronze Medal for Commendable Service to the Safe and Sustainable Water Resources National Program Tream
+      
       - US EPA, Region 1, 2011 Commendable Service Award for Contributions to the Northeast Lakes and Ponds
       
       - 2010 US EPA Science and Technological Achievement Award Honorable Mention 
