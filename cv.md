@@ -90,9 +90,15 @@ May 1995
   
 ## Current Appointments
 
-- **Aug 2008 - Present:** Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division
-- **Nov 2016 - Present:** Adjunct Associate Professor, University of Rhode Island, Department of Natural Resources Science
-- **Dec 2005 - Present:** Senior Fellow, Coastal Institute, University of Rhode Island
+Aug 2008 - Present
+  : Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division
+
+Nov 2016 - Present
+  : Adjunct Associate Professor, University of Rhode Island, Department of Natural 
+  Resources Science
+
+Dec 2005 - Present
+  : Senior Fellow, Coastal Institute, University of Rhode Island
 
 ## Research
 
