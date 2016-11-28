@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2016-10-20
+- updated: 2016-11-28
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -31,6 +31,7 @@ output:
 <div id="cv-nav">
 
 - [Education](#education)
+- [Appointments](#appointments)
 - [Research](#research)
 - [Teaching](#teaching)
 - [Research Products](#research-products-and-presentations)
@@ -87,6 +88,11 @@ May 1995
       
       - Introduction to Computer Science using Java I (CSCI E-50a), Fall 2012, Harvard University, Division of Continuing Education
   
+## Current Appointments
+
+- Aug 2008 - Present: Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division
+- Nov 2016 - Present: Adjunct Associate Professor, University of Rhode Island, Department of Natural Resources Science
+- 
 
 ## Research
 
@@ -152,7 +158,7 @@ May 1996 – July 1997
 
 ## Teaching
 
-Jan 2007 – Present 
+Jan 2007 – Nov 2016 
   : Adjunct Assistant Professor, University of Rhode Island, Department of Natural Resources Science, Kingston, RI
   
       - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level [seminar course in Landscape Ecology](http://www.edc.uri.edu/nrs/classes/nrs534/). Course included readings and group discussion of the concepts and principles of landscape ecology.  Also team taught with Drs. Peter V August and Adam Smith, a [scientific computing survey course](http://scicomp2014.edc.uri.edu) focusing on R, version control, and reproducible research.  Provided guest lecture on R in CSC 592 Programming For Scientists during Fall 2014.
@@ -180,7 +186,6 @@ May 2003 – Aug 2004
 
 Peer Reviewed Articles
   <!--: Accepted -->
-
   : 2010 - Present
   
        - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (2016). Ten simple rules for digital data storage. PLoS Computational Biology. e1005097.  [10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097) [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
@@ -266,6 +271,8 @@ Thesis and Dissertation
 Software and Repositories
   : 2010 - Present
       
+      - Hollister, J. W. (2016). elevatr: Download Elevation Datasets from Various APIs.  Version 0.0.1.9000 repo: [GitHub](http://www.github.com/jhollist/elevatr)
+      
       - Hollister, J. W. (2016). lakemorpho: Lake morphometry in R. Version 1.0.2  [CRAN](http://cran.r-project.org/web/packages/lakemorpho/index.html) repo: [GitHub](http://www.github.com/jhollist/lakemorpho) doi(v1.0.2): [10.5281/zenodo.51415](http://dx.doi.org/10.5281/zenodo.51415)
      
       - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.1.  [CRAN](https://cran.r-project.org/web/packages/quickmapr/index.html)  [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.33135](http://dx.doi.org/10.5281/zenodo.33135)
@@ -316,6 +323,16 @@ Bootcamps, Workshops, and Panels
 Seminars and Presentations
   : 2010 - Present
       
+      - Hollister, J. W. F. Nojava A., B. J. Kreakie. An Open Science Approach to Modeling and Visualizing Cyanobacteria Blooms in Lakes and Ponds. American Association of Geographsers Annual Meeting. April 2017, Boston, MA.
+      
+      - Nojavan, F., B. J. Kreakie, J. W. Hollister. A Bayesian Multilevel Model for Microcystin Prediction in Lakes of the Continental United States. American Association of Geographers Annual Meeting. April 2017, Boston, MA.
+      
+      - Nojavan A., F., B. J. Kreakie, J. W. Hollister, S.S. Qian, Assessing Lake Trophic Status: A Proportional Odds Logistic Regression Model. The Association for the Sciences of Limnology and Oceanography (ASLO) Annual Meeting. June 2016, Santa Fe, NM.
+      
+      - Kreakie, B. J., F. Nojavan A., J. W. Hollister, W. B. Milstead. Computational Approaches to Predict Indices of Cyanobacteria Toxicity, National Water Quality Monitoring Council (NWQMC) Annual Meeting. May 2016, Tampa, FL.
+      
+      - Kreakie, B. J., S. Ernst, T. Hollenhorst, J.W. Hollister, W.B. Milstead, and H. Snook. cyanoScope: Mapping cyanobacteria one slide at a time. New England Association of Environmental Biologists (NEAEB) Annual Meeting. February 2016, Rockport, ME.
+     
       - Hollister, J. W. Spatial Data Analysis in R: Lightning Demo! Lightning Talk at Northeast Arc Users Group Fall Meeting, November 2015, Burlington, VT.  [GitHub](https://github.com/jhollist/rgis_lightning_demo).
       
       - Hollister, J. W. Open Science: A Zealot's View.  Invited Symposium Speaker, "Emerging Issues and Novel Technologies in Coastal Ecosystem Science", New England Estuarine Research Society Spring Meeting, April 2015, Bristol, RI. [slides](open_science_neers/) 
