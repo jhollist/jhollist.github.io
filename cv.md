@@ -31,7 +31,7 @@ output:
 <div id="cv-nav">
 
 - [Education](#education)
-- [Appointments](#appointments)
+- [Current Appointments](#current-appointments)
 - [Research](#research)
 - [Teaching](#teaching)
 - [Research Products](#research-products-and-presentations)
@@ -90,9 +90,9 @@ May 1995
   
 ## Current Appointments
 
-- Aug 2008 - Present: Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division
-- Nov 2016 - Present: Adjunct Associate Professor, University of Rhode Island, Department of Natural Resources Science
-- 
+- **Aug 2008 - Present:** Research Ecologist, U.S. Environmental Protection Agency, Atlantic Ecology Division
+- **Nov 2016 - Present:** Adjunct Associate Professor, University of Rhode Island, Department of Natural Resources Science
+- **Dec 2005 - Present:** Senior Fellow, Coastal Institute, University of Rhode Island
 
 ## Research
 
@@ -185,8 +185,7 @@ May 2003 – Aug 2004
 ## Research Products and Presentations
 
 Peer Reviewed Articles
-  <!--: Accepted -->
-  : 2010 - Present
+  : 2010 - Present<!--: Accepted -->
   
        - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (2016). Ten simple rules for digital data storage. PLoS Computational Biology. e1005097.  [10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097) [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
   
@@ -575,6 +574,7 @@ Societies
       
   : Ecological Society of America
   
+      - Member, Ecology Data Task Force
       - Member, lapsed
       
   : Rhode Island Natural History Survey
@@ -593,15 +593,13 @@ Other Activities
       
       - Software Carpenty Instructor, Oct 2014 - Present.
       
-      - Adjunct Assistant Professor, Department of Natural Resources Science, University of Rhode Island, Kingston, RI, Jan 2007 - Present.
-      
-      - Senior Fellow, Coastal Institute, University of Rhode Island, Narragansett, RI, Dec 2005 – Present.
-      
       - List administrator for R-sig-ecology, a Special Interest Group mailing list on the use R in Ecology, April 2008 - Present.
       
       - Provided Peer Review for: Landscape Ecology, Trends in Ecology and Evolution, Plant Ecology, Integrated Environmental Assessment and Management, Remote Sensing of Environment, Journal of Environmental Quality, Selbyana, Minnesota Sea Grant, and numerous USEPA Office of Research and Development internal reviews.
       
   : Past
+  
+      - Adjunct Assistant Professor, Department of Natural Resources Science, University of Rhode Island, Kingston, RI, Jan 2007 - Nov 2016.
    
       - Served on Steering Committee for The Nature Conservancy's Northeast Lake and Pond Classification System. link: (http://nature.ly/NElakes) [pdf](https://easterndivision.s3.amazonaws.com/Freshwater/Northeast_Lake_and_Pond_Classification.pdf)
       
