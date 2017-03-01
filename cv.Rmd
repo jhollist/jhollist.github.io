@@ -29,12 +29,14 @@ output:
 </div>
 
 <div id="cv-nav">
+
 - [Education](#education)
 - [Current Appointments](#current-appointments)
 - [Research](#research)
 - [Teaching](#teaching)
 - [Research Products](#research-products-and-presentations)
 - [Qualifications and Activities](#qualifications-and-activities)
+
 </div>
 
 ## Education
