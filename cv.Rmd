@@ -192,12 +192,9 @@ May 2003 – Aug 2004
 
 
 Peer Reviewed Articles
-  : Submitted
-  
-       - Chamberlain, S, and J.W. Hollister (2017). lawn: R Client for turf.js for Geospatial Analysis. Version 0.3.1.  [CRAN](https://cran.r-project.org/package=lawn) [GitHub](https://github.com/ropensci/lawn) [JOSS](http://joss.theoj.org/papers/59d52acbbc08c98c90270f5b58e74067)
-  
   : 2010 - Present<!--: Accepted -->
-  
+       - Chamberlain, S, and J.W. Hollister (2017). lawn: R Client for turf.js for Geospatial Analysis. Version 0.3.3. Journal of Open Source Software 2:11. [10.21105/joss.00194](http://dx.doi.org/10.21105/joss.00194)  [CRAN](https://cran.r-project.org/package=lawn) [GitHub](https://github.com/ropensci/lawn) 
+       
        - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (2016). Ten simple rules for digital data storage. PLoS Computational Biology. e1005097.  [10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097) [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
   
       - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3  [10.1002/ecs2.1321](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/full). [pdf](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/pdf) [GitHub](https://github.com/USEPA/LakeTrophicModelling) [pre-print](http://dx.doi.org/10.7287/peerj.preprints.1319v2)
