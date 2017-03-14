@@ -221,7 +221,7 @@ Peer Reviewed Articles
       
       - Hollister, J. W., P. V. August, and J. F. Paul. (2008). Effects of Spatial Extent on Landscape Structure and Sediment Metal Concentration Relationships in Small Estuarine Systems of the United States’ Mid-Atlantic Coast. Landscape Ecology. 23(SI):91-106  [10.1007/s10980-007-9143-1](http://dx.doi.org/10.1007/s10980-007-9143-1).
       
-      - Hollister, J. W., M. L. Gonzalez, J. F. Paul, P. V. August, J. L. Copeland (2004). Assessing the Accuracy of the National Land Cover Dataset at Multiple Spatial Extents. Photogrammetric Engineering and Remote Sensing. 70(4):405-414  [10.14358/PERS.70.4.405](http://dx.doi.org/10.14358/PERS.70.4.405).  [pdf](http://www.asprs.org/a/publications/pers/2004journal/april/2004_apr_405-414.pdf).
+      - Hollister, J. W., M. L. Gonzalez, J. F. Paul, P. V. August, J. L. Copeland (2004). Assessing the Accuracy of the National Land Cover Dataset at Multiple Spatial Extents. Photogrammetric Engineering and Remote Sensing. 70(4):405-414  [10.14358/PERS.70.4.405](http://dx.doi.org/10.14358/PERS.70.4.405).  [pdf](https://www.asprs.org/wp-content/uploads/pers/2004journal/april/2004_apr_405-414.pdf).
       
       - Paul, J. F., J. L. Copeland, M. Charpentier, P. V. August, and J. W. Hollister (2003). Overview of Geographic Information Systems applications in Estuarine Monitoring and Assessment Research. Marine Geodesy. 26:63-72  [10.1080/01490410306704](http://dx.doi.org/10.1080/01490410306704).
       
