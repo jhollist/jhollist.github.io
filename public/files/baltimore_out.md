@@ -1,9 +1,4 @@
----
-title: "Places in Baltimore"
-author: "Jeff W. Hollister"
-date: "8/10/2015"
-output: html_document
----
+
 
 ##Dart Bars:
 
