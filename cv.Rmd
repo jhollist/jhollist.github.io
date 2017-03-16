@@ -14,7 +14,7 @@ subtitle: |
   | ORCID\: [0000-0002-9254-9740](https://orcid.org/0000-0002-9254-9740)
 output:
   html_document:
-    css: pdf.css
+    css: public/files/pdf.css
 ---
 ## Education
 
