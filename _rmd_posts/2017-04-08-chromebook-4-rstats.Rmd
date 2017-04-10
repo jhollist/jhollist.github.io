@@ -1,0 +1,25 @@
+---
+layout: post
+title: "R Development On a Chromebook"
+tags: ['chromeOS','Chromebook','crouton','xiwi','RStudio']
+categories: ['R']
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+```
+
+# Steps
+1. Enter Developer Mode
+2. Download crouton
+3. Create chroot
+4. Add crouton integration extension
+5. R
+6. RStudio
+7. Git
+8. Other (GDAL, GEOS, Proj.4,...)
+
+
+# Links
+- [Web Dev on chromebook - 1](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d)
+- [Web Dev on Chromebook - 2](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-2-chromeos-tricks-and-workflows-4dfcc308d391)
+- [Yet another crouton how to](https://www.codedonut.com/chromebook/install-crouton-chromebook/)
