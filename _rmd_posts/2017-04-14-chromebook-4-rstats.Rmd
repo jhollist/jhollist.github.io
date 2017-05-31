@@ -84,6 +84,9 @@ sudo apt-get update
 sudo apt-get install libgdal-dev libproj-dev
 ```
 
+In addition to gdal, geos, and proj, `libudunits2-dev` is needed and can be installed with apt-get: `sudo apt-get install libudunits2-dev`.
+
+
 7. Working with RStudio on your chromebook
 
 Not a whole lot of details here.  Just some basic notes I had for myslef.  First, I am using a 64GB microSD card to give myself some room and I keep all of my projects stored on this card (as well as on GitHub).  I just set up a symbolic link to this from my home folder.  Something like the following should do the trick.
