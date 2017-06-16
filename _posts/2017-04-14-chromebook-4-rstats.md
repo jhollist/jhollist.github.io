@@ -78,7 +78,7 @@ The spatial stuff.  This also adds the ubuntugis repo so that you can get the la
 But, `add-apt-repository` was not installed.  To get that I used `sudo apt-get install software-properties-common`.  Now to add the GIS stuff.
 
 ```
-sudo add-apt-repository ppa:ubuntugis-unstable/ppa
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo apt-get update
 sudo apt-get install libgdal-dev libproj-dev
 ```
@@ -106,7 +106,16 @@ to my `~/.bashrc` in the chromebook (not the chroot!) shell.  Then I can fire up
 
 Given the hi-res of the screen, you'll need to either get super vision or mess with the display settings in the Xfce desktop or adjust the X11 setting that the Chrome crouton integration is using.  I used a lot of the suggestions in the [crouton on Pixel section of the crouton Wiki](https://github.com/dnschneid/crouton/wiki/Chromebook-Pixel).  In particular, Option 1 helped with firing up RStudio direction.  I also bumped the zoom in my RStudio Global options.
 
-Hopefully you should now be ready to roll with R and R development on your fancy new chromebook!  See below for some additional links.
+Lastly, the locale is not set in your linux install so to take care of that, I followed [these directions from Ask Ubuntu](https://askubuntu.com/questions/162391/how-do-i-fix-my-locale-issue).  In particular:
+
+```
+sudo locale-gen "en_US.UTF-8"
+sudo dpkg-reconfigure locales #you'll need to cycle through with arrows, tabs, and enters
+```
+I **think** that should do the trick on any locale issues, but dealing with this made me realize how little I actually now about locales and text encoding...
+
+Fnally and hopefully you should now be ready to roll with R and R development on your fancy new chromebook!  See below for some additional links.
+
 # Some related links
 - [Web Dev on chromebook - 1](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-1-crouton-2ec2e6bb2a2d)
 - [Web Dev on Chromebook - 2](https://medium.com/@martinmalinda/ultimate-guide-for-web-development-on-chromebook-part-2-chromeos-tricks-and-workflows-4dfcc308d391)

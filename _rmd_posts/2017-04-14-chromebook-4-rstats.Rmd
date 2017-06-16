@@ -79,7 +79,7 @@ The spatial stuff.  This also adds the ubuntugis repo so that you can get the la
 But, `add-apt-repository` was not installed.  To get that I used `sudo apt-get install software-properties-common`.  Now to add the GIS stuff.
 
 ```
-sudo add-apt-repository ppa:ubuntugis-unstable/ppa
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo apt-get update
 sudo apt-get install libgdal-dev libproj-dev
 ```
