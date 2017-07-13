@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2017-05-09
+- updated: 2017-07-13
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -231,9 +231,11 @@ Peer Reviewed Articles
 Chapters
   : 2010 - Present
   
-      - Cormier, S. and J. W. Hollister. (2015). Chapter 7: Types of Spatial and Landscape Data and Sampling Designs. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067.  note: Awaiting Clearance.
+      - Cormier, S. and J. W. Hollister. (2011). Chapter 6: Types of Spatial and Landscape Data and Sampling Designs. Pages 6-1:6-32. in USEPA. Landscape
+and Predictive Tools A Guide to Spatial Analysis for Environmental Assessment. EPA/100/R-11/002. [web](https://nepis.epa.gov/Exe/ZyNET.exe/P100QIFN.txt?ZyActionD=ZyDocument&Client=EPA&Index=2011%20Thru%202015&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C11THRU15%5CTXT%5C00000023%5CP100QIFN.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=190) [pdf](public/files/landscape_and_predictive_tools_chap_6.pdf) 
       
-      - Hollister, J. W., and S. Cormier. (2015). Chapter 8: Methods and Tools for Analyzing Spatially Explicit Information. Pages xx-xx. in USEPA. Landscape Analysis and Tools for Water Quality Assessment and Management. EPA/600/R-15/067. note: Awaiting Clearance.
+      - Cormier, S. and J. W. Hollister. (2011). Chapter 7: Methods and Tools for Analyzing Spatially Explicit Information. Pages 7-1:7-34. in USEPA. Landscape
+and Predictive Tools A Guide to Spatial Analysis for Environmental Assessment. EPA/100/R-11/002. [web](https://nepis.epa.gov/Exe/ZyNET.exe/P100QIFN.txt?ZyActionD=ZyDocument&Client=EPA&Index=2011%20Thru%202015&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C11THRU15%5CTXT%5C00000023%5CP100QIFN.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=222) [pdf](public/files/landscape_and_predictive_tools_chap_7.pdf) 
   
   : 2000 - 2009
   
