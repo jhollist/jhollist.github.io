@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2017-07-13
+- updated: 2017-08-01
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -245,6 +245,8 @@ and Predictive Tools A Guide to Spatial Analysis for Environmental Assessment. E
 Non-peer reviewed work 
   : 2010 - Present
   
+      - Salmon, M, MacDonald A., Woo K., Boettiger, C., Hollister, J. (2017). emldown - From machine readable EML metadata to a pretty documentation website. ROpenSci Blog. [web](https://ropensci.org/blog/blog/2017/08/01/emldown).
+      
       - von Hardenberg A, Obeng A, Pawlik A, Pletzer A, Shiklomanov A, Fouilloux A, Fournier A, Marwick B, Brown C. T., Voter C, Hulshof C, Bahlai C, Shaw C, Bouquin D, Stubbs D, Vanichkina D, Fishman D, Wilson E, Hart E, Hannon E, Sügis E, Strauss E, Gan E, Becker E, White E, Rodriguez-Sanchez F, Michonneau F, Boehm F, Ye H, Dashnow H, Lapp H, Ashander J, Byrnes J, Hollister J. W., Chen J, Dunic J, Keane J, Stachelek J, Herr J, Mislan K. A. S., Woo K, Cranston K, Jordan K. L., Ram K, Hertweck K, Todd-Brown K, Lotterhos K, Peck K, Direk K, Hall K, Tylén K, Chatzidimitriou K, Deer L, Gatto L, Wasser L, Tarkowski L, Breckels L, Foos M, Chiapello M, Robinson M, Akenbrand M. J., Kuzak M, Grenié M, Grenié M, Duffy M, Koontz M, Johnston M, Marino N, Carchedi N, Burge O, Lijnzaad P, Lijnzaad P, Peek R, Supp S, Taylor S, Labou S, Pederson S, Webster T, Sandmann T, Teal T, Furnass W, Pearse W, Li Y, Lapp Z, ashander, sfn_brt and suparee (2017). “Data Carpentry: R for data analysis and visualization of Ecological Data.” [10.5281/zenodo.569338](https://dx.doi.org/10.5281/zenodo.569338), [web](http://datacarpentry.org/R-ecology-lesson).
   
       - Kreakie, B. J., J.W. Hollister, W. B. Milstead, F. Nojavan (2015). Computational Ecology and Open Science: Tools to Help Manage Cyanobacteria in Lakes. LakeLines Magazine.  [pdf](http://www.nalms.org/media.acux/beb75c9c-f812-4753-b888-79864899c6d6) 
