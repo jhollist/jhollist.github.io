@@ -296,7 +296,13 @@ Software and Repositories
 Bootcamps, Workshops, and Panels
   : 2010 - Present
   
-      - Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Ryan Peek.  University of Rhode Island Coastal Institute.  Aug 29-30, 2016.  [web](http://rhodyrstats.org/2016-08-29-uri)
+      - Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Rachel Schwartz.  University of Rhode Island Coastal Institute, Narragansett, RI.  June 07-08, 2017.  [web](http://rhodyrstats.org/2017-06-07-uri/)
+      
+      - Introduction to R Workshop. Co-hosted with Stephen Krabbe(USEPA Region 7).  US EPA Region 7 Regional Laboratory.  Kansas City, KS.  February 2017. [GitHub](https://github.com/usepa/region7_r)  
+      
+      - rhodyRstats Introduction to R Workshop. Co-hosted with rhodyRstats and URI Coastal Institute. University of Rhode Island Coastal Institute, Narragansett, RI. Jan 19, 2017 [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
+      
+      - Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Ryan Peek.  University of Rhode Island Coastal Institute, Narragansett, RI.  Aug 29-30, 2016.  [web](http://rhodyrstats.org/2016-08-29-uri)
       
       - Introduction to R.  US EPA Atlantic Ecology Division.  Narragansett, RI, July 2016 [GitHub](https://github.com/USEPA/aed_r/tree/master/workshop)
       
