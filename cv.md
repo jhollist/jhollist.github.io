@@ -292,7 +292,7 @@ Software and Repositories
       
       - Hollister, J. W. (2016). elevatr: Download Elevation Datasets from Various APIs.  Version 0.1.1 [CRAN](https://cran.r-project.org/package=elevatr) [GitHub](http://www.github.com/jhollist/elevatr) 
       
-      - Hollister, J. W. (2016). lakemorpho: Lake morphometry in R. Version 1.0.2  [CRAN](https://cran.r-project.org/package=lakemorpho) [GitHub](http://www.github.com/jhollist/lakemorpho)  [10.5281/zenodo.51415](http://dx.doi.org/10.5281/zenodo.51415)
+      - Hollister, J. W. and J. J. Stachelek. (2016). lakemorpho: Lake morphometry in R. Version 1.1.0  [CRAN](https://cran.r-project.org/package=lakemorpho) [GitHub](http://www.github.com/jhollist/lakemorpho)  [10.5281/zenodo.51415](http://dx.doi.org/10.5281/zenodo.51415)
      
       - Hollister, J. W. (2015). quickmapr: Quickly Map and Explore Spatial Data. Version 0.1.1.  [CRAN](https://cran.r-project.org/package=quickmapr)  [GitHub](https://github.com/jhollist/quickmapr) [10.5281/zenodo.33135](http://dx.doi.org/10.5281/zenodo.33135)
       
