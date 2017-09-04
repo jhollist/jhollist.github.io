@@ -91,8 +91,6 @@ Also, if you do any work with `rmarkdown`, `knitr`, and the like you will probab
 sudo apt-get install texlive texlive-latex-extras texlive-pictures
 ```
 
-
-
 7. Working with RStudio on your chromebook
 
 Not a whole lot of details here.  Just some basic notes I had for myslef.  First, I am using a 64GB microSD card to give myself some room and I keep all of my projects stored on this card (as well as on GitHub).  I just set up a symbolic link to this from my home folder.  Something like the following should do the trick.
