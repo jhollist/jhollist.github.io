@@ -85,6 +85,13 @@ sudo apt-get install libgdal-dev libproj-dev
 
 In addition to gdal, geos, and proj, `libudunits2-dev` is needed and can be installed with apt-get: `sudo apt-get install libudunits2-dev`.
 
+Also, if you do any work with `rmarkdown`, `knitr`, and the like you will probably want a working install of latex.  I used the following:
+
+```
+sudo apt-get install texlive texlive-latex-extras texlive-pictures
+```
+
+
 
 7. Working with RStudio on your chromebook
 
