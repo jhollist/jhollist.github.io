@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2017-08-23
+- updated: 2017-09-21
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -194,11 +194,13 @@ May 2003 – Aug 2004
 Peer Reviewed Articles
 
   : Submitted
-      - Hollister, J. W. and J. J. Stachelek. (Submitted). lakemorpho: Calculating lake morphometry metrics in R.  F1000Research. [GitHub](https://github.com/usepa/lakemorpho_manuscript)
       
       - Nojavan, F. A., B. J. Kreakie, J. W. Hollister, S. S. Qian. (Submitted). Rethinking the Lake Trophic State Index. Ecological Indicators. [GitHub](https://github.com/USEPA/rethinking_tsi)
       
   : 2010 - Present<!--: Accepted -->
+  
+       - Hollister, J. W. and J. J. Stachelek. (2017). lakemorpho: Calculating lake morphometry metrics in R.  F1000Research. 6:1718. [10.12688/f1000research.12512.1](https://dx.doi.org/10.12688/f1000research.12512.1). [pdf](http://f1000research.com/articles/6-1718/v1/pdf) [GitHub](https://github.com/usepa/lakemorpho_manuscript)
+  
        - Chamberlain, S, and J.W. Hollister (2017). lawn: R Client for turf.js for Geospatial Analysis. Version 0.3.3. Journal of Open Source Software 2:11. [10.21105/joss.00194](http://dx.doi.org/10.21105/joss.00194)  [CRAN](https://cran.r-project.org/package=lawn) [GitHub](https://github.com/ropensci/lawn) 
        
        - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (2016). Ten simple rules for digital data storage. PLoS Computational Biology. e1005097.  [10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097) [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
