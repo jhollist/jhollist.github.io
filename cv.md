@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2017-09-26
+- updated: 2017-11-03
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -304,9 +304,15 @@ Software and Repositories
 Bootcamps, Workshops, and Panels
   : 2010 - Present
   
+      - Hollister, J. W. and M. Beck. (2017). Introduction to R for Analysis of Coastal and Estuarine Data. Coastal and Estuarine Research Fedaration Annual Meeting, Providence, RI.  November 2017. [Web](http://www.erf.org/introduction-to-r-for-analysis-of-coastal-and-estuarine-data) and [Web Materials](https://usepa.github.io/cerf_r)
+      
+      - Hollister, J. W. (2017). R-a-palooza: Introduction to R, Reproducible Research with R, and Spatial analysis/GIS with R.  Co-hosted with Stephen KRabbe (USEPA Region 7). US EPA Region 7 Laboratory and Regional Offices.  Kansas City, KS and Lenexa, KS.  October 2017. [GitHub](https://github.com/USEPA/region7_r/)
+      
+      - Hollister, J. W. (2017). Spatial Analysis/GIS with R. Workshop at USEPA R User Group Workshop, Washington, DC. Sep 11- 13, 2017. [GitHub](https://github.com/usepa/rspatial_workshop)
+  
       - Schwartz, R. S. and J. W. Hollister. (2017). Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Rachel Schwartz.  University of Rhode Island Coastal Institute, Narragansett, RI.  June 07-08, 2017.  [web](http://rhodyrstats.org/2017-06-07-uri/)
       
-      - Hollister, J. W. (2017). Introduction to R Workshop. Co-hosted with Stephen Krabbe(USEPA Region 7).  US EPA Region 7 Regional Laboratory.  Kansas City, KS.  February 2017. [GitHub](https://github.com/usepa/region7_r)  
+      - Hollister, J. W. (2017). Introduction to R Workshop. Co-hosted with Stephen Krabbe(USEPA Region 7).  US EPA Region 7 Regional Laboratory.  Kansas City, KS.  February 2017. [GitHub](https://github.com/USEPA/region7_r/blob/master/README_feb_2017.md)  
       
       - Hollister, J. W. (2017). rhodyRstats Introduction to R Workshop. Co-hosted with rhodyRstats and URI Coastal Institute. University of Rhode Island Coastal Institute, Narragansett, RI. Jan 19, 2017 [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
       
@@ -347,6 +353,10 @@ Bootcamps, Workshops, and Panels
 
 Seminars and Presentations
   : 2010 - Present
+      
+      - Hollister, J. W. (2017). An Open Science Framework for Research on Cyanobacteria in Lakes and Ponds.  US EPA Region 7 Regional Office, October 2017. Lenexa, KS. [slides](https://jwhollister.com/cyano_open_sci)
+      
+      - Hollister, J. W. (2017). R packages as a reproducible framework for lake and cyanobacteria research.  US EPA R User Group Annual Meeting. September 2017. Washington, DC. [slides](https://usepa.github.io/reproducible_lakes/)
       
       - Hollister, J. W. F. Nojava A., B. J. Kreakie. (2017). An Open Science Approach to Modeling and Visualizing Cyanobacteria Blooms in Lakes and Ponds. American Association of Geographsers Annual Meeting. April 2017, Boston, MA.
       
