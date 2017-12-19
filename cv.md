@@ -190,7 +190,6 @@ May 2003 – Aug 2004
 
 ## Research Products and Presentations
 
-
 Peer Reviewed Articles
 
   : Submitted
