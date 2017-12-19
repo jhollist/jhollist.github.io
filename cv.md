@@ -361,7 +361,7 @@ Seminars and Presentations
       
       - Hollister, J. W. (2017). R packages as a reproducible framework for lake and cyanobacteria research.  US EPA R User Group Annual Meeting. September 2017. Washington, DC. [slides](https://usepa.github.io/reproducible_lakes/)
       
-      - Hollister, J. W. F. Nojava A., B. J. Kreakie. (2017). An Open Science Approach to Modeling and Visualizing Cyanobacteria Blooms in Lakes and Ponds. American Association of Geographsers Annual Meeting. April 2017, Boston, MA.
+      - Hollister, J. W. F. Nojava A., B. J. Kreakie. (2017). An Open Science Approach to Modeling and Visualizing Cyanobacteria Blooms in Lakes and Ponds. American Association of Geographsers Annual Meeting. April 2017, Boston, MA. [slides](https://usepa.github.io/cyano_open_sci_aag/)
       
       - Nojavan, F., B. J. Kreakie, J. W. Hollister. (2017). A Bayesian Multilevel Model for Microcystin Prediction in Lakes of the Continental United States. American Association of Geographers Annual Meeting. April 2017, Boston, MA.
       
