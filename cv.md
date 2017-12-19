@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2017-11-03
+- updated: 2017-12-19
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -167,7 +167,7 @@ May 1996 – July 1997
 Jan 2007 – Nov 2016 
   : Adjunct Assistant Professor, University of Rhode Island, Department of Natural Resources Science, Kingston, RI
   
-      - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level [seminar course in Landscape Ecology](http://www.edc.uri.edu/nrs/classes/nrs534/). Course included readings and group discussion of the concepts and principles of landscape ecology.  Also team taught with Drs. Peter V August and Adam Smith, a [scientific computing survey course](http://scicomp2014.edc.uri.edu) focusing on R, version control, and reproducible research.  Provided guest lecture on R in CSC 592 Programming For Scientists during Fall 2014.
+      - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level [seminar course in Landscape Ecology](http://www.edc.uri.edu/nrs/classes/nrs534/). Course included readings and group discussion of the concepts and principles of landscape ecology.  Team taught with Drs. Rachel Schwartz and Harrison Dekker, [Special Topics in R](https://rhodyrstats.github.io/special_topics_in_r). Also team taught with Drs. Peter V August and Adam Smith, a [scientific computing survey course](http://scicomp2014.edc.uri.edu) focusing on R, version control, and reproducible research.  Provided guest lecture on R in CSC 592 Programming For Scientists during Fall 2014.
 
 
 Aug 2005 – May 2006 
@@ -194,6 +194,8 @@ May 2003 – Aug 2004
 Peer Reviewed Articles
 
   : Submitted
+      
+      - Raposa, K. B., R. A. McKinney, C. Wigand, J. W. Hollister, C. Lovall, K. Szura, J. A. Gurak Jr., J. McNamee, C. Raithel, and E. B. Watson. (Submitted). Top-down and bottom-up controls on overabundant New England salt marsh crab populations. PeerJ. [GitHub](https://github.com/jhollist/crabs)
       
       - Nojavan, F. A., B. J. Kreakie, J. W. Hollister, S. S. Qian. (Submitted). Rethinking the Lake Trophic State Index. Ecological Indicators. [GitHub](https://github.com/USEPA/rethinking_tsi)
       
@@ -354,6 +356,8 @@ Bootcamps, Workshops, and Panels
 Seminars and Presentations
   : 2010 - Present
       
+      - Hollister, J. W. and B. J. Kreakie. (2017). Using Chlorophyll *a* as a surrogate for exceeding Microcystin Health Advisory Concentrations.  Cyanobacteria - Monitoring and Treating Drinking Water: A Workshop for Water Suppliers.  December 2017. Worcester, MA. [slides](http://jwhollister.com/microcystin_chla_talk)
+      
       - Hollister, J. W. (2017). An Open Science Framework for Research on Cyanobacteria in Lakes and Ponds.  US EPA Region 7 Regional Office, October 2017. Lenexa, KS. [slides](https://jwhollister.com/cyano_open_sci)
       
       - Hollister, J. W. (2017). R packages as a reproducible framework for lake and cyanobacteria research.  US EPA R User Group Annual Meeting. September 2017. Washington, DC. [slides](https://usepa.github.io/reproducible_lakes/)
@@ -471,7 +475,7 @@ Posters
 Programming
   : R  
   
-      - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with two on CRAN ([quickmapr](https://cran.r-project.org/web/packages/quickmapr/index.html) and [lakemorpho](https://cran.r-project.org/web/packages/lakemorpho/index.html)) and several in development on [GitHub](https://github.com/jhollist). I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
+      - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with four on CRAN ([quickmapr](https://cran.r-project.org/web/packages/quickmapr/index.html), [lakemorpho](https://cran.r-project.org/web/packages/lakemorpho/index.html), [elevatr](https://cran.r-project.org/web/packages/elevatr/index.html), and [lawn](https://cran.r-project.org/web/packages/lawn/index.html)) and several in development on [GitHub](https://github.com/jhollist). I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
   
   : Web
   
@@ -493,7 +497,7 @@ Programming
 Data Management and Analysis
   : GIS
   
-      - Since 2012, I have used R (with `sp`, `rgdal`, `rgeos`, and `raster`) as my primary GIS and spatial analysis platform. The prior 17 years I extensively used the ESRI product line including ArcGIS, Arc/INFO, ArcView, ArcIMS and ArcGIS Server, and Geostatistical Analyst.  I have limited experience using GRASS.  
+      - Since 2012, I have used R (with `sp`, `rgdal`, `rgeos`, `raster`, and, since its release, `sf`) as my primary GIS and spatial analysis platform. The prior 17 years I extensively used the ESRI product line including ArcGIS, Arc/INFO, ArcView, ArcIMS and ArcGIS Server, and Geostatistical Analyst.  I have limited experience using GRASS.  
   
   : Statistics
   
