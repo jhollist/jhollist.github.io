@@ -194,9 +194,12 @@ Peer Reviewed Articles
 
   : Submitted
       
+      - Kuhn, A., S. G. Leibowitz, Z. C. Johnson, J. Lin, J. A. Massie, J. W. Hollister, J. L. Ebersole, J. L. Lake, J. R. Serbst, J. James, M. G. Bennett, R. J. Brooks, C. T. Nietch, L. C. Alexander, J. E. Compton. (Submitted). Performance of national maps of watershed integrity at watershed scales. Water. 
+      
+       - Nojavan, F. A., B. J. Kreakie, J. W. Hollister, S. S. Qian. (Submitted). Rethinking the Lake Trophic State Index. Ecological Indicators. [GitHub](https://github.com/USEPA/rethinking_tsi)
+       
       - Raposa, K. B., R. A. McKinney, C. Wigand, J. W. Hollister, C. Lovall, K. Szura, J. A. Gurak Jr., J. McNamee, C. Raithel, and E. B. Watson. (Submitted). Top-down and bottom-up controls on overabundant New England salt marsh crab populations. PeerJ. [GitHub](https://github.com/jhollist/crabs)
       
-      - Nojavan, F. A., B. J. Kreakie, J. W. Hollister, S. S. Qian. (Submitted). Rethinking the Lake Trophic State Index. Ecological Indicators. [GitHub](https://github.com/USEPA/rethinking_tsi)
       
   : 2010 - Present<!--: Accepted -->
   
