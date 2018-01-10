@@ -14,7 +14,7 @@ tagline:          ''
 description:      'Landscape Ecology, Lakes, GIS, R, and Open Science'
 url:              https://jwhollister.com
 enforce_ssl:      jwhollister.com  
-baseurl:          https:://jwhollister.com/
+baseurl:          https://jwhollister.com/
 
 author:
   name:           'Jeffrey W. Hollister'
