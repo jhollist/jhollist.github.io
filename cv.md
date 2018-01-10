@@ -13,7 +13,7 @@ output:
 
 <a id="pdf-link" href="http://jwhollister.com/public/files/cv.pdf">CV in pdf</a>
 
-- updated: 2017-09-21
+- updated: 2017-12-21
 - U.S. Environmental Protection Agency
 - Atlantic Ecology Division
 - 27 Tarzwell Drive
@@ -167,7 +167,7 @@ May 1996 – July 1997
 Jan 2007 – Nov 2016 
   : Adjunct Assistant Professor, University of Rhode Island, Department of Natural Resources Science, Kingston, RI
   
-      - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level [seminar course in Landscape Ecology](http://www.edc.uri.edu/nrs/classes/nrs534/). Course included readings and group discussion of the concepts and principles of landscape ecology.  Also team taught with Drs. Peter V August and Adam Smith, a [scientific computing survey course](http://scicomp2014.edc.uri.edu) focusing on R, version control, and reproducible research.  Provided guest lecture on R in CSC 592 Programming For Scientists during Fall 2014.
+      - Team taught in alternating Spring Semesters, with Dr. Peter V. August, Ecology of Fragmented Landscapes (NRS 534) a graduate level [seminar course in Landscape Ecology](http://www.edc.uri.edu/nrs/classes/nrs534/). Course included readings and group discussion of the concepts and principles of landscape ecology.  Team taught with Drs. Rachel Schwartz and Harrison Dekker, [Special Topics in R](https://rhodyrstats.github.io/special_topics_in_r). Also team taught with Drs. Peter V August and Adam Smith, a [scientific computing survey course](http://scicomp2014.edc.uri.edu) focusing on R, version control, and reproducible research.  Provided guest lecture on R in CSC 592 Programming For Scientists during Fall 2014.
 
 
 Aug 2005 – May 2006 
@@ -190,12 +190,16 @@ May 2003 – Aug 2004
 
 ## Research Products and Presentations
 
-
 Peer Reviewed Articles
 
   : Submitted
       
-      - Nojavan, F. A., B. J. Kreakie, J. W. Hollister, S. S. Qian. (Submitted). Rethinking the Lake Trophic State Index. Ecological Indicators. [GitHub](https://github.com/USEPA/rethinking_tsi)
+      - Kuhn, A., S. G. Leibowitz, Z. C. Johnson, J. Lin, J. A. Massie, J. W. Hollister, J. L. Ebersole, J. L. Lake, J. R. Serbst, J. James, M. G. Bennett, R. J. Brooks, C. T. Nietch, L. C. Alexander, J. E. Compton. (Submitted). Performance of national maps of watershed integrity at watershed scales. Water. 
+      
+       - Nojavan, F. A., B. J. Kreakie, J. W. Hollister, S. S. Qian. (Submitted). Rethinking the Lake Trophic State Index. Ecological Indicators. [GitHub](https://github.com/USEPA/rethinking_tsi)
+       
+      - Raposa, K. B., R. A. McKinney, C. Wigand, J. W. Hollister, C. Lovall, K. Szura, J. A. Gurak Jr., J. McNamee, C. Raithel, and E. B. Watson. (Submitted). Top-down and bottom-up controls on overabundant New England salt marsh crab populations. PeerJ. [GitHub](https://github.com/jhollist/crabs)
+      
       
   : 2010 - Present<!--: Accepted -->
   
@@ -203,9 +207,9 @@ Peer Reviewed Articles
   
        - Chamberlain, S, and J.W. Hollister (2017). lawn: R Client for turf.js for Geospatial Analysis. Version 0.3.3. Journal of Open Source Software 2:11. [10.21105/joss.00194](http://dx.doi.org/10.21105/joss.00194)  [CRAN](https://cran.r-project.org/package=lawn) [GitHub](https://github.com/ropensci/lawn) 
        
-       - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (2016). Ten simple rules for digital data storage. PLoS Computational Biology. e1005097.  [10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097) [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2)
+       - Hart, E., Barmby, P., LeBauer, D., Michonneau, F., Mount, S., Mulrooney, P., Poisot, T., Woo, K.H., Zimmerman, N., Hollister, J. W. (2016). Ten simple rules for digital data storage. PLoS Computational Biology. e1005097.  [10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097) [pre-print](https://doi.org/10.7287/peerj.preprints.1448v2) [GitHub](https://github.com/emhart/10-simple-rules-data-storage)
   
-      - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3  [10.1002/ecs2.1321](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/full). [pdf](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/pdf) [GitHub](https://github.com/USEPA/LakeTrophicModelling) [pre-print](http://dx.doi.org/10.7287/peerj.preprints.1319v2)
+      - Hollister, J. W., W. B . Milstead, B. J. Kreakie. (2016). Modeling Lake Trophic State: A Random Forest Approach. Ecosphere 7:3  [10.1002/ecs2.1321](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/full). [pdf](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1321/pdf)  [pre-print](http://dx.doi.org/10.7287/peerj.preprints.1319v2) [GitHub](https://github.com/USEPA/LakeTrophicModelling)
   
       - Hollister, J.W., B.J. Kreakie (2016). Associations between Chlorophyll a and various Microcystin-LR Health Advisory Concentrations. F1000Research 5:151  [10.12688/f1000research.7955.2](https://dx.doi.org/10.12688/f1000research.7955.2). [pdf](http://f1000research.com/articles/5-151/v2/pdf) [GitHub](https://github.com/USEPA/microcystinchla)
    
@@ -304,75 +308,87 @@ Software and Repositories
 Bootcamps, Workshops, and Panels
   : 2010 - Present
   
-      - Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Rachel Schwartz.  University of Rhode Island Coastal Institute, Narragansett, RI.  June 07-08, 2017.  [web](http://rhodyrstats.org/2017-06-07-uri/)
+      - Hollister, J. W. and M. Beck. (2017). Introduction to R for Analysis of Coastal and Estuarine Data. Coastal and Estuarine Research Fedaration Annual Meeting, Providence, RI.  November 2017. [Web](http://www.erf.org/introduction-to-r-for-analysis-of-coastal-and-estuarine-data) and [Web Materials](https://usepa.github.io/cerf_r)
       
-      - Introduction to R Workshop. Co-hosted with Stephen Krabbe(USEPA Region 7).  US EPA Region 7 Regional Laboratory.  Kansas City, KS.  February 2017. [GitHub](https://github.com/usepa/region7_r)  
+      - Hollister, J. W. (2017). R-a-palooza: Introduction to R, Reproducible Research with R, and Spatial analysis/GIS with R.  Co-hosted with Stephen KRabbe (USEPA Region 7). US EPA Region 7 Laboratory and Regional Offices.  Kansas City, KS and Lenexa, KS.  October 2017. [GitHub](https://github.com/USEPA/region7_r/)
       
-      - rhodyRstats Introduction to R Workshop. Co-hosted with rhodyRstats and URI Coastal Institute. University of Rhode Island Coastal Institute, Narragansett, RI. Jan 19, 2017 [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
-      
-      - Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Ryan Peek.  University of Rhode Island Coastal Institute, Narragansett, RI.  Aug 29-30, 2016.  [web](http://rhodyrstats.org/2016-08-29-uri)
-      
-      - Introduction to R.  US EPA Atlantic Ecology Division.  Narragansett, RI, July 2016 [GitHub](https://github.com/USEPA/aed_r/tree/master/workshop)
-      
-      - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1) and Katrina Kipp (USEPA/Region 1). US EPA New England Regional Laboratory. Chelmsford, MA. June 2016. [GitHub](https://github.com/USEPA/region1_r)
-      
-      - Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1). US EPA Region 1 Headquarters.  Boston, MA. May 2016. [GitHub](https://github.com/USEPA/region1_r)
+      - Hollister, J. W. (2017). Spatial Analysis/GIS with R. Workshop at USEPA R User Group Workshop, Washington, DC. Sep 11- 13, 2017. [GitHub](https://github.com/usepa/rspatial_workshop)
   
-      - Introduction to GIS with R.  Co-hosted with Sandra Gaona (USEPA/OEI), Shea Caspersen (USEPA/OEI) and Paul Stey (USEPA/OECA).  US EPA. Washington, DC. March 2016. [GitHub](https://github.com/USEPA/intro_gis_with_r)
+      - Schwartz, R. S. and J. W. Hollister. (2017). Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Rachel Schwartz.  University of Rhode Island Coastal Institute, Narragansett, RI.  June 07-08, 2017.  [web](http://rhodyrstats.org/2017-06-07-uri/)
       
-      - rhodyRstats Intro to R Workshop.  Co-Hosted with J. Swift and P. V. August. University of Rhode Island Coastal Institute. Narragansett, RI. January 2016. [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
+      - Hollister, J. W. (2017). Introduction to R Workshop. Co-hosted with Stephen Krabbe(USEPA Region 7).  US EPA Region 7 Regional Laboratory.  Kansas City, KS.  February 2017. [GitHub](https://github.com/USEPA/region7_r/blob/master/README_feb_2017.md)  
       
-      - Federal Agency Networking Session. Invited panelist.  Organizers: Alan Wilson, Henry Gholz, and Daniel B. Stover. 100th Annual Ecological Society of America meeting.  Baltimore, MD. August 2015.
+      - Hollister, J. W. (2017). rhodyRstats Introduction to R Workshop. Co-hosted with rhodyRstats and URI Coastal Institute. University of Rhode Island Coastal Institute, Narragansett, RI. Jan 19, 2017 [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
       
-      - An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015. [web](http://jwhollister.com/iale_open_science)
+      - Peek, R. and J. W. Hollister (2016). Data Carpentry Workshop. Co-hosted with rhodyRstats and URI Coastal Institute.  Co-taught with Ryan Peek.  University of Rhode Island Coastal Institute, Narragansett, RI.  Aug 29-30, 2016.  [web](http://rhodyrstats.org/2016-08-29-uri)
       
-      - Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Jan 2015  [web](https://github.com/USEPA/introR)
+      - Hollister, J. W. (2016). Introduction to R.  US EPA Atlantic Ecology Division.  Narragansett, RI, July 2016 [GitHub](https://github.com/USEPA/aed_r/tree/master/workshop)
       
-      - Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015.  [web](https://github.com/USEPA/introR)
+      - Hollister, J. W. (2016). Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1) and Katrina Kipp (USEPA/Region 1). US EPA New England Regional Laboratory. Chelmsford, MA. June 2016. [GitHub](https://github.com/USEPA/region1_r)
       
-      - Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Dec 2014  [web](https://github.com/USEPA/introR)
+      - Hollister, J. W. (2016). Introduction to R. Co-hosted with Erik Beck (USEPA/Region 1). US EPA Region 1 Headquarters.  Boston, MA. May 2016. [GitHub](https://github.com/USEPA/region1_r)
+  
+      - Hollister, J. W. (2016). Introduction to GIS with R.  Co-hosted with Sandra Gaona (USEPA/OEI), Shea Caspersen (USEPA/OEI) and Paul Stey (USEPA/OECA).  US EPA. Washington, DC. March 2016. [GitHub](https://github.com/USEPA/intro_gis_with_r)
       
-      - Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014.  [web](https://github.com/iglpdc/2014-01-13-uri) 
+      - Hollister, J. W. (2016). rhodyRstats Intro to R Workshop.  Co-Hosted with J. Swift and P. V. August. University of Rhode Island Coastal Institute. Narragansett, RI. January 2016. [GitHub](https://github.com/rhodyrstats/intro_r_workshop)
       
-      - R for Spatial Data Management and Analysis. Presented during Student Workshop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013.  [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
+      - Wilson, A. et. al. (2015). Federal Agency Networking Session. Invited panelist.  Organizers: Alan Wilson, Henry Gholz, and Daniel B. Stover. 100th Annual Ecological Society of America meeting.  Baltimore, MD. August 2015.
+      
+      - Hollister, J. W., B. J. Kreakie, W. B. Milstead, and S. Chamberlain (2015). An Open Science And Reproducible Research Primer For Landscape Ecologists.  Co-presented with W. B. Milstead, B. J. Kreakie, and S. Chamberlain.  International Association for Landscape Ecology World Congress. Portland, OR. July 2015. [web](http://jwhollister.com/iale_open_science)
+      
+      - Hollister, J. W. (2015). Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Jan 2015  [web](https://github.com/USEPA/introR)
+      
+      - Hollister, J. W. and M. Beck (2015). Introduction to R Workshop. USEPA Gulf Ecology Division. Gulf Breeze, FL. Jan 2015.  [web](https://github.com/USEPA/introR)
+      
+      - Hollister, J. W. (2015). Introduction to R Workshop. USEPA Atlantic Ecology Division. Narragansett, RI Dec 2014  [web](https://github.com/USEPA/introR)
+      
+      - Gonzalez, I., P. Fuller, and J. W. Hollister (2014). Software Carpentry Bootcamp. Co-hosted with J. Swift and P. V. August. Co-taught with P. Fuller and I. Gonzalez. University of Rhode Island Coastal Institute. Narragansett, RI. January 2014.  [web](https://github.com/iglpdc/2014-01-13-uri) 
+      
+      - Hollister, J. W. (2013). R for Spatial Data Management and Analysis. Presented during Student Workshop, US Chapter of the International Association for Landscape Ecology Annual Meeting, Austin, TX. April 2013.  [web](https://sites.google.com/site/ialestudentworkshop/) [slides](http://figshare.com/articles/USIALE_2013_Student_Workshop_Presentation_R_for_Spatial_Data_Management_and_Analysis/796398) [code/data](http://figshare.com/articles/USIALE_2013_Student_Workshop_Materials_R_for_Spatial_Data_Analysis/796429).
       
   : 2000 - 2009
   
-      - Job Hunting Experiences of Recent Graduates in Landscape Ecology. Co-organized with A. T. Morzillo US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
+      - Morzillo, A. T., and J. W. Hollister. (2007). Job Hunting Experiences of Recent Graduates in Landscape Ecology. Co-organized with A. T. Morzillo US Chapter of the International Association for Landscape Ecology Annual Meeting, Tucson, AZ. April 2007.
       
-      - Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
+      - Paul, J. F. and J. W. Hollister. (2006). Conditional Probability Analysis: Demonstration using R and R-Excel. Co-presented with J. F. Paul Workshop for Developing Suspended and Bedded Sediment Water Quality Criteria, Arlington, VA. November 2006.
       
-      - Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002.  [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
+      - Hollister, J. W. (2002). Spatial Analysis Workshop. Invited workshop on Spatial Statistics and Spatial Analysis for St. Lawrence University Faculty and Staff. St. Lawrence University, Canton, NY. December 2002.  [slides](http://files.figshare.com/1829425/sluSpatialWorkshop.pdf)
 
 
 Seminars and Presentations
   : 2010 - Present
       
-      - Hollister, J. W. F. Nojava A., B. J. Kreakie. An Open Science Approach to Modeling and Visualizing Cyanobacteria Blooms in Lakes and Ponds. American Association of Geographsers Annual Meeting. April 2017, Boston, MA.
+      - Hollister, J. W. and B. J. Kreakie. (2017). Using Chlorophyll *a* as a surrogate for exceeding Microcystin Health Advisory Concentrations.  Cyanobacteria - Monitoring and Treating Drinking Water: A Workshop for Water Suppliers.  December 2017. Worcester, MA. [slides](http://jwhollister.com/microcystin_chla_talk)
       
-      - Nojavan, F., B. J. Kreakie, J. W. Hollister. A Bayesian Multilevel Model for Microcystin Prediction in Lakes of the Continental United States. American Association of Geographers Annual Meeting. April 2017, Boston, MA.
+      - Hollister, J. W. (2017). An Open Science Framework for Research on Cyanobacteria in Lakes and Ponds.  US EPA Region 7 Regional Office, October 2017. Lenexa, KS. [slides](https://jwhollister.com/cyano_open_sci)
       
-      - Nojavan A., F., B. J. Kreakie, J. W. Hollister, S.S. Qian, Assessing Lake Trophic Status: A Proportional Odds Logistic Regression Model. The Association for the Sciences of Limnology and Oceanography (ASLO) Annual Meeting. June 2016, Santa Fe, NM.
+      - Hollister, J. W. (2017). R packages as a reproducible framework for lake and cyanobacteria research.  US EPA R User Group Annual Meeting. September 2017. Washington, DC. [slides](https://usepa.github.io/reproducible_lakes/)
       
-      - Kreakie, B. J., F. Nojavan A., J. W. Hollister, W. B. Milstead. Computational Approaches to Predict Indices of Cyanobacteria Toxicity, National Water Quality Monitoring Council (NWQMC) Annual Meeting. May 2016, Tampa, FL.
+      - Hollister, J. W. F. Nojava A., B. J. Kreakie. (2017). An Open Science Approach to Modeling and Visualizing Cyanobacteria Blooms in Lakes and Ponds. American Association of Geographsers Annual Meeting. April 2017, Boston, MA. [slides](https://usepa.github.io/cyano_open_sci_aag/)
       
-      - Kreakie, B. J., S. Ernst, T. Hollenhorst, J.W. Hollister, W.B. Milstead, and H. Snook. cyanoScope: Mapping cyanobacteria one slide at a time. New England Association of Environmental Biologists (NEAEB) Annual Meeting. February 2016, Rockport, ME.
+      - Nojavan, F., B. J. Kreakie, J. W. Hollister. (2017). A Bayesian Multilevel Model for Microcystin Prediction in Lakes of the Continental United States. American Association of Geographers Annual Meeting. April 2017, Boston, MA.
+      
+      - Nojavan A., F., B. J. Kreakie, J. W. Hollister, S.S. Qian. (2016). Assessing Lake Trophic Status: A Proportional Odds Logistic Regression Model. The Association for the Sciences of Limnology and Oceanography (ASLO) Annual Meeting. June 2016, Santa Fe, NM.
+      
+      - Kreakie, B. J., F. Nojavan A., J. W. Hollister, W. B. Milstead. (2016). Computational Approaches to Predict Indices of Cyanobacteria Toxicity, National Water Quality Monitoring Council (NWQMC) Annual Meeting. May 2016, Tampa, FL.
+      
+      - Kreakie, B. J., S. Ernst, T. Hollenhorst, J.W. Hollister, W.B. Milstead, and H. Snook. (2016). cyanoScope: Mapping cyanobacteria one slide at a time. New England Association of Environmental Biologists (NEAEB) Annual Meeting. February 2016, Rockport, ME.
      
-      - Hollister, J. W. Spatial Data Analysis in R: Lightning Demo! Lightning Talk at Northeast Arc Users Group Fall Meeting, November 2015, Burlington, VT.  [GitHub](https://github.com/jhollist/rgis_lightning_demo).
+      - Hollister, J. W. (2015). Spatial Data Analysis in R: Lightning Demo! Lightning Talk at Northeast Arc Users Group Fall Meeting, November 2015, Burlington, VT.  [GitHub](https://github.com/jhollist/rgis_lightning_demo).
       
-      - Hollister, J. W. Open Science: A Zealot's View.  Invited Symposium Speaker, "Emerging Issues and Novel Technologies in Coastal Ecosystem Science", New England Estuarine Research Society Spring Meeting, April 2015, Bristol, RI. [slides](open_science_neers/) 
+      - Hollister, J. W. (2015). Open Science: A Zealot's View.  Invited Symposium Speaker, "Emerging Issues and Novel Technologies in Coastal Ecosystem Science", New England Estuarine Research Society Spring Meeting, April 2015, Bristol, RI. [slides](open_science_neers/) 
       
-      - Kreakie, B. J., F. Nojavan, J. W. Hollister When Green Goes Bad: A Computational Ecology Approach to a Better Understanding of Cyanobacteria, Nutrients, and Lakes. USEPA Office of Water Oceans, and Wetlands Cyanobacteria webinar series. October 2014.  [web](http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=292834) [slides](http://figshare.com/articles/When_Green_Goes_Bad_A_Computational_Ecology_Approach_to_a_better_Understanding_of_Cyanobacteria_Nutrients_and_Lakes/1243644).
+      - Kreakie, B. J., F. Nojavan, J. W. Hollister. (2014). When Green Goes Bad: A Computational Ecology Approach to a Better Understanding of Cyanobacteria, Nutrients, and Lakes. USEPA Office of Water Oceans, and Wetlands Cyanobacteria webinar series. October 2014.  [web](http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=292834) [slides](http://figshare.com/articles/When_Green_Goes_Bad_A_Computational_Ecology_Approach_to_a_better_Understanding_of_Cyanobacteria_Nutrients_and_Lakes/1243644).
       
-      - Kreakie, B. J., W. B. Milstead, J. W. Hollister.  When Green Goes Bad: An Interdisciplinary Approach to Better Understand Cyanobacteria, Nutrients, and Lakes. USEPA Safe and Sustainable Water Resources Webinar Series. June 2014.  [web](http://www2.epa.gov/water-research/when-green-goes-bad-interdisciplinary-approach-better-understand-cyanobacteria).
+      - Kreakie, B. J., W. B. Milstead, J. W. Hollister. (2014).  When Green Goes Bad: An Interdisciplinary Approach to Better Understand Cyanobacteria, Nutrients, and Lakes. USEPA Safe and Sustainable Water Resources Webinar Series. June 2014.  [web](http://www2.epa.gov/water-research/when-green-goes-bad-interdisciplinary-approach-better-understand-cyanobacteria).
       
-      - Kreakie, B. J., W. B. Milstead, J. W. Hollister. Combined Influence of Landscape Composition and Nutrient Inputs on Lake Trophic Structure. US Chapter of the International Association for Landscape Ecology Annual Meeting, Anchorage, AK. May 2014.
+      - Kreakie, B. J., W. B. Milstead, J. W. Hollister. (2014). Combined Influence of Landscape Composition and Nutrient Inputs on Lake Trophic Structure. US Chapter of the International Association for Landscape Ecology Annual Meeting, Anchorage, AK. May 2014.
       
-      - Hollister, J. W. Blogging, Social Media, and Science: EPA Edition. Presentation given at USEPA Atlantic Ecology Division. March 2014.  [slides](epablogpresent/).
+      - Hollister, J. W. (2014). Blogging, Social Media, and Science: EPA Edition. Presentation given at USEPA Atlantic Ecology Division. March 2014.  [slides](epablogpresent/).
       
-      - Hollister, J. W.  Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012.  [slides](http://files.figshare.com/1829418/jwhLODPresent08152012_v2.pdf).
+      - Hollister, J. W. (2012). Who am I and Why am I here: Lakes, Linked Data, and R  Invited presentation to Data.gov Semantic Web and Linked Data working group.  Aug 2012.  [slides](http://files.figshare.com/1829418/jwhLODPresent08152012_v2.pdf).
       
-      - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011.  [slides](http://files.figshare.com/1829419/jwhWCSUSeminar_v3.pdf).
+      - Hollister, J.W., W. B. Milstead, K. C. Hychka, H.A. Walker, J. L. Copeland. (2011). Nutrients, Ecosystem Services, and Human Health in Northeastern Lakes and Ponds. Invited Seminar at Western Connecticut State University, Dept of Biology Seminar Series. 30 November, 2011.  [slides](http://files.figshare.com/1829419/jwhWCSUSeminar_v3.pdf).
 
   : 2000 - 2009
   
@@ -461,7 +477,7 @@ Posters
 Programming
   : R  
   
-      - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with two on CRAN ([quickmapr](https://cran.r-project.org/web/packages/quickmapr/index.html) and [lakemorpho](https://cran.r-project.org/web/packages/lakemorpho/index.html)) and several in development on [GitHub](https://github.com/jhollist). I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
+      - I started using R in 2003 for data analysis and have been using it daily for basic computing and programming tasks since 2011.  I have created packages with four on CRAN ([quickmapr](https://cran.r-project.org/web/packages/quickmapr/index.html), [lakemorpho](https://cran.r-project.org/web/packages/lakemorpho/index.html), [elevatr](https://cran.r-project.org/web/packages/elevatr/index.html), and [lawn](https://cran.r-project.org/web/packages/lawn/index.html)) and several in development on [GitHub](https://github.com/jhollist). I co-moderate (with Sarah Goslee) the R-SIG-Ecology mailing list, and have taught several classes/workshops on R.  I am the lead maintainer of [rOpenSci's Maptools CRAN Taskview](https://github.com/ropensci/maptools), I contribute to both the development of [lawn: an R client for turf.js](https://github.com/ropensci/lawn) and the [Reproducibility Guide](http://ropensci.github.io/reproducibility-guide/).
   
   : Web
   
@@ -483,7 +499,7 @@ Programming
 Data Management and Analysis
   : GIS
   
-      - Since 2012, I have used R (with `sp`, `rgdal`, `rgeos`, and `raster`) as my primary GIS and spatial analysis platform. The prior 17 years I extensively used the ESRI product line including ArcGIS, Arc/INFO, ArcView, ArcIMS and ArcGIS Server, and Geostatistical Analyst.  I have limited experience using GRASS.  
+      - Since 2012, I have used R (with `sp`, `rgdal`, `rgeos`, `raster`, and, since its release, `sf`) as my primary GIS and spatial analysis platform. The prior 17 years I extensively used the ESRI product line including ArcGIS, Arc/INFO, ArcView, ArcIMS and ArcGIS Server, and Geostatistical Analyst.  I have limited experience using GRASS.  
   
   : Statistics
   
