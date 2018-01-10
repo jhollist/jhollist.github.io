@@ -2,7 +2,7 @@
 layout: post
 title: "Setting up an Asus Flip C302CA Chromebook for R Development"
 tags: ['chromeOS','Chromebook','crouton','xiwi','RStudio']
-categories: ['R']
+categories: ['R','r']
 ---
 
 
