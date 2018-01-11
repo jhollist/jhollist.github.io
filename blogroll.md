@@ -7,6 +7,7 @@ title: Blog Roll
 >
 > -- <cite>The most interesting man in the world (not really)</cite>
 
+- [R Weekly](https://rweekly.org/)
 - [Dynamic Ecology](https://dynamicecology.wordpress.com/)
 - [From the bottom of the heap](http://www.fromthebottomoftheheap.net/)
 - [Living in and Ivory Basement](http://ivory.idyll.org/blog/)
