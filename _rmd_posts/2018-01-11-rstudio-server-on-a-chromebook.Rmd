@@ -103,3 +103,5 @@ Oh, and don't forget to configure git!
 git config --global user.name "Your Name"
 git config --global user.email "your.email@email.com"
 ```
+
+Lastly, the shutdown process is not super smooth on this (only problem I have identified so far).  When your chromebook sleeps, or you shut down the chroot, etc. The R sessions and RStudio get confused and I am no longer able to switch between projects.  It fails by just keeping you at your root.  If you don't use projects then this might not be an issue (but you do risk the [arsonistic ire of Jenny Bryan](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)).  If you do use projects this is a problem.  I did find a very simple workaround for when this happens.  All you need to do is start a new session.  This can be done with the little red power button icon in the upper right corner of the window or with File:Quit Session.
