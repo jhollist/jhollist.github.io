@@ -10,7 +10,7 @@ categories: ['r']
 1. set up chroot
 
 ```
-sudo sh ~/Downloads/crouton -t cli-extra -n rstudio
+sudo sh ~/Downloads/crouton -t core,cli-extra -n rstudio
 ```
 2. install R
 
@@ -47,6 +47,12 @@ Then in your browser you can access your RStudio Server with `localhost:8787`
 
 5. draw the rest of f***ing owl
 
+add ubuntugis
+```
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo apt-get update
+```
+
 ```
 sudo locale-gen "en_US.UTF-8"
 sudo dpkg-reconfigure locales
@@ -62,7 +68,24 @@ sudo apt-get install libssh2-1-dev
   
 6. day to day use
 
-There is a way to have your chroot automatically boot with Chrome OS.  I couldnt get it working.  So simplest solution is to:
+There is a way to have your chroot automatically boot with Chrome OS.  I couldnt get it working, but made some progress.
+
+```
+sudo visudo
+
+#Add this line
+%sudo ALL=NOPASSWD: /usr/sbin/rstudio-server
+```
+
+Important part of this is use visudo and add the line above after
+
+```
+# Allow members of groups sudo to execute any command
+%sudo   ALL=(ALL:ALL) ALL
+```
+
+
+Without automagic, simplest solution is to:
 
 - start up your chromebook
 - open crosh - ctrl-alt-t
@@ -77,6 +100,10 @@ I have to think there is a way to have to have the chroot start with Chrome OS a
 The first time I get RStudio open I want to install all my usual suspects.  With this set up I had no issues installing the following
 
 ```
+pkgs <- c("devtools","tidyverse","sf","raster","mapview","sp","rgdal","rgeos","roxygen2")
+
+lapply(pkgs, install.packages()
+
 install.packages("devtools")
 install.packages("tidyverse")
 install.packages("sf")
