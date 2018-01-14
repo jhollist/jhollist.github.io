@@ -43,6 +43,7 @@ Again, I am not sure if there is a downside (or upside) for using one over the o
 
 ## Install R
 
+With a shiny new chroot started, we can now start all of our installs.  First one is R.
 
 ```
 sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
@@ -51,7 +52,10 @@ gpg -a --export E084DAB9 | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install r-base r-base-dev
 ```
+
 ## Install RStudio Server
+
+Next, we need to install RStudio Server.  This grabs the latest and greatest version as of January 2018.  I choose to delete the `.deb` just to keep the footprint of this thing to a minimum.  
 
 ```
 sudo apt-get install gdebi-core
@@ -61,6 +65,8 @@ rm rstudio-server-1.1.383-amd64.deb
 ```
 
 ## Open up firewall
+
+Since we are wanting
 
 ```
 sudo apt-get install nano
