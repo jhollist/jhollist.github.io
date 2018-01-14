@@ -66,7 +66,7 @@ rm rstudio-server-1.1.383-amd64.deb
 
 ## Open up firewall
 
-Since we are wanting
+Since this is RStudio server, we will be accessing it via Chrome and will need to make sure the requests get through the chroot's firewall.  We need to open that up to do so.  I include the `nano` install because it is a little easier to work with than `vim`.   
 
 ```
 sudo apt-get install nano
