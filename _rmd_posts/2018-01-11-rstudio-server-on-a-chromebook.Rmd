@@ -17,16 +17,13 @@ The long and short of it is that it is pretty easy to get set up (if you are com
 
 So enough yammering, how do you do it?
 
+## Install crouton and set up your chroot
 
-
-# Notes for setting up RStudio Server in a chroot
-
-1. set up chroot
 
 ```
 sudo sh ~/Downloads/crouton -t core,cli-extra -n rstudio
 ```
-2. install R
+## Install R
 
 ```
 sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
@@ -35,7 +32,7 @@ gpg -a --export E084DAB9 | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install r-base r-base-dev
 ```
-3. install RStudio Server
+## Install RStudio Server
 
 ```
 sudo apt-get install gdebi-core
@@ -44,7 +41,7 @@ sudo gdebi rstudio-server-1.1.383-amd64.deb
 rm rstudio-server-1.1.383-amd64.deb
 ```
 
-4. open up firewall
+## Open up firewall
 
 ```
 sudo apt-get install nano
@@ -52,14 +49,14 @@ sudo nano /etc/rc.local
 ```
 Then add `/sbin/iptables -I INPUT -p tcp --dport 8787 -j` to the end of the file
 
-5. get RStudio server running and access it
+## Get RStudio server running and access it
 
 ```
 sudo rstudio-server start
 ```
 Then in your browser you can access your RStudio Server with `localhost:8787`
 
-5. draw the rest of f***ing owl
+## Draw the rest of f***ing owl
 
 add ubuntugis
 ```
@@ -80,69 +77,38 @@ sudo apt-get install git
 sudo apt-get install libssh2-1-dev
 ```
   
-6. day to day use
+# Day to day use
 
-There is a way to have your chroot automatically boot with Chrome OS.  I couldnt get it working, but made some progress.
-
-```
-sudo visudo
-
-#Add this line
-%sudo ALL=NOPASSWD: /usr/sbin/rstudio-server
-```
-
-Important part of this is use visudo and add the line above after
-
-```
-# Allow members of groups sudo to execute any command
-%sudo   ALL=(ALL:ALL) ALL
-```
+There is a way to have your chroot automatically boot with Chrome OS and RStudio Server is supposed to start on boot.  For some reason, the server wasn't kicking off when I started up the chroot.  I didn't track this down so don't know if it will work.  Seems like with some hacking it should.  
 
 
-Without automagic, simplest solution is to:
+So without everything starting automagicaly, the simplest solution is to:
 
 - start up your chromebook
 - open crosh - ctrl-alt-t
 - type `shell`
-- type `sudo startcli`
+- type `sudo startcli` or `sudo enter-chroot`
 - type `sudo rstudio-server start`
+- type `localhost:8787` into a broswer tab.
 
-You will need to leave this tab open, otherwise it shuts down the chroot and your RStudio Server.
-
-I have to think there is a way to have to have the chroot start with Chrome OS and have the server automatically start with the chroot.  Leave that for another day!
+You will need to leave the tab your chroot is running in, otherwise it shuts down the chroot and your RStudio Server.
 
 The first time I get RStudio open I want to install all my usual suspects.  With this set up I had no issues installing the following
 
 ```
-pkgs <- c("devtools","tidyverse","sf","raster","mapview","sp","rgdal","rgeos","roxygen2")
+pkgs <- c("devtools","tidyverse","sf","raster","mapview","sp","rgdal","rgeos","roxygen2", "blogdown")
 
 lapply(pkgs, install.packages()
-
-install.packages("devtools")
-install.packages("tidyverse")
-install.packages("sf")
-install.packages("raster")
-install.packages("mapview")
-install.packages("sp")
-install.packages("rgdal")
-install.packages("rgeos")
-install.packages("roxygen2")
 ```
 
-Then my own just to have them
-
-```
-devtools::install_github("jhollist/miscPackage")
-install.packages("lakemorpho")
-install.packages("quickmapr")
-install.packages("elevatr")
-```
-
-Oh, and don't forget to configure git!
+I then install my own packages, just so I have them handy, and then I configure git.  
 
 ```
 git config --global user.name "Your Name"
 git config --global user.email "your.email@email.com"
+git config --global credential.helper 'cache --timeout=28800'
 ```
 
 Lastly, the shutdown process is not super smooth on this (only problem I have identified so far).  When your chromebook sleeps, or you shut down the chroot, etc. The R sessions and RStudio get confused and I am no longer able to switch between projects.  It fails by just keeping you at your root.  If you don't use projects then this might not be an issue (but you do risk the [arsonistic ire of Jenny Bryan](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)).  If you do use projects this is a problem.  I did find a very simple workaround for when this happens.  All you need to do is start a new session.  This can be done with the little red power button icon in the upper right corner of the window or with File:Quit Session.
+
+So, there you have it.  RStudio on a chromebook via RStudio Server running in a chroot!  I am now very happy with the set-up and fully expect to stick with the Chromebook for some time to come.
