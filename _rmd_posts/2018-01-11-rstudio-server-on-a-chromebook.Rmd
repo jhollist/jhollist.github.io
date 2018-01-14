@@ -19,11 +19,30 @@ So enough yammering, how do you do it?
 
 ## Install crouton and set up your chroot
 
+There are a lot of great resources for installing crouton so no need for me to go over that again.  In particular take a look at [Jenny Bryan's notes](https://github.com/jennybc/operation-chromebook) and the [crouton repository](https://github.com/dnschneid/crouton)
+
+For RStudio Server we don't need a full desktop so I decided to try this with a minimal install.  I chose core and cli-extra because, frankly, I didn't know the difference between the two and was just playing it safe.  You can choose to encrypt the chroot or not.  I didn't as I was playing around with auto-starting the chroot when Chrome OS starts ([see here for more on that](https://github.com/dnschneid/crouton/wiki/Autostart-crouton-chroot-at-ChromeOS-startup)).  Never got that part of it working right, but more on that later.
+
+Anyway, here is what I used to get my chroot set up.
 
 ```
 sudo sh ~/Downloads/crouton -t core,cli-extra -n rstudio
 ```
+
+Once that finishes (it takes a while), you can hop into the chroot with
+
+```
+sudo enter-chroot
+
+#or
+
+sudo startcli
+```
+
+Again, I am not sure if there is a downside (or upside) for using one over the other.
+
 ## Install R
+
 
 ```
 sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
