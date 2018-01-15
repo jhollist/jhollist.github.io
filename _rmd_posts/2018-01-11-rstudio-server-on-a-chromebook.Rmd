@@ -100,6 +100,7 @@ get_rstudio_server <- function(arch = c("amd64","i386","i686","x86_64"),
 }
 
 ```
+
 ## Open up firewall
 
 Since this is RStudio server, we will be accessing it via Chrome and will need to make sure the requests get through the chroot's firewall.  We need to open that up to do so.  I include the `nano` install because it is a little easier to work with than `vim`.   
@@ -119,33 +120,58 @@ Then in your browser you can access your RStudio Server with `localhost:8787`
 
 ## Draw the rest of f***ing owl
 
-add ubuntugis
+Apologies if you have seen the ["how to draw an owl" meme](http://knowyourmeme.com/memes/how-to-draw-an-owl).  It feels appropriate at this point.  What follows are all the things I had to add to get up and running with my standard set-up.
+
+First, let's change the locale and add some needed tools
+
+```
+sudo locale-gen "en_US.UTF-8"
+sudo dpkg-reconfigure locales
+sudo apt-get install software-properties-common libxslt1-dev libcurl4-openssl-dev libssl-dev libssh2-1-dev
+```
+
+Next I needed to add the Ubuntu GIS repositories so I can get the up to date versions of [GDAL](), [GEOS](), etc.
+
 ```
 sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo apt-get update
 ```
 
+And add my GISy libraries 
+
 ```
-sudo locale-gen "en_US.UTF-8"
-sudo dpkg-reconfigure locales
-sudo apt-get install software-properties-common
-sudo apt-get install libxslt-dev libcurl4-openssl-dev libssl-dev
-sudo apt-get update
-sudo apt-get install libgdal-dev libproj-dev
-sudo apt-get install libudunits2-dev
+sudo apt-get install libgdal-dev libproj-dev libudunits2-dev
+```
+
+Then we can add LaTeX
+
+```
 sudo apt-get install texlive texlive-latex-extra texlive-pictures
-sudo apt-get install git
-sudo apt-get install libssh2-1-dev
 ```
-  
-# Day to day use
+
+In my experience this is close to the minimal install that will work with pandoc, R Markdown, etc.
+
+Lastly, some version control!
+
+```
+sudo apt-get install git
+```
+
+And then I configure git.  
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "your.email@email.com"
+git config --global credential.helper 'cache --timeout=28800'
+```
+## Day to day use
 
 There is a way to have your chroot automatically boot with Chrome OS and RStudio Server is supposed to start on boot.  For some reason, the server wasn't kicking off when I started up the chroot.  I didn't track this down so don't know if it will work.  Seems like with some hacking it should.  
 
 
-So without everything starting automagicaly, the simplest solution is to:
+So given that I couldn't get everything starting automagicaly, the simplest solution I came up with is to:
 
-- start up your chromebook
+- start up my chromebook
 - open crosh - ctrl-alt-t
 - type `shell`
 - type `sudo startcli` or `sudo enter-chroot`
@@ -162,14 +188,11 @@ pkgs <- c("devtools","tidyverse","sf","raster","mapview","sp","rgdal","rgeos","r
 lapply(pkgs, install.packages()
 ```
 
-I then install my own packages, just so I have them handy, and then I configure git.  
+I then install my own packages, just so I have them handy
 
-```
-git config --global user.name "Your Name"
-git config --global user.email "your.email@email.com"
-git config --global credential.helper 'cache --timeout=28800'
-```
 
-Lastly, the shutdown process is not super smooth on this (only problem I have identified so far).  When your chromebook sleeps, or you shut down the chroot, etc. The R sessions and RStudio get confused and I am no longer able to switch between projects.  It fails by just keeping you at your root.  If you don't use projects then this might not be an issue (but you do risk the [arsonistic ire of Jenny Bryan](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)).  If you do use projects this is a problem.  I did find a very simple workaround for when this happens.  All you need to do is start a new session.  This can be done with the little red power button icon in the upper right corner of the window or with File:Quit Session.
+## One little hiccup
+
+The shutdown process is not super smooth on this (only problem I have identified so far).  When your chromebook sleeps, or you shut down the chroot, etc. The R session and RStudio get confused.  A scary error will pop-up when you try to get backin in and at this point, I can no longer switch between projects.  When you select a new project it looks like it is switching, but ends keeping you at your root without a project.  If you don't use projects then this might not be an issue (but you do risk the [arsonistic ire of Jenny Bryan](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)).  If you do use projects this is a problem.  I did find a very simple workaround for when this happens.  All you need to do is start a new session.  This can be done with the little red power button icon in the upper right corner of the window or with File:Quit Session.
 
 So, there you have it.  RStudio on a chromebook via RStudio Server running in a chroot!  I am now very happy with the set-up and fully expect to stick with the Chromebook for some time to come.
