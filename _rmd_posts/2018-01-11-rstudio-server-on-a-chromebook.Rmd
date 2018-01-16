@@ -66,7 +66,7 @@ sudo gdebi rstudio-server-1.1.383-amd64.deb
 rm rstudio-server-1.1.383-amd64.deb
 ```
 
-As an aside, I got distracted when I started working on this section.  I wanted to be able to download the current version of RStudio Server without actually knowing what that version was.  Luckily, RStudio lists those as `XML` at <https://downloads2.rstudio.org>.  Unluckily, I know next to nothing about working with `XML` so this code certainly reflects that as I convert to string and parse that for the current version.  If you are interested, here's the function that gets the current version of RStudio Server.
+As an aside, I got distracted when I started working on this section.  I wanted to be able to download the current version of RStudio Server without actually knowing what that version was.  Luckily, RStudio lists those as `XML` at <https://downloads2.rstudio.org>.  Unluckily, I know next to nothing about working with `XML` so this code certainly reflects that as I convert to string and parse that for the current version.  If you are interested, here's the function that gets the current version of RStudio Server. Also if you have thoughts on a more direct root (seems like it could be done within the `XML` itself), let me know in the comments.
 
 ```{r, eval=FALSE}
 get_rstudio_server <- function(arch = c("amd64","i386","i686","x86_64"),
@@ -94,7 +94,7 @@ get_rstudio_server <- function(arch = c("amd64","i386","i686","x86_64"),
   deb_file <- deb_file[1]
   if(get){
     httr::GET(paste0(url,"/",deb_file),httr::write_disk(deb_file, overwrite = TRUE),
-              progress = TRUE)
+              httr::progress())
   }
   deb_file
 }
