@@ -7,13 +7,13 @@ editor_options:
   chunk_output_type: console
 ---
 
-The only post I got around to writing in 2017 was a single messy, evoloving set of notes on how to set up a Chromebook with R and RStudio.  This post is a reprise fo that one as well as post #1 in my effort to double my blog output from 2017 (I'm shooting for the stars on that one).  In this post I will detail how to set up RStudio Server in a crouton chroot and access it directly via Chrome without having to fire up a separate X11 window.
+The only post I got around to writing in 2017 was a single messy, evoloving set of notes on how to set up a Chromebook with R and RStudio.  This post is a reprise of that one as well as post #1 in my effort to double my blog output from 2017 (I'm shooting for the stars on that goal).  In this post I will detail how to set up RStudio Server in a crouton chroot and access it directly via Chrome without having to fire up a separate X11 window.
 
 ## Why RStudio Server?
 
-I have been succesfully using RStudio Desktop on my Chromebook all year and it has worked great.  But there have been a few issues that have kind of bothered me.  The top four of these are: opening web pages from RStudio, opening documents (PDF or Word), overall look and feel, and (the big one) not being able to pull out a source tab into a separate window.  None of these are deal breakers, but they did lead to a bit of a bumpy workflow at times.  I did not have these problems when accessing RStudio Server in the browser, but I don't want to have pay for servers to host RStudio Server nor do I want to require an internet connection to work.  I figured I could stand up RStudio Server in a chroot, access it directly in Chrome via `localhost` and have a much more native feeling experience.
+I have been succesfully using RStudio Desktop on my Chromebook all year and it has worked great.  But there have been a few issues that have kind of bothered me.  The top four of these are: opening web pages from RStudio, opening documents (PDF or Word), overall look and feel, and (the big one) not being able to pull out a source tab into a separate window.  None of these are deal breakers, but they did lead to a bit of a bumpy workflow at times.  I did not have these problems when accessing RStudio Server in the browser, but I don't want to pay for servers to host RStudio Server nor do I want to require an internet connection to work.  I figured I could stand up RStudio Server in a chroot, access it directly in Chrome via `localhost` and have a much more native feeling experience.
 
-The long and short of it is that it is pretty easy to get set up (if you are comfortable setting using crouton) and the overall experience is much improved with web pages and documents just opening up in new tabs as you'd expect.  The biggest improvement is now I can pull out those source tabs into a stand along window and taken advantage of my new dual screen set-up.
+The long and short of it is that it is pretty easy to get set up (if you are comfortable setting up crouton) and the overall experience is much improved with web pages and documents just opening up in new tabs as you'd expect.  The biggest improvement is now I can pull out those source tabs into a stand along window and taken advantage of my new dual screen set-up.
 
 ![Pic of dual screen set up]()
 
