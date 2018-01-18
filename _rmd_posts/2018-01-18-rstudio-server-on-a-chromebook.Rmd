@@ -11,11 +11,9 @@ The only post I got around to writing in 2017 was a single messy, evoloving set 
 
 ## Why RStudio Server?
 
-I have been succesfully using RStudio Desktop on my Chromebook all year and it has worked great.  But there have been a few issues that have kind of bothered me.  The top four of these are: opening web pages from RStudio, opening documents (PDF or Word), overall look and feel, and (the big one) not being able to pull out a source tab into a separate window.  None of these are deal breakers, but they did lead to a bit of a bumpy workflow at times.  I did not have these problems when accessing RStudio Server in the browser, but I don't want to pay for servers to host RStudio Server nor do I want to require an internet connection to work.  I figured I could stand up RStudio Server in a chroot, access it directly in Chrome via `localhost` and have a much more native feeling experience.
+I have been succesfully using RStudio Desktop on my Chromebook all year and it has worked great.  But there have been a few issues that have kind of bothered me.  The top four of these are: opening web pages from RStudio, opening documents (PDF or Word), overall look and feel, and (the big one) not being able to pull out a source tab into a separate window.  None of these are deal breakers, but they did lead to a bit of a bumpy workflow at times.  I did not have these problems when accessing RStudio Server in the browser, but I don't want to pay for servers to host RStudio Server nor do I want to require an internet connection to work.  I figured I could stand up RStudio Server in a chroot, access it directly in Chrome via `localhost` and have a much more native ChromeOS feeling experience.
 
-The long and short of it is that it is pretty easy to get set up (if you are comfortable setting up crouton) and the overall experience is much improved with web pages and documents just opening up in new tabs as you'd expect.  The biggest improvement is now I can pull out those source tabs into a stand along window and taken advantage of my new dual screen set-up.
-
-![Pic of dual screen set up]()
+The long and short of it is that it is pretty easy to get set up (if you are comfortable setting up crouton) and the overall experience is much improved with web pages and documents just opening up in new tabs as you'd expect.  The biggest improvement is now I can pull out those source tabs into a stand alone window and take advantage of the real estate of dual screens!
 
 So enough yammering, how do you do it?
 
@@ -23,7 +21,7 @@ So enough yammering, how do you do it?
 
 There are a lot of great resources for installing crouton so no need for me to go over that again.  In particular take a look at [Jenny Bryan's notes](https://github.com/jennybc/operation-chromebook) and the [crouton repository](https://github.com/dnschneid/crouton)
 
-For RStudio Server we don't need a full desktop so I decided to try this with a minimal install.  I chose core and cli-extra because, frankly, I didn't know the difference between the two and was just playing it safe.  You can choose to encrypt the chroot or not.  I didn't as I was playing around with auto-starting the chroot when Chrome OS starts ([see here for more on that](https://github.com/dnschneid/crouton/wiki/Autostart-crouton-chroot-at-ChromeOS-startup)).  Never got that part of it working right, but more on that later.
+For RStudio Server we don't need a full desktop so I decided to try this with a minimal install.  I chose core and cli-extra because, frankly, I didn't know the difference between the two and was just playing it safe.  You can choose to encrypt the chroot or not.  I didn't as I was playing around with auto-starting the chroot when Chrome OS starts ([see here for more on that](https://github.com/dnschneid/crouton/wiki/Autostart-crouton-chroot-at-ChromeOS-startup)).  Never got that part of it working right.
 
 Anyway, here is what I used to get my chroot set up.
 
@@ -109,13 +107,16 @@ Since this is RStudio server, we will be accessing it via Chrome and will need t
 sudo apt-get install nano
 sudo nano /etc/rc.local
 ```
-Then add `/sbin/iptables -I INPUT -p tcp --dport 8787 -j` to the end of the file
+Then add `/sbin/iptables -I INPUT -p tcp --dport 8787 -j` to the end of the file.  While I was editing the file, I also added `/sbin/iptables -I INPUT -p tcp --dport 4321 -j` to open up the port for Hugo.  I'm switching to `blogdown` for my website and wanted to be able to easily get at the preview versions.
 
 ## Get RStudio server running and access it
+
+Now you need to start up the server.
 
 ```
 sudo rstudio-server start
 ```
+
 Then in your browser you can access your RStudio Server with `localhost:8787`
 
 ## Draw the rest of f***ing owl
@@ -149,7 +150,7 @@ Then we can add LaTeX
 sudo apt-get install texlive texlive-latex-extra texlive-pictures
 ```
 
-In my experience this is close to the minimal install that will work with pandoc, R Markdown, etc.
+In my experience this is close to the minimal LaTeX install that will work with pandoc, R Markdown, etc.
 
 Lastly, some version control!
 
@@ -168,7 +169,6 @@ git config --global credential.helper 'cache --timeout=28800'
 
 There is a way to have your chroot automatically boot with Chrome OS and RStudio Server is supposed to start on boot.  For some reason, the server wasn't kicking off when I started up the chroot.  I didn't track this down so don't know if it will work.  Seems like with some hacking it should.  
 
-
 So given that I couldn't get everything starting automagicaly, the simplest solution I came up with is to:
 
 - start up my chromebook
@@ -178,18 +178,17 @@ So given that I couldn't get everything starting automagicaly, the simplest solu
 - type `sudo rstudio-server start`
 - type `localhost:8787` into a broswer tab.
 
-You will need to leave the tab your chroot is running in, otherwise it shuts down the chroot and your RStudio Server.
+You will need to leave open the tab your chroot is running in, otherwise it shuts down the chroot and your RStudio Server.
 
 The first time I get RStudio open I want to install all my usual suspects.  With this set up I had no issues installing the following
 
-```
+```{r,eval=FALSE}
 pkgs <- c("devtools","tidyverse","sf","raster","mapview","sp","rgdal","rgeos","roxygen2", "blogdown")
 
-lapply(pkgs, install.packages()
+lapply(pkgs, install.packages)
 ```
 
 I then install my own packages, just so I have them handy
-
 
 ## One little hiccup
 
