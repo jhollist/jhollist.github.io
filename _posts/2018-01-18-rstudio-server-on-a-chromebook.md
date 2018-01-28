@@ -48,9 +48,15 @@ for more on
 that](https://github.com/dnschneid/crouton/wiki/Autostart-crouton-chroot-at-ChromeOS-startup)).
 Never got that part of it working right.
 
+*update: 2018-01-28:* With just core and cli-extra you are missing a few
+things. Most notably for me, sound was not working correctly. And well,
+I need [Rasmus Bååth's beepr
+package](https://cran.r-project.org/package=beepr). Adding the
+`extension` target fixed this.
+
 Anyway, here is what I used to get my chroot set up.
 
-    sudo sh ~/Downloads/crouton -t core,cli-extra -n rstudio
+    sudo sh ~/Downloads/crouton -t core,cli-extra,extension -n rstudio
 
 Once that finishes (it takes a while), you can hop into the chroot with
 

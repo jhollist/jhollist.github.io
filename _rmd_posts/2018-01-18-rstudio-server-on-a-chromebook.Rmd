@@ -23,10 +23,12 @@ There are a lot of great resources for installing crouton so no need for me to g
 
 For RStudio Server we don't need a full desktop so I decided to try this with a minimal install.  I chose core and cli-extra because, frankly, I didn't know the difference between the two and was just playing it safe.  You can choose to encrypt the chroot or not.  I didn't as I was playing around with auto-starting the chroot when Chrome OS starts ([see here for more on that](https://github.com/dnschneid/crouton/wiki/Autostart-crouton-chroot-at-ChromeOS-startup)).  Never got that part of it working right.
 
+*update: 2018-01-28:* With just core and cli-extra you are missing a few things.  Most notably for me, sound was not working correctly.  And well, I need [Rasmus Bååth's beepr package](https://cran.r-project.org/package=beepr).  Adding the `extension` target fixed this.
+
 Anyway, here is what I used to get my chroot set up.
 
 ```
-sudo sh ~/Downloads/crouton -t core,cli-extra -n rstudio
+sudo sh ~/Downloads/crouton -t core,cli-extra,extension -n rstudio
 ```
 
 Once that finishes (it takes a while), you can hop into the chroot with
