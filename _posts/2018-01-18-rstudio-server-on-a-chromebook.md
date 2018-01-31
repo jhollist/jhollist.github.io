@@ -48,26 +48,26 @@ for more on
 that](https://github.com/dnschneid/crouton/wiki/Autostart-crouton-chroot-at-ChromeOS-startup)).
 Never got that part of it working right.
 
-*update: 2018-01-28:* With just core and cli-extra you are missing a few
+*update 2018-01-28:* With just core and cli-extra you are missing a few
 things. Most notably for me, sound was not working correctly. And well,
 I need [Rasmus Bååth's beepr
 package](https://cran.r-project.org/package=beepr). Adding the
 `extension` target fixed this.
 
+*update 2018-01-30:* While extension fixed the audio issue, I was still
+having problems with RStudio Server and R Session getting
+discombobulated. I tried a full desktop install and that appears to be
+working much better. So the idea of using the minimal install wasn't so
+great as some needed tooling was obviously missing. The rest of this
+post has been updated to reflect this.
+
 Anyway, here is what I used to get my chroot set up.
 
-    sudo sh ~/Downloads/crouton -t core,cli-extra,extension -n rstudio
+    sudo sh ~/Downloads/crouton -t xfce,extension -n rstudio
 
 Once that finishes (it takes a while), you can hop into the chroot with
 
     sudo enter-chroot
-
-    #or
-
-    sudo startcli
-
-Again, I am not sure if there is a downside (or upside) for using one
-over the other.
 
 Install R
 ---------
@@ -89,9 +89,9 @@ greatest version as of January 2018. I choose to delete the `.deb` just
 to keep the footprint of this thing to a minimum.
 
     sudo apt-get install gdebi-core
-    wget https://download2.rstudio.org/rstudio-server-1.1.383-amd64.deb
-    sudo gdebi rstudio-server-1.1.383-amd64.deb
-    rm rstudio-server-1.1.383-amd64.deb
+    wget https://download2.rstudio.org/rstudio-server-1.1.419-amd64.deb
+    sudo gdebi rstudio-server-1.1.419-amd64.deb
+    rm rstudio-server-1.1.419-amd64.deb
 
 As an aside, I got distracted when I started working on this section. I
 wanted to be able to download the current version of RStudio Server
@@ -150,6 +150,11 @@ the file. While I was editing the file, I also added
 `/sbin/iptables -I INPUT -p tcp --dport 4321 -j` to open up the port for
 Hugo. I'm switching to `blogdown` for my website and wanted to be able
 to easily get at the preview versions.
+
+*update 2018-01-30:* Actually forgot to do this with my test of the xfce
+desktop and I had no trouble access the server. So, apparently not
+needed. I'm keep the instructions here mostly so I have access to them
+if other things (i.e. hugo) do require them.
 
 Get RStudio server running and access it
 ----------------------------------------
@@ -217,12 +222,23 @@ simplest solution I came up with is to:
 -   start up my chromebook
 -   open crosh - ctrl-alt-t
 -   type `shell`
--   type `sudo startcli` or `sudo enter-chroot`
+-   type `sudo enter-chroot`
 -   type `sudo rstudio-server start`
 -   type `localhost:8787` into a broswer tab.
 
-You will need to leave open the tab your chroot is running in, otherwise
-it shuts down the chroot and your RStudio Server.
+Another way to go with this is set up a couple of aliases in
+`~/.bashrc`. You can do this with:
+
+-   at your crosh shell: `vi ~/.bashrc`
+-   add this to the file: `alias rstudio="sudo enter-chroot -n rstudio"`
+-   now type in the shell `. ~/.bashrc`.  
+-   type `rstudio` in the shell. Once you enter your password, you will
+    be in your chroot.
+-   enter some aliases for starting the server
+-   type `nano ~./bashrc`
+-   add this: `alias rstudio="sudo rstudio-server start"`
+-   type rstudio, enter password.
+-   type `localhost:8787` into a browser tab.
 
 The first time I get RStudio open I want to install all my usual
 suspects. With this set up I had no issues installing the following
@@ -249,6 +265,9 @@ If you do use projects this is a problem. I did find a very simple
 workaround for when this happens. All you need to do is start a new
 session. This can be done with the little red power button icon in the
 upper right corner of the window or with <File:Quit> Session.
+
+*update 2018-01-30:* Using the xfce desktop install seems to have fixed
+this issue. No need to unnecessarily start new session now!
 
 So, there you have it. RStudio on a chromebook via RStudio Server
 running in a chroot! I am now very happy with the set-up and fully
