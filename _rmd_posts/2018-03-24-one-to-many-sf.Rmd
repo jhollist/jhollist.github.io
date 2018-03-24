@@ -11,11 +11,39 @@ A common situation I have with my work is to have a single sample locations with
 
 [![tweet](figure/one_many_tweet.png)](https://twitter.com/jhollist/status/977254736163491842)
 
-The conversation quickly settled on the idea of a list column or nested data frame to store this information.  Also it was quickly noted that Twitter had served its purpose in this conversation and we relocated to the [r-spatial disucssion issue](https://github.com/r-spatial/discuss/issues/20).  And in the speed of the internet, we had, thanks to Edzer Pebesma, Michael Sumner, Sam Albers, and Jakub Nowosad, a solution.  So that the solution is slightly more discoverable I offered to capture it on my very widely read (joke) blog.
+The conversation quickly settled on the idea of a list column or nested data frame to store this information.  Also it was quickly noted that Twitter had served its purpose in this conversation and we relocated to the [r-spatial disucssion issue](https://github.com/r-spatial/discuss/issues/20).  And in the speed of the internet, we had, thanks to Edzer Pebesma, Michael Sumner, Sam Albers, and Jakub Nowosad, a solution.  So that the solution is slightly more discoverable I offered to capture it on my very widely read blog (a joke).
 
 ## An example: USEPA's National Wetland Condition Assessment Soil Data
 
+The example data I provided is the real life problem that precipitated my question.  I am working on a project that uses the USEPA's National Wetland Condition Assessment (NWCA) data, in particular the soil chemistry data.  We need two of the `.csv.` files, the one that holds information about the site and the one that has our soil chemistry soil profiles.  To get these we can:
+
+
+```{r}
+library(dplyr)
+library(sf)
+
+sites_url <- "https://www.epa.gov/sites/production/files/2016-10/nwca2011_siteinfo.csv"
+soil_chem_url <- "https://www.epa.gov/sites/production/files/2016-10/nwca2011_soilchem.csv"
+
+nwca_sites_sf <- read.csv(sites_url) %>%
+  st_as_sf(coords = c("ANALYSIS_LON", "ANALYSIS_LAT"),
+           crs = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs") %>%
+  filter(UID %in% c(2610,2611,2668,2669,2672,2750)) %>%
+  select(uid = UID, state = STATE)
+
+
+nwca_carbon <- read.csv(soil_chem_url) %>%
+  filter(VISIT_NO == 1) %>%
+  filter(UID %in% c(2610,2611,2668,2669,2672,2750)) %>%
+  select(uid = UID, state = STATE, depth = DEPTH, bulk_density = BULK_DEN_DBF,
+         tot_carbon = TOT_CARBON)
+```
+
+It is possible to join the two together and the `UID` (or `uid` as I prefer it) is listed multiple times with the POINT geometry just repeated. But given that the samples should be single points, I was wondering if there was a better way to store the data.  The most obvious solution was to list the profile data as a list column or as a nested data frame.  
+
 ## Edzer's Solution
+
+Edzer very graciously jumped in on the discussion with a solution that used a nested data frame.
 
 ## Some examples of using the nested data frames
 
