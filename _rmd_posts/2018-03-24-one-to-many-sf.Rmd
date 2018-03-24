@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Managing one-to-many data with simple feature points"
+tags: ['How to', 'sf','relational','tidyr','nested','data frame']
+categories: ['r']
+editor_options: 
+  chunk_output_type: console
+---
+
+A common situation I have with my work is to have a single sample locations with multiple measurements (i.e. one-to-many).  For example, soil cores taken at one location will have bulk density, carbon, etc. at the varying soil horizon depths.  Another example would be sampling the deep location of a lake and taking water quality profiles with dissolved oxygen, temperature, etc. measured every meter.  A typical solution for storing this would be a relational database with one table holding the site location information and another containing the multiple measurments (e.g. the depth profile).  Most of our data is not stored in relational databases but as multiple `.csv` files and thus my typical workflow involves reading those files in R and managing them as data frames.  With the release of `sf` this workflow also works really well for spatial data; however, it was not immediately clear to me how best to handle data like soil or water quality profiles.  Naturally, I asked Twitter to help out.  
+
+[![tweet](figure/one_many_tweet.png)](https://twitter.com/jhollist/status/977254736163491842)
+
+The conversation quickly settled on the idea of a list column or nested data frame to store this information.  Also it was quickly noted that Twitter had served its purpose in this conversation and we relocated to the [r-spatial disucssion issue](https://github.com/r-spatial/discuss/issues/20).  And in the speed of the internet, we had, thanks to Edzer Pebesma, Michael Sumner, Sam Albers, and Jakub Nowosad, a solution.  So that the solution is slightly more discoverable I offered to capture it on my very widely read (joke) blog.
+
+## An example: USEPA's National Wetland Condition Assessment Soil Data
+
+## Edzer's Solution
+
+## Some examples of using the nested data frames
+
+p.s. Looks like reached my goal of two posts in 2018! I'm awesome!  

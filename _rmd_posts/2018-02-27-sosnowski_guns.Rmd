@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Not my normal post: We aren't as good as we thought, eh Sen. Sosnowski?"
+tags: ['guns','Rhode Island','senate','Parkland','assualt weapon ban','high capacity']
+categories: ['politics']
+editor_options: 
+  chunk_output_type: console
+---
+
+So, this isn't my normal post about data science tools and approaches.  Instead, I am going to get much more political.  Since the Feb XX, 2018 shooting at Marjory Stoneman Douglas High School I have been more than humbled by the courage, activisim, and bad-assedness of the students.  As a freshly humbled old guy, I hope to do a little something locally to push the gun-safety dialogue forward in my local community.
