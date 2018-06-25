@@ -10,8 +10,8 @@ paginate_path:        /page:num
 
 # Setup
 title:            'Jeffrey W. Hollister'
-tagline:          'Site Archived June 2018: visit https://jwhollister.com for new site'
-description:      'Landscape Ecology, Lakes, GIS, R, and Open Science'
+tagline:          ''
+description:      'Site Archived June 2018: visit https://jwhollister.com for new site'
 url:              https://jhollist.github.io
 enforce_ssl:      jhollist.github.io  
 baseurl:          https://jhollist.github.io/
